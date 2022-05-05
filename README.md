@@ -1,4 +1,4 @@
-# Global Software Craftsmanship Community
+# 10X Software Engineering Community
 
 This is a place for software engineers who care about software quality.
 
