@@ -1,4 +1,4 @@
-# Software Engineering Community
+# Global Software Craftsmanship Community
 
 This is a place for software engineers who care about software quality.
 
