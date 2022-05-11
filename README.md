@@ -12,9 +12,9 @@ There aren't many people like you. People like you are dispersed across the worl
 
 10xE is a global community aiming to bring together professional software engineers who have invested in their own personal growth, who are aiming to achieve mastery, poeple who never stop learning, people who enjoy mentoring and coaching, spreading knowledge. People for whom software engineering is more than just a 9-5 job.
 
-The "inputs" are our discussions, knowledgesharing, collective knowledge: [Discussions](https://github.com/valentinacupac/community/discussions) Feel free to join the discussion.
+The "inputs" are our discussions, knowledgesharing, collective knowledge: [Discussions](https://github.com/valentinacupac/community/discussions). Feel free to join the discussion.
 
-The "outputs" are a synthesis of knowledge, both conceptual (theory and abstractions) and practical (implementation through code samples). Current code samples are [Banking Kata (Java)](https://github.com/valentinacupac/banking-kata-java) and [Banking Kata (.NET)](https://github.com/valentinacupac/banking-kata-dotnet) (however please feel free to update this seciton with links to other GitHub samples).
+The "outputs" are a synthesis of knowledge, both conceptual (theory and abstractions) and practical (implementation through code samples). Current code samples are [Banking Kata in Java](https://github.com/valentinacupac/banking-kata-java) and [Banking Kata in .NET](https://github.com/valentinacupac/banking-kata-dotnet). Feel free to update this seciton with links to other GitHub samples.
 
 This community is the first step towards bringing technical excellence back as the foundation.
 
