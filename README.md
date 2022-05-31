@@ -10,6 +10,10 @@ Our vision is to take the software development industry to the next level with t
 - Knowledge Sharing
 - Continuous Improvement
 
+## Meetups
+
+[Join the Tech Excellence Meetup Group](https://www.meetup.com/techexcellence)
+
 ## Community
 
 This is a place for software engineers who care about software quality. You are motivated by clean code - it's not enough to make something work, you want to implement it well. You set high expectations for yourself and your team. 
