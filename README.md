@@ -1,4 +1,4 @@
-# TechExcellence
+# Tech Excellence
 
 ## Vision
 
