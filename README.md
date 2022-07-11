@@ -12,7 +12,11 @@ Our vision is to take the software development industry to the next level with t
 
 ## Meetups
 
-[Join the Tech Excellence Meetup Group](https://www.meetup.com/techexcellence)
+[Meetup](https://www.meetup.com/techexcellence)
+[YouTube](https://www.youtube.com/c/TechExcellence)
+[LinkedIn](https://www.linkedin.com/company/techexcellenceio)
+[Twitter](https://twitter.com/techexcellence_)
+[GitHub](https://github.com/techexcellenceio)
 
 ## Community
 
