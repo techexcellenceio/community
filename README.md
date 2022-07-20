@@ -14,8 +14,8 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Event Calendar for 2022
 
-- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0) (Valentina Cupać)
-- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I) (Yoan Thirion and Guillaume Faas)
+- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0) ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/))
+- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I) ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/) and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/))
 - 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ) (Michele Sollecito)
 - 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ) (Michaël Azerhad)
 - 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4) (Urs Enzler)
