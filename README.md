@@ -19,8 +19,17 @@ Our vision is to raise the bar of technical excellence across the world.
 - 20 Jul 2022. TDD and other Agile practices: A Systemic Perspective (Michele Sollecito)
 - 03 Aug 2022. If you refactor after each green TDD step, you’ll fail! (Michaël Azerhad)
 - 16 Aug 2022. TDD Perspectives: Trade-offs and impact of functional programming (Urs Enzler)
-
-
+- 31 Aug 2022. Pierre Criulanscy
+- 07 Sep 2022. Ivan Paulovich
+- 14 Sep 2022. Alex Bunardzic
+- 20 Sep 2022. Daniel Moka
+- 28 Sep 2022. Bryan Finster
+- 05 Oct 2022. Rodislav Moldovan and Adrien Muller
+- 12 Oct 2022. Bas Dijkstra
+- 19 Oct 2022. Peter Schuler
+- 03 Nov 2022. Marco Consolaro and Alessandro Di Gioia
+- 23 Nov 2022. Alexandre Cuva
+- 30 Nov 2022. Alexander Pushkarev
 
 
 <!--
