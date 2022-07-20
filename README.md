@@ -6,7 +6,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Our Community
 
-- Join our [Meetup Group](https://www.meetup.com/techexcellence) so that you can register for our events.
+- Join our [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} so that you can register for our events.
 - Watch our [YouTube](https://www.youtube.com/c/TechExcellence) recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
 - Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio) to get notifications about our events.
 - Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
@@ -42,6 +42,10 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Our Sponsors
 
 Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/)
+
+## Ideas
+
+Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
 
 
 <!--
