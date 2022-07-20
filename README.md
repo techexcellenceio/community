@@ -16,9 +16,9 @@ Our vision is to raise the bar of technical excellence across the world.
 
 - 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0) ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/))
 - 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I) ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/) and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/))
-- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ) (Michele Sollecito)
-- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ) (Michaël Azerhad)
-- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4) (Urs Enzler)
+- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ) ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/))
+- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ) ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/))
+- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4) ([Urs Enzler](https://www.linkedin.com/in/ursenzler/))
 - 31 Aug 2022. Pierre Criulanscy
 - 07 Sep 2022. Ivan Paulovich
 - 14 Sep 2022. Alex Bunardzic
