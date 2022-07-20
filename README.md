@@ -4,7 +4,7 @@
 
 Our vision is to raise the bar of technical excellence across the world.
 
-## Join on Community
+## Our Community
 
 - Join our [Meetup Group](https://www.meetup.com/techexcellence) so that you can register for our events.
 - Watch our [YouTube](https://www.youtube.com/c/TechExcellence) recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
@@ -12,7 +12,7 @@ Our vision is to raise the bar of technical excellence across the world.
 - Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
 - Follow us on [GitHub](https://github.com/techexcellenceio) and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
 
-## Joining an event
+## Event Registration
 
 1. Join an event [Meetup Group](https://www.meetup.com/techexcellence) and add it to your calendar.
 2. On the event page, in the section "Online event" you will see a YouTube link, click on it when the event starts.
@@ -20,7 +20,7 @@ Our vision is to raise the bar of technical excellence across the world.
 4. During the meetup, you can ask any questions via YouTube Live Chat.
 5. We generally have 1hr session with the speaker, followed by 30 min Q&A whereby some of the questions from YouTube Live Chat will be displayed and the speaker will be able to respond to them.
 
-## Event Calendar for 2022
+## Meetup Calendar for 2022
 
 - 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0) ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/))
 - 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I) ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/) and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/))
@@ -38,6 +38,10 @@ Our vision is to raise the bar of technical excellence across the world.
 - 03 Nov 2022. Marco Consolaro and Alessandro Di Gioia
 - 23 Nov 2022. Alexandre Cuva
 - 30 Nov 2022. Alexander Pushkarev
+
+## Our Sponsors
+
+Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/)
 
 
 <!--
