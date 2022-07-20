@@ -12,6 +12,13 @@ Our vision is to raise the bar of technical excellence across the world.
 - Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
 - Follow us on [GitHub](https://github.com/techexcellenceio) and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
 
+## Event Calendar for 2022
+
+- 30 Jun 2022. TDD in Hexagonal Architecture and Clean Architecture (Valentina Cupać)
+- 06 Jul 2022. Xtrem TDD by Example (Yoan Thirion and Guillaume Faas)
+- 20 Jul 2022. TDD and other Agile practices: A Systemic Perspective (Michele Sollecito)
+- 03 Aug 2022. If you refactor after each green TDD step, you’ll fail! (Michaël Azerhad)
+- 16 Aug 2022. TDD Perspectives: Trade-offs and impact of functional programming (Urs Enzler)
 
 
 
