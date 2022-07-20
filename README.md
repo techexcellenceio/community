@@ -2,7 +2,21 @@
 
 ## Vision
 
-Our vision is to take the software development industry to the next level with technical excellence.
+Our vision is to raise the bar of technical excellence across the world.
+
+## Join on Community
+
+- Join our [Meetup Group](https://www.meetup.com/techexcellence) so that you can register for our events.
+- Watch recordings from our meetups on [YouTube](https://www.youtube.com/c/TechExcellence). Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
+- Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio) to get notifications about our events.
+- Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
+- Follow us on [GitHub](https://github.com/techexcellenceio) and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
+
+
+
+
+
+<!--
 
 ## Values
 
@@ -10,13 +24,7 @@ Our vision is to take the software development industry to the next level with t
 - Knowledge Sharing
 - Continuous Improvement
 
-## Meetups
 
-- [Meetup](https://www.meetup.com/techexcellence)
-- [YouTube](https://www.youtube.com/c/TechExcellence)
-- [LinkedIn](https://www.linkedin.com/company/techexcellenceio)
-- [Twitter](https://twitter.com/techexcellence_)
-- [GitHub](https://github.com/techexcellenceio)
 
 ## Community
 
@@ -45,5 +53,7 @@ This community is the first step towards bringing technical excellence back as t
 To contribute to questions, ideas, knowledge exchange: start a discussion or join an existing discussion [Discussions](https://github.com/valentinacupac/community/discussions).
 
 To contribute to the text of this website, you can [fork](https://github.com/valentinacupac/community/fork) this repository and make a pull request.
+
+-->
 
 
