@@ -7,10 +7,18 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Join on Community
 
 - Join our [Meetup Group](https://www.meetup.com/techexcellence) so that you can register for our events.
-- Watch recordings from our meetups on [YouTube](https://www.youtube.com/c/TechExcellence). Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
+- Watch our [YouTube](https://www.youtube.com/c/TechExcellence) recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
 - Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio) to get notifications about our events.
 - Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
 - Follow us on [GitHub](https://github.com/techexcellenceio) and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
+
+## Joining an event
+
+1. Join an event [Meetup Group](https://www.meetup.com/techexcellence) and add it to your calendar.
+2. On the event page, in the section "Online event" you will see a YouTube link, click on it when the event starts.
+3. The meetup is live streamed on YouTube.
+4. During the meetup, you can ask any questions via YouTube Live Chat.
+5. We generally have 1hr session with the speaker, followed by 30 min Q&A whereby some of the questions from YouTube Live Chat will be displayed and the speaker will be able to respond to them.
 
 ## Event Calendar for 2022
 
