@@ -7,14 +7,14 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Our Community
 
 - Join our [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} so that you can register for our events.
-- Watch our [YouTube](https://www.youtube.com/c/TechExcellence) recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
-- Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio) to get notifications about our events.
-- Follow us on [Twitter](https://twitter.com/techexcellence_) to get notifications about our events.
-- Follow us on [GitHub](https://github.com/techexcellenceio) and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
+- Watch our [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
+- Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} to get notifications about our events.
+- Follow us on [Twitter](https://twitter.com/techexcellence_){:target="_blank"} to get notifications about our events.
+- Follow us on [GitHub](https://github.com/techexcellenceio){:target="_blank"} and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
 
 ## Event Registration
 
-1. Join an event [Meetup Group](https://www.meetup.com/techexcellence) and add it to your calendar.
+1. Join an event [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} and add it to your calendar.
 2. On the event page, in the section "Online event" you will see a YouTube link, click on it when the event starts.
 3. The meetup is live streamed on YouTube.
 4. During the meetup, you can ask any questions via YouTube Live Chat.
@@ -22,11 +22,11 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0) ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/))
-- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I) ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/) and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/))
-- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ) ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/))
-- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ) ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/))
-- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4) ([Urs Enzler](https://www.linkedin.com/in/ursenzler/))
+- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"})
+- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"} ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"} and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"})
+- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"} ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"})
+- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"} ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"})
+- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"} ([Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"})
 - 31 Aug 2022. Pierre Criulanscy
 - 07 Sep 2022. Ivan Paulovich
 - 14 Sep 2022. Alex Bunardzic
@@ -41,16 +41,16 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Our Sponsors
 
-Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/)
+Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target="_blank"}
 
 Our Organizers
 
-- [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/), Founder & Organizer @ Tech Excellence
-- [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/), Designer @ Tech Excellence
+- [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
+- [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/){:target="_blank"}, Designer @ Tech Excellence
 
 ## Ideas
 
-Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
+Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
 
 
 <!--
