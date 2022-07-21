@@ -43,6 +43,11 @@ Our vision is to raise the bar of technical excellence across the world.
 
 Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/)
 
+Our Organizers
+
+- [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/), Founder & Organizer @ Tech Excellence
+- [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/), Designer @ Tech Excellence
+
 ## Ideas
 
 Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/techexcellence/discussions)
