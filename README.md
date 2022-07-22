@@ -36,6 +36,7 @@ Our vision is to raise the bar of technical excellence across the world.
 - 12 Oct 2022. Bas Dijkstra
 - 19 Oct 2022. Peter Schuler
 - 03 Nov 2022. Marco Consolaro and Alessandro Di Gioia
+- 16 Nov 2022. Ariel Pérez
 - 23 Nov 2022. Alexandre Cuva
 - 30 Nov 2022. Alexander Pushkarev
 
