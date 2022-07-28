@@ -27,18 +27,19 @@ Our vision is to raise the bar of technical excellence across the world.
 - 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"} ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"})
 - 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"} ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"})
 - 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"} ([Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"})
-- 31 Aug 2022. Pierre Criulanscy
-- 07 Sep 2022. Ivan Paulovich
-- 14 Sep 2022. Alex Bunardzic
-- 20 Sep 2022. Daniel Moka
-- 28 Sep 2022. Bryan Finster
-- 05 Oct 2022. Rodislav Moldovan and Adrien Muller
-- 12 Oct 2022. Bas Dijkstra
-- 19 Oct 2022. Peter Schuler
-- 03 Nov 2022. Marco Consolaro and Alessandro Di Gioia
-- 16 Nov 2022. Ariel Pérez
-- 23 Nov 2022. Alexandre Cuva
-- 30 Nov 2022. Alexander Pushkarev
+- 31 Aug 2022. [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/)
+- 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/)
+- 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/)
+- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/)
+- 28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/)
+- 05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav) and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/)
+- 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/)
+- 19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/)
+- 26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/)
+- 03 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/) and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/)
+- 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/)
+- 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/)
+- 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/)
 
 ## Our Sponsors
 
