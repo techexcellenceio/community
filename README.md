@@ -22,24 +22,24 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-- 30 Jun 2022. [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"} - [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} 
+- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"})
 - 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"} ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"} and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"})
 - 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"} ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"})
 - 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"} ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"})
 - 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"} ([Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"})
-- 31 Aug 2022. [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/)
-- 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/)
-- 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/)
-- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/)
-- 28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/)
-- 05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav) and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/)
-- 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/)
-- 19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/)
-- 26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/)
-- 03 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/) and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/)
-- 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/)
-- 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/)
-- 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/)
+- 31 Aug 2022. [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"} [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}
+- 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}
+- 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}
+- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}
+- 28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}
+- 05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"} and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}
+- 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}
+- 19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}
+- 26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}
+- 03 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"} and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}
+- 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}
+- 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}
+- 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}
 
 ## Our Sponsors
 
