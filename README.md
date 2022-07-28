@@ -36,7 +36,8 @@ Our vision is to raise the bar of technical excellence across the world.
 - 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}
 - 19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}
 - 26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}
-- 03 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"} and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}
+- 03 Nov 2022. [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}
+- 09 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"} and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}
 - 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}
 - 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}
 - 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}
