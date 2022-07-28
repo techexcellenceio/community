@@ -41,6 +41,8 @@ Our vision is to raise the bar of technical excellence across the world.
 - 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}
 - 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}
 - 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}
+- 07 Dec 2022.
+- 14 Dec 2022.
 
 ## Our Sponsors
 
