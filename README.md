@@ -56,7 +56,7 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank, *The Randstad, Netherlands*
 
 26 Oct 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning LLC, *San Francisco Bay Area, United States*
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning, LLC, *San Francisco Bay Area, United States*
 
 03 Nov 2022. Tech Excellence Meetup Event
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility, *Zurich, Switzerland*
@@ -75,10 +75,10 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor, *London, United Kingdom*
 
 07 Dec 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/), Software Developer @ Yelp, *Canada*
 
 14 Dec 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ken Pugh](https://www.linkedin.com/in/kenpugh/), Principal Consultant @ Ken Pugh, Inc., *North Carolina, United States*
 
 ## Our Sponsors
 
