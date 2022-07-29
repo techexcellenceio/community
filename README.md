@@ -20,6 +20,7 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
 
 
+![Valentina-C](https://www.techexcellence.io/Mask%20group.png){: style="float: left"} 
 
 
 **06 Jul 2022.** [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"}
