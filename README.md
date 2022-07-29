@@ -42,7 +42,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-/* VALENTINA */
+<!-- VALENTINA -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100">
   <div>
@@ -54,7 +54,7 @@ Our vision is to raise the bar of technical excellence across the world.
   </div>
 </div>
 
-/* YOAN & GUILLAUME */
+<!-- YOAN & GUILLAUME -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/yoan-thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/guillaume-faas.png" alt="guillaume-faas" class="profile-img" width="100" height="100">
