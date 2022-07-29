@@ -23,7 +23,7 @@
 	margin-right: 2rem;
 	color: #43cece;
   }
-  p {
+  .markdown-body p, p {
 	margin-bottom: 0;
   }
 </style>
