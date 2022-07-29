@@ -14,6 +14,8 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
+<img height="100" width="100" src="https://atomiv.org/img/about/team/valentina-cupac.jpg?v=5" alt="Valentina Cupać" class="img-fluid w-100">
+
 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}]
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
 
