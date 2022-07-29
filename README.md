@@ -1,3 +1,6 @@
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+
 <style>
   .img-container {
     display: flex !important;
