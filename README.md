@@ -10,8 +10,12 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-**30 Jun 2022.** [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}
+
+![image](https://www.linkedin.com/in/valentinacupac/overlay/photo/){: style="float: left"} **30 Jun 2022.** [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}
 <br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
+
+
+
 
 **06 Jul 2022.** [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"}
 <br/>[Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com, *Luxembourg*
