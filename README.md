@@ -28,7 +28,7 @@
   }
   
   
-  	@media (min-width: 500px} {
+  	@media (min-width: 500px) {
 		.fab {
 			color: #1d1e1e;
 		}
