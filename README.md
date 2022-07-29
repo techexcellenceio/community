@@ -43,7 +43,7 @@
 	margin-bottom: 1rem;
 	color: #43cece;
   }	
-	
+
   .markdown-body p, p {
 	margin-bottom: 0;
   }
@@ -350,7 +350,7 @@
 
 
 <!-- KEN -->
-<div class="img-container">
+<div class="img-container" style="margin-bottom: 3rem">
   <img src="https://www.techexcellence.io/img/ken-pugh.png" alt="ken-pugh" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">14 Dec 2022</p>
@@ -376,7 +376,7 @@ Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target=
 
 ## FAQ
 
-**Where can I join?**
+### Where can I join?
 
 - Join our [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} so that you can register for our events.
 - Watch our [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
@@ -384,11 +384,11 @@ Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target=
 - Follow us on [Twitter](https://twitter.com/techexcellence_){:target="_blank"} to get notifications about our events.
 - Follow us on [GitHub](https://github.com/techexcellenceio){:target="_blank"} and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
 
-**Where do I register for the events?**
+### Where do I register for the events?
 
 Join our meetup group [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"}
 
-**Where do I watch the meetup?**
+### Where do I watch the meetup?
 
 1. Open up the event on meetup.
 2. In the section "Online event" you will see a YouTube link, click on it when the event starts.
