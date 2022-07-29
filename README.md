@@ -4,17 +4,9 @@
 
 Our vision is to raise the bar of technical excellence across the world.
 
-## Our Community
-
-- Join our [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} so that you can register for our events.
-- Watch our [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
-- Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} to get notifications about our events.
-- Follow us on [Twitter](https://twitter.com/techexcellence_){:target="_blank"} to get notifications about our events.
-- Follow us on [GitHub](https://github.com/techexcellenceio){:target="_blank"} and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
+[Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} | [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} | [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} | [Twitter](https://twitter.com/techexcellence_){:target="_blank"} | [GitHub](https://github.com/techexcellenceio){:target="_blank"} | [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
 
 ## Meetup Calendar for 2022
-
-<img height="100" width="100" src="https://atomiv.org/img/about/team/valentina-cupac.jpg?v=5" alt="Valentina Cupać" class="img-fluid w-100">
 
 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}]
 <br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
@@ -93,21 +85,29 @@ Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target=
 
 ## FAQ
 
-## Where do I register for the events?
+**Where can I join?**
+
+- Join our [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} so that you can register for our events.
+- Watch our [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} recordings. Our meetups are live streamed on YouTube so you can an opportunity to ask our speakers questions via live chat on YouTube.
+- Follow us on [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} to get notifications about our events.
+- Follow us on [Twitter](https://twitter.com/techexcellence_){:target="_blank"} to get notifications about our events.
+- Follow us on [GitHub](https://github.com/techexcellenceio){:target="_blank"} and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
+
+**Where do I register for the events?**
 
 Join our meetup group [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"}
 
-## Where do I watch the meetup?
+**Where do I watch the meetup?**
 
 1. Open up the event on meetup.
 2. In the section "Online event" you will see a YouTube link, click on it when the event starts.
 3. The meetup is live streamed on YouTube.
 
-## How do I ask questions?
+**How do I ask questions?**
 
 Our meetups are livestreamed on YouTube. So you can ask any questions via YouTube Live Chat. In general, we firstly have a 1hr session with the speaker (you can write questions in your chat at any time), and then we have a 30min Q&A session whereby we will choose a subset of questions from live chat so that it can be answered by the speaker.
 
-## Can I re-watch the meetup on YouTube?
+**Can I re-watch the meetup on YouTube?**
 
 Yes, our events are generally recorded on [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"}. 
 
