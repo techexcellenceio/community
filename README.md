@@ -8,6 +8,10 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+  .p-date {
+	margin-bottom: .25rem;
+	font-weight: bold;
+  }
 </style>
 
 
@@ -24,13 +28,155 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
+//VALENTINA
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="V-C" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100">
   <div>
-    <p style="margin-bottom: .25rem"><b>30 Jun 2022</b></p>
+    <p class="p-date">30 Jun 2022</p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
     <p><a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>,
-      Founder &amp; Technical Coach @ Optivem, <em>Belgrade, Serbia</em>
+      Founder & Technical Coach @ Optivem, <em>Belgrade, Serbia</em>
+    </p>
+  </div>
+</div>
+
+//YOAN & GUILLAUME
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/yoan-thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/guillaume-faas.png" alt="guillaume-faas" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">06 Jul 2022</p>
+    <a href="https://www.youtube.com/watch?v=yxO7YHkB83I" target="_blank">Xtrem TDD by Example</a>
+    <p><a href="https://www.linkedin.com/in/yoanthirion/" target="_blank">Yoan Thirion</a>,
+      Agile Technical Coach @yoan-thirion.com, <em>Luxembourg</em>
+    </p>
+	<p><a href="https://www.linkedin.com/in/guillaumefaas/" target="_blank">Guillaume Faas</a>,
+      Software Craftsmanship Leader & .Net Expert @Squaremiled S.A., <em>Luxembourg</em>
+    </p>
+  </div>
+</div>
+
+
+// MICHELE
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/michele-sollecito.png" alt="michele-sollecito" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">20 Jul 2022</p>
+    <a href="https://www.youtube.com/watch?v=a3jUXRJRddQ" target="_blank">TDD and other Agile practices: A Systemic Perspective</a>
+    <p><a href="https://www.linkedin.com/in/michelesollecito/" target="_blank">Michele Sollecito</a>,
+      Head Of Architecture @ JP Morgan, <em>London, United Kingdom</em>
+    </p>
+  </div>
+</div>
+
+
+// MICHAEL
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/michael-azerhad.png" alt="michael-azerhad" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">03 Aug 2022</p>
+    <a href="https://www.youtube.com/watch?v=Vi_FtRXopdQ" target="_blank">If you refactor after each green TDD step, you’ll fail!</a>
+    <p><a href="https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/" target="_blank">Michaël Azerhad</a>,
+      Founder @ WealCome, <em>Paris, France</em>
+    </p>
+  </div>
+</div>
+
+
+// URS
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/urs-enzler.png" alt="urs-enzler" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">16 Aug 2022</p>
+    <a href="hhttps://www.youtube.com/watch?v=JcKLqX8wuR4" target="_blank">TDD Perspectives: Trade-offs and impact of functional programming</a>
+    <p><a href="https://www.linkedin.com/in/ursenzler/" target="_blank">Urs Enzler</a>,
+      Software Architect @ Calitime AG, <em>Zug, Switzerland</em>
+    </p>
+  </div>
+</div>
+
+
+
+// PIERRE
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/pierre-criulanscy.png" alt="pierre-criulanscy" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">31 Aug 2022</p>
+    <a href="https://www.youtube.com/watch?v=z58ckvPYVAI" target="_blank">TDD: How to Write Maintainable Tests as Executable Specifications</a>
+    <p><a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">Pierre Criulanscy</a>,
+      Trainer & Consultant @ CraftAcademy, <em>Montreuil, France</em>
+    </p>
+  </div>
+</div>
+
+
+
+// IVAN
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/ivan-paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">07 Sep 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/ivanpaulovich/" target="_blank">Ivan Paulovich</a>,
+      Engineering Manager @ Lunar, <em>Stockholm County, Sweden</em>
+    </p>
+  </div>
+</div>
+
+
+
+// ALEX
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/alex-bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">14 Sep 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>,
+      Director of Automation @ digitalexprt.com, <em>Vancouver, Canada</em>
+    </p>
+  </div>
+</div>
+
+
+// DANIEL
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/daniel-moka.png" alt="daniel-moka" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">20 Sep 2022</p>
+    <a target="_blank"> Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
+      Software Craftsman, <em>France</em>
+    </p>
+  </div>
+</div>
+
+
+// BRYAN
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/bryan-finster.png" alt="bryan-finster" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">28 Sep 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/bryan-finster/" target="_blank">Bryan Finster</a>,
+      Value Stream Architect @ Defense Unicorns, <em>Arkansas, United States</em>
+    </p>
+  </div>
+</div>
+
+
+
+// RODISLAV + ADRIEN
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/rodislav-moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/adrien-uller.png" alt="adrien-uller" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">05 Oct 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/rodislav" target="_blank">Rodislav Moldovan</a>,
+      Software Craftsman @ BIL Luxembourg, <em>Luxembourg</em>
+    </p>
+	<p><a href="https://www.linkedin.com/in/adrien-muller-566373a/" target="_blank">Adrien Muller</a>,
+      Technical Coach & Software Craftsman @ BIL, <em>Luxembourg</em>
     </p>
   </div>
 </div>
@@ -38,68 +184,150 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-**06 Jul 2022.** [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"}
-<br/>[Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com, *Luxembourg*
-<br/>[Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}, Software Craftsmanship Leader & .Net Expert @Squaremiled S.A., *Luxembourg*
+// BAS
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/bas-dijkstra.png" alt="bas-dijkstra" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">12 Oct 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/basdijkstra/" target="_blank">Bas Dijkstra</a>,
+      Director @ Inspired Academy, <em>Amersfoort, Netherlands</em>
+    </p>
+  </div>
+</div>
 
-**20 Jul 2022.** [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"}
-<br/>[Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}, Head Of Architecture @ JP Morgan, *London, United Kingdom*
 
-**03 Aug 2022.** [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"}
-<br/>[Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}, Founder @ WealCome, *Paris, France*
 
-**16 Aug 2022.** [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"}
-<br/>[Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG, *Zug, Switzerland*
 
-**31 Aug 2022.** [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"}
-<br/>[Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy, *Montreuil, France*
+// PETER
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/pete-schuler.png" alt="pete-schuler" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">19 Oct 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/peterschuler/" target="_blank">Peter Schuler</a>,
+      Senior Java Developer @ Rabobank, <em>The Randstad, Netherlands</em>
+    </p>
+  </div>
+</div>
 
-**07 Sep 2022.** Tech Excellence Meetup Event
-<br/>[Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar, *Stockholm County, Sweden*
 
-**14 Sep 2022.** Tech Excellence Meetup Event
-<br/>[Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com, *Vancouver, Canada*
+// TED
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/ted-m-young.png" alt="ted-m-young" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">26 Oct 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/tedmyoung/" target="_blank">Ted M. Young</a>,
+      Principal Java Trainer & Coding Coach @ Spiral Learning, LLC, <em>San Francisco Bay Area, United States</em>
+    </p>
+  </div>
+</div>
 
-**20 Sep 2022.** Tech Excellence Meetup Event
-<br/>[Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman, *France*
 
-**28 Sep 2022.** Tech Excellence Meetup Event
-<br/>[Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns, *Arkansas, United States*
 
-**05 Oct 2022.** Tech Excellence Meetup Event
-<br/>[Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, *Luxembourg*
-<br/>[Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL, *Luxembourg*
+// PETER GFADER
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/peter-gfader.png" alt="peter-gfader" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">03 Nov 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/petergfader/" target="_blank">Peter Gfader</a>,
+      Founder @ Beyond Agility, <em>Zurich, Switzerland</em>
+    </p>
+  </div>
+</div>
 
-**12 Oct 2022.** Tech Excellence Meetup Event
-<br/>[Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy, *Amersfoort, Netherlands*
 
-**19 Oct 2022.** Tech Excellence Meetup Event
-<br/>[Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank, *The Randstad, Netherlands*
 
-**26 Oct 2022.** Tech Excellence Meetup Event
-<br/>[Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning, LLC, *San Francisco Bay Area, United States*
+// MARCO + ALESSANDRO
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/marco-consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/alessandro-di-gioia.png" alt="alessandro-di-gioia" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">09 Nov 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/consolaro/" target="_blank">Marco Consolaro</a>,
+      Co-Founder and Technical Coach @ Alcor Academy, <em>London, United Kingdom</em>
+    </p>
+	<p><a href="https://www.linkedin.com/in/alessandro-di-gioia/" target="_blank">Alessandro Di Gioia</a>,
+      Co-founder @ Alcor Academy, <em>London, United Kingdom</em>
+    </p>
+  </div>
+</div>
 
-**03 Nov 2022.** Tech Excellence Meetup Event
-<br/>[Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility, *Zurich, Switzerland*
 
-**09 Nov 2022.** Tech Excellence Meetup Event
-<br/>[Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"}, Co-Founder and Technical Coach @ Alcor Academy, *London, United Kingdom*
-<br/>[Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}, Co-founder @ Alcor Academy, *London, United Kingdom*
 
-**16 Nov 2022.** Tech Excellence Meetup Event
-<br/>[Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}, previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position), *New York, United States*
+// ARIEL
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/ariel-perez.png" alt="ariel-perez" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">16 Nov 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/arielxperez/" target="_blank">Ariel Pérez</a>,
+      previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position), <em>New York, United States</em>
+    </p>
+  </div>
+</div>
 
-**23 Nov 2022.** Tech Excellence Meetup Event
-<br/>[Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}, Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl, *Nyon, Switzerland*
 
-**30 Nov 2022.** Tech Excellence Meetup Event
-<br/>[Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor, *London, United Kingdom*
 
-**07 Dec 2022.** Tech Excellence Meetup Event
-<br/>[Jacqueline Bilston](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/), Software Developer @ Yelp, *Canada*
+// ALEXANDRE CUVA
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/alexandre-cuva.png" alt="alexandre-cuva" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">23 Nov 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/cuvaalex/" target="_blank">Alexandre Cuva</a>,
+      Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl, <em>Nyon, Switzerland</em>
+    </p>
+  </div>
+</div>
 
-**14 Dec 2022.** Tech Excellence Meetup Event
-<br/>[Ken Pugh](https://www.linkedin.com/in/kenpugh/), Principal Consultant @ Ken Pugh, Inc., *North Carolina, United States*
+
+
+// ALEXANDER PUSHKAREV
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/alexander-pushkarev.png" alt="alexander-pushkarev" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">30 Nov 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/alexpushkarev/" target="_blank">Alexander Pushkarev</a>,
+      Senior Software Engineer @ TripAdvisor, <em>London, United Kingdom</em>
+    </p>
+  </div>
+</div>
+
+
+
+// JACQUELINE
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/jacqueline-bilston.png" alt="jacqueline-bilston" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">07 Dec 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/" target="_blank">Jacqueline Bilston</a>,
+      Software Developer @ Yelp, <em>Canada</em>
+    </p>
+  </div>
+</div>
+
+
+
+// KEN
+<div class="img-container">
+  <img src="https://www.techexcellence.io/img/ken-pugh.png" alt="ken-pugh" class="profile-img" width="100" height="100">
+  <div>
+    <p class="p-date">14 Dec 2022</p>
+    <a target="_blank">Tech Excellence Meetup Event</a>
+    <p><a href="https://www.linkedin.com/in/kenpugh/" target="_blank">Ken Pugh</a>,
+      Principal Consultant @ Ken Pugh, Inc., <em>North Carolina, United States</em>
+    </p>
+  </div>
+</div>
+
+
+
 
 ## Our Sponsors
 
