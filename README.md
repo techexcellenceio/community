@@ -22,12 +22,12 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} ([Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}), Technical Coach & Founder @ Optivem
-- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"} ([Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}), Software Craftsmanship Leader & .Net Expert @Squaremiled S.A.
-- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"} ([Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}), Head Of Architecture @ JP Morgan
-- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"} ([Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}), Founder @ WealCome
-- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"} ([Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}),Software Architect @ Calitime AG
-- 31 Aug 2022. [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"} ([Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}), Trainer & Consultant @ CraftAcademy
+- 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Technical Coach & Founder @ Optivem
+- 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"} - [Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com and [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}, Software Craftsmanship Leader & .Net Expert @Squaremiled S.A.
+- 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"} - [Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}, Head Of Architecture @ JP Morgan
+- 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"} - [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}, Founder @ WealCome
+- 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"} - [Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG
+- 31 Aug 2022. [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"} - [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy
 - 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}
 - 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}
 - 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}
