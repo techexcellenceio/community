@@ -25,7 +25,7 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Meetup Calendar for 2022
 
 <div class="img-container">
-  <img src="https://www.techexcellence.io/Mask%20group.png" alt="V-C" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="V-C" class="profile-img" width="100" height="100">
   <div>
     <p style="margin-bottom: .25rem"><b>30 Jun 2022</b></p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
