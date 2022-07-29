@@ -11,7 +11,12 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Meetup Calendar for 2022
 
 
-![image](https://www.linkedin.com/in/valentinacupac/overlay/photo/){: style="float: left"} **30 Jun 2022.** [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}
+![V-C]([https://www.linkedin.com/in/valentinacupac/overlay/photo/](https://github.com/techexcellenceio/techexcellence/blob/main/Mask%20group.png)){: style="float: left"} 
+
+
+
+
+**30 Jun 2022.** [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}
 <br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
 
 
