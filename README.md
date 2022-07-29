@@ -394,11 +394,11 @@ Join our meetup group [Meetup Group](https://www.meetup.com/techexcellence){:tar
 2. In the section "Online event" you will see a YouTube link, click on it when the event starts.
 3. The meetup is live streamed on YouTube.
 
-**How do I ask questions?**
+### How do I ask questions?
 
 Our meetups are livestreamed on YouTube. So you can ask any questions via YouTube Live Chat. In general, we firstly have a 1hr session with the speaker (you can write questions in your chat at any time), and then we have a 30min Q&A session whereby we will choose a subset of questions from live chat so that it can be answered by the speaker.
 
-**Can I re-watch the meetup on YouTube?**
+### Can I re-watch the meetup on YouTube?
 
 Yes, our events are generally recorded on [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"}. 
 
