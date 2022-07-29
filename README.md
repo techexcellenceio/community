@@ -11,6 +11,9 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+  .text-container {
+	margin-top:2rem;
+	}
   .p-date {
 	margin-bottom: .25rem !important;
 	font-weight: 600;
@@ -48,7 +51,7 @@
 <!-- VALENTINA -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">30 Jun 2022</p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
     <p><a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>,
@@ -61,7 +64,7 @@
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/yoan-thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/guillaume-faas.png" alt="guillaume-faas" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">06 Jul 2022</p>
     <a href="https://www.youtube.com/watch?v=yxO7YHkB83I" target="_blank">Xtrem TDD by Example</a>
     <p><a href="https://www.linkedin.com/in/yoanthirion/" target="_blank">Yoan Thirion</a>,
@@ -77,7 +80,7 @@
 <!-- MICHELE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/michele-sollecito.png" alt="michele-sollecito" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">20 Jul 2022</p>
     <a href="https://www.youtube.com/watch?v=a3jUXRJRddQ" target="_blank">TDD and other Agile practices: A Systemic Perspective</a>
     <p><a href="https://www.linkedin.com/in/michelesollecito/" target="_blank">Michele Sollecito</a>,
@@ -90,7 +93,7 @@
 <!-- MICHAEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/michael-azerhad.png" alt="michael-azerhad" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">03 Aug 2022</p>
     <a href="https://www.youtube.com/watch?v=Vi_FtRXopdQ" target="_blank">If you refactor after each green TDD step, you’ll fail!</a>
     <p><a href="https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/" target="_blank">Michaël Azerhad</a>,
@@ -103,7 +106,7 @@
 <!-- URS -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/urs-enzler.png" alt="urs-enzler" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">16 Aug 2022</p>
     <a href="hhttps://www.youtube.com/watch?v=JcKLqX8wuR4" target="_blank">TDD Perspectives: Trade-offs and impact of functional programming</a>
     <p><a href="https://www.linkedin.com/in/ursenzler/" target="_blank">Urs Enzler</a>,
@@ -117,7 +120,7 @@
 <!-- PIERRE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/pierre-criulanscy.png" alt="pierre-criulanscy" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">31 Aug 2022</p>
     <a href="https://www.youtube.com/watch?v=z58ckvPYVAI" target="_blank">TDD: How to Write Maintainable Tests as Executable Specifications</a>
     <p><a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">Pierre Criulanscy</a>,
@@ -130,7 +133,7 @@
 <!-- IVAN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ivan-paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">07 Sep 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/ivanpaulovich/" target="_blank">Ivan Paulovich</a>,
@@ -143,7 +146,7 @@
 <!-- ALEX -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alex-bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">14 Sep 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>,
@@ -156,7 +159,7 @@
 <!-- DANIEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/daniel-moka.png" alt="daniel-moka" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">20 Sep 2022</p>
     <a target="_blank"> Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
@@ -169,7 +172,7 @@
 <!-- BRYAN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/bryan-finster.png" alt="bryan-finster" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">28 Sep 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/bryan-finster/" target="_blank">Bryan Finster</a>,
@@ -179,12 +182,11 @@
 </div>
 
 
-
 <!-- RODISLAV + ADRIEN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/rodislav-moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/adrien-uller.png" alt="adrien-uller" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">05 Oct 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/rodislav" target="_blank">Rodislav Moldovan</a>,
@@ -201,7 +203,7 @@
 <!-- BAS -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/bas-dijkstra.png" alt="bas-dijkstra" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">12 Oct 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/basdijkstra/" target="_blank">Bas Dijkstra</a>,
@@ -214,7 +216,7 @@
 <!-- PETER -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/pete-schuler.png" alt="pete-schuler" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">19 Oct 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/peterschuler/" target="_blank">Peter Schuler</a>,
@@ -227,7 +229,7 @@
 <!-- TED -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ted-m-young.png" alt="ted-m-young" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">26 Oct 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/tedmyoung/" target="_blank">Ted M. Young</a>,
@@ -241,7 +243,7 @@
 <!-- PETER GFADER -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/peter-gfader.png" alt="peter-gfader" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">03 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/petergfader/" target="_blank">Peter Gfader</a>,
@@ -256,7 +258,7 @@
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/marco-consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/alessandro-di-gioia.png" alt="alessandro-di-gioia" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">09 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/consolaro/" target="_blank">Marco Consolaro</a>,
@@ -273,7 +275,7 @@
 <!-- ARIEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ariel-perez.png" alt="ariel-perez" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">16 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/arielxperez/" target="_blank">Ariel Pérez</a>,
@@ -287,7 +289,7 @@
 <!-- ALEXANDRE CUVA -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alexandre-cuva.png" alt="alexandre-cuva" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">23 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/cuvaalex/" target="_blank">Alexandre Cuva</a>,
@@ -301,7 +303,7 @@
 <!-- ALEXANDER PUSHKAREV -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alexander-pushkarev.png" alt="alexander-pushkarev" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">30 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/alexpushkarev/" target="_blank">Alexander Pushkarev</a>,
@@ -315,7 +317,7 @@
 <!-- JACQUELINE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/jacqueline-bilston.png" alt="jacqueline-bilston" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/" target="_blank">Jacqueline Bilston</a>,
@@ -329,7 +331,7 @@
 <!-- KEN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ken-pugh.png" alt="ken-pugh" class="profile-img" width="100" height="100">
-  <div>
+  <div class="text-container">
     <p class="p-date">14 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/kenpugh/" target="_blank">Ken Pugh</a>,
