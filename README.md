@@ -12,14 +12,6 @@ Our vision is to raise the bar of technical excellence across the world.
 - Follow us on [Twitter](https://twitter.com/techexcellence_){:target="_blank"} to get notifications about our events.
 - Follow us on [GitHub](https://github.com/techexcellenceio){:target="_blank"} and join our [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
 
-## Event Registration
-
-1. Join an event [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} and add it to your calendar.
-2. On the event page, in the section "Online event" you will see a YouTube link, click on it when the event starts.
-3. The meetup is live streamed on YouTube.
-4. During the meetup, you can ask any questions via YouTube Live Chat.
-5. We generally have 1hr session with the speaker, followed by 30 min Q&A whereby some of the questions from YouTube Live Chat will be displayed and the speaker will be able to respond to them.
-
 ## Meetup Calendar for 2022
 
 - 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"} - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Technical Coach & Founder @ Optivem
@@ -52,6 +44,29 @@ Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target=
 
 - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
 - [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/){:target="_blank"}, Designer @ Tech Excellence
+
+## FAQ
+
+## Where do I register for the events?
+
+Join our meetup group [Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"}
+
+## Where do I watch the meetup?
+
+1. Open up the event on meetup.
+2. In the section "Online event" you will see a YouTube link, click on it when the event starts.
+3. The meetup is live streamed on YouTube.
+
+## How do I ask questions?
+
+Our meetups are livestreamed on YouTube. So you can ask any questions via YouTube Live Chat. In general, we firstly have a 1hr session with the speaker (you can write questions in your chat at any time), and then we have a 30min Q&A session whereby we will choose a subset of questions from live chat so that it can be answered by the speaker.
+
+## Can I re-watch the meetup on YouTube?
+
+Yes, our events are generally recorded on [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"}. 
+
+In case of any exception (if an event will not be recorded), then we will specify that on the meetup page.
+
 
 ## Ideas
 
