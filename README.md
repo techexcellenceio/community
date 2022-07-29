@@ -83,7 +83,7 @@
 
 <!-- YOAN & GUILLAUME -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/yoan-thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/yoan-thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100" style="margin-right: 1rem;">
   <img src="https://www.techexcellence.io/img/guillaume-faas.png" alt="guillaume-faas" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">06 Jul 2022</p>
@@ -205,7 +205,7 @@
 
 <!-- RODISLAV + ADRIEN -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/rodislav-moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/rodislav-moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100" style="margin-right: 1rem;">
   <img src="https://www.techexcellence.io/img/adrien-uller.png" alt="adrien-uller" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">05 Oct 2022</p>
@@ -277,7 +277,7 @@
 
 <!-- MARCO + ALESSANDRO -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/marco-consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/marco-consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100" style="margin-right: 1rem;">
   <img src="https://www.techexcellence.io/img/alessandro-di-gioia.png" alt="alessandro-di-gioia" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">09 Nov 2022</p>
