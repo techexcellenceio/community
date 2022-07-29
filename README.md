@@ -29,6 +29,15 @@
 		color: black;
 	}
   }
+  
+  
+  	@media (min-width: 500px} {
+		.fab {
+			color: red;
+		}
+	}
+	
+	
   .markdown-body p, p {
 	margin-bottom: 0;
   }
