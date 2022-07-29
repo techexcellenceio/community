@@ -35,22 +35,36 @@ Our vision is to raise the bar of technical excellence across the world.
 
 Future:
 
-- 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar
-- 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com
-- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman 
-- 28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns
-- 05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL Luxembourg
-- 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy
-- 19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank
-- 26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning LLC
-- 03 Nov 2022. [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility
-- 09 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"}, 
+07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar
+
+14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com
+
+20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman 
+
+28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns
+
+05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL Luxembourg
+
+12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy
+
+19 Oct 2022. [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank
+
+26 Oct 2022. [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning LLC
+
+03 Nov 2022. [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility
+
+09 Nov 2022. [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"}, 
 Co-Founder and Technical Coach @ Alcor Academy and [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}, Co-founder @ Alcor Academy
-- 16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}, previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position) 
-- 23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}, Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl
-- 30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor
-- 07 Dec 2022.
-- 14 Dec 2022.
+
+16 Nov 2022. [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}, previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position) 
+
+23 Nov 2022. [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}, Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl
+
+30 Nov 2022. [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor
+
+07 Dec 2022.
+
+14 Dec 2022.
 
 ## Our Sponsors
 
