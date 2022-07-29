@@ -13,7 +13,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ![V-C](https://github.com/techexcellenceio/techexcellence/blob/main/Mask%20group.png){: style="float: left"} 
 
-![Valentina-C](https://github.com/techexcellenceio/techexcellence/blob/main/Mask%20group.png)
+![Valentina-C](https://www.techexcellence.io/Mask%20group.png)
 
 
 
