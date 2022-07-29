@@ -28,7 +28,7 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}, Founder @ WealCome
 
 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"}
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG - 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG
 
 31 Aug 2022. [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"}
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy
