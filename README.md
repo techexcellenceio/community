@@ -12,6 +12,11 @@
 	margin-bottom: .25rem;
 	font-weight: bold;
   }
+  .fab {
+	font-size: 3rem;
+	margin-right: 2rem;
+	color: black;
+  }
 </style>
 
 
@@ -24,7 +29,13 @@
 
 Our vision is to raise the bar of technical excellence across the world.
 
-[Meetup](https://www.meetup.com/techexcellence){:target="_blank"} | [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} | [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} | [Twitter](https://twitter.com/techexcellence_){:target="_blank"} | [GitHub](https://github.com/techexcellenceio){:target="_blank"}
+<div style="">
+	<a href="https://www.meetup.com/techexcellence" target="_blank"><i class="fab fa-meetup"></i></a>
+	<a href="https://www.youtube.com/c/TechExcellence" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://www.linkedin.com/company/techexcellenceio" target="_blank"><i class="fab fa-linkedin"></i></a>
+	<a href="https://twitter.com/techexcellence_" target="_blank"><i class="fab fa-twitter"></i></a>
+	<a href="https://github.com/techexcellenceio" target="_blank"><i class="fab fa-github"></i></a>
+</div>
 
 ## Meetup Calendar for 2022
 
