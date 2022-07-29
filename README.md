@@ -15,10 +15,9 @@ Our vision is to raise the bar of technical excellence across the world.
   <div>
     <p style="margin-bottom: .25rem"><b>30 Jun 2022</b></p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
-    <div style="display: flex">
-      <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>
-      <p>Founder &amp; Technical Coach @ Optivem, <em>, Belgrade, Serbia</em></p>
-    </div>
+    <p><a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>,
+      Founder &amp; Technical Coach @ Optivem, <em>Belgrade, Serbia</em>
+    </p>
   </div>
 </div>
 
