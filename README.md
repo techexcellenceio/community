@@ -22,7 +22,7 @@ Our vision is to raise the bar of technical excellence across the world.
 - 31 Aug 2022. [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy - [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"}
 - 07 Sep 2022. [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar
 - 14 Sep 2022. [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com
-- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}
+- 20 Sep 2022. [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman 
 - 28 Sep 2022. [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns
 - 05 Oct 2022. [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, and [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL Luxembourg
 - 12 Oct 2022. [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy
