@@ -4,7 +4,7 @@
 
 Our vision is to raise the bar of technical excellence across the world.
 
-[Meetup Group](https://www.meetup.com/techexcellence){:target="_blank"} | [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} | [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} | [Twitter](https://twitter.com/techexcellence_){:target="_blank"} | [GitHub](https://github.com/techexcellenceio){:target="_blank"} | [Discussions](https://github.com/techexcellenceio/techexcellence/discussions){:target="_blank"}
+[Meetup](https://www.meetup.com/techexcellence){:target="_blank"} | [YouTube](https://www.youtube.com/c/TechExcellence){:target="_blank"} | [LinkedIn](https://www.linkedin.com/company/techexcellenceio){:target="_blank"} | [Twitter](https://twitter.com/techexcellence_){:target="_blank"} | [GitHub](https://github.com/techexcellenceio){:target="_blank"}
 
 ## Meetup Calendar for 2022
 
