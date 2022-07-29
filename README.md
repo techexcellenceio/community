@@ -1,5 +1,7 @@
 # Tech Excellence
 
+![Tech Excellence](https://github.com/techexcellenceio/techexcellence/blob/main/tech_excellence_banner.png)
+
 ## Vision
 
 Our vision is to raise the bar of technical excellence across the world.
