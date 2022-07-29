@@ -20,6 +20,9 @@
 	margin-right: 2rem;
 	color: #43cece;
   }
+  p {
+	margin-bottom: 0;
+  }
 </style>
 
 
@@ -30,7 +33,7 @@
 
 ## Vision
 
-<p style="margin-bottom: 2rem;>Our vision is to raise the bar of technical excellence across the world.</p>
+<p style="margin-bottom: 2rem;">Our vision is to raise the bar of technical excellence across the world.</p>
 
 <div style="margin-bottom: 3rem">
 	<a href="https://www.meetup.com/techexcellence" target="_blank"><i class="fab fa-meetup"></i></a>
