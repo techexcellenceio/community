@@ -1,6 +1,6 @@
 # Tech Excellence
 
-![Tech Excellence](https://github.com/techexcellenceio/techexcellence/blob/main/tech_excellence_banner.png)
+![Tech Excellence](https://www.techexcellence.io/tech_excellence_banner.png)
 
 ## Vision
 
