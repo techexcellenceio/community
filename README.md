@@ -24,7 +24,7 @@
 	.profile-img {
 		margin-left: auto;
 		margin-right: auto;
-		margin-top: 3rem;
+		margin-top: 4rem;
 		margin-bottom: 1rem;
 	}
   }
@@ -40,6 +40,7 @@
   .fab {
 	font-size: 3rem;
 	margin-right: 2rem;
+	margin-bottom: 1rem;
 	color: #43cece;
   }	
 	
@@ -58,7 +59,7 @@
 
 <p style="margin-bottom: 2rem;">Our vision is to raise the bar of technical excellence across the world.</p>
 
-<div style="margin-bottom: 3rem">
+<div style="margin-bottom: 2rem">
 	<a href="https://www.meetup.com/techexcellence" target="_blank"><i class="fab fa-meetup"></i></a>
 	<a href="https://www.youtube.com/c/TechExcellence" target="_blank"><i class="fab fa-youtube"></i></a>
 	<a href="https://www.linkedin.com/company/techexcellenceio" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -70,7 +71,7 @@
 
 <!-- VALENTINA -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/valentina-cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100" style="margin-top: 2rem;">
   <div class="text-container">
     <p class="p-date">30 Jun 2022</p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
