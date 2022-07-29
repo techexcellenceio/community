@@ -1,3 +1,17 @@
+<style>
+  .img-container {
+    display: flex !important;
+    align-items: center
+  }
+  .profile-img {
+    margin-right: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+</style>
+
+
+
 # Tech Excellence
 
 ![Tech Excellence](https://www.techexcellence.io/tech_excellence_banner.png?v=2)
@@ -10,8 +24,8 @@ Our vision is to raise the bar of technical excellence across the world.
 
 ## Meetup Calendar for 2022
 
-<div style="display: flex !important; align-items: center">
-  <img src="https://www.techexcellence.io/Mask%20group.png" alt="V-C" style="margin-right: 1rem; margin-top: 2rem; margin-bottom: 2rem;" width="120" height="120">
+<div class="img-container">
+  <img src="https://www.techexcellence.io/Mask%20group.png" alt="V-C" class="profile-img" width="100" height="100">
   <div>
     <p style="margin-bottom: .25rem"><b>30 Jun 2022</b></p>
     <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
