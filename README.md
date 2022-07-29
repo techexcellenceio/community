@@ -15,11 +15,11 @@ Our vision is to raise the bar of technical excellence across the world.
 ## Meetup Calendar for 2022
 
 30 Jun 2022. [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}]
-[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem
 
 06 Jul 2022. [Xtrem TDD by Example](https://www.youtube.com/watch?v=yxO7YHkB83I){:target="_blank"}
-[Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com
-[Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}, Software Craftsmanship Leader & .Net Expert @Squaremiled S.A. - 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Yoan Thirion](https://www.linkedin.com/in/yoanthirion/){:target="_blank"}, Agile Technical Coach @yoan-thirion.com
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}, Software Craftsmanship Leader & .Net Expert @Squaremiled S.A. - 
 
 20 Jul 2022. [Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}, Head Of Architecture @ JP Morgan - [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"}
 
