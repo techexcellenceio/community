@@ -25,6 +25,9 @@
 	font-size: 3rem;
 	margin-right: 2rem;
 	color: #43cece;
+	@media (min-width: 500px} {
+		color: black;
+	}
   }
   .markdown-body p, p {
 	margin-bottom: 0;
