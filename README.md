@@ -22,16 +22,16 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Guillaume Faas](https://www.linkedin.com/in/guillaumefaas/){:target="_blank"}, Software Craftsmanship Leader & .Net Expert @Squaremiled S.A., *Luxembourg*
 
 20 Jul 2022. [TDD and other Agile practices: A Systemic Perspective](https://www.youtube.com/watch?v=a3jUXRJRddQ){:target="_blank"}
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}, Head Of Architecture @ JP Morgan, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Michele Sollecito](https://www.linkedin.com/in/michelesollecito/){:target="_blank"}, Head Of Architecture @ JP Morgan, *London, United Kingdom*
 
 03 Aug 2022. [If you refactor after each green TDD step, you’ll fail!](https://www.youtube.com/watch?v=Vi_FtRXopdQ){:target="_blank"}
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}, Founder @ WealCome, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/){:target="_blank"}, Founder @ WealCome, *Paris, France*
 
 16 Aug 2022. [TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4){:target="_blank"}
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Urs Enzler](https://www.linkedin.com/in/ursenzler/){:target="_blank"}, Software Architect @ Calitime AG, *Zug, Switzerland*
 
 31 Aug 2022. [TDD: How to Write Maintainable Tests as Executable Specifications](https://www.youtube.com/watch?v=z58ckvPYVAI){:target="_blank"}
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy, *Montreuil, France*
 
 07 Sep 2022. Tech Excellence Meetup Event
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar, *, *
