@@ -49,7 +49,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 05 Oct 2022. Tech Excellence Meetup Event
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, *Luxembourg*
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL, *Luxembourg* Luxembourg
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL, *Luxembourg*
 
 12 Oct 2022. Tech Excellence Meetup Event
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy, *Amersfoort, Netherlands*
