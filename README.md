@@ -3,7 +3,7 @@
 
 <style>
   .img-container {
-	display: flex !important;
+	display: flex;
 	@media (max-width: 576px) {
 		display: block !important;
 	}
