@@ -3,10 +3,8 @@
 
 <style>
   .img-container {
-	@media (min-width: 576px) {
-		display: flex !important;
-	};
-    align-items: center
+	display: flex !important;
+    align-items: center;
   }
   .profile-img {
     margin-right: 1.5rem;
