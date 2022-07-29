@@ -4,6 +4,9 @@
 <style>
   .img-container {
 	display: flex !important;
+	@media (max-width: 576px) {
+		display: block !important;
+	}
     align-items: center;
   }
   .profile-img {
