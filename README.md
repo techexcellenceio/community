@@ -3,12 +3,15 @@
 
 <style>
   .img-container {
-	display: flex;
     align-items: center;
+	text-align: center;
   }
   
   @media(min-width: 576px) {
-	display: flex;
+	.img-container {
+		display: flex;
+		text-align: left;
+	}
   }
 	
   .profile-img {
@@ -16,8 +19,19 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+  
+  @media(max-width: 575px) {
+	.profile-img {
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 3rem;
+		margin-bottom: 1rem;
+	}
+  }
+  
   .text-container {
-	margin-top:0rem;
+		margin-top: 0rem;
+		text-align: left;
 	}
   .p-date {
 	margin-bottom: .25rem !important;
