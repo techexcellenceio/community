@@ -22,9 +22,9 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-
+_
 **30 Jun 2022.** [TDD in Hexagonal Architecture and Clean Architecture](https://www.youtube.com/watch?v=WAoqGzVDHc0){:target="_blank"}
-<br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*
+<br/>[Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Technical Coach @ Optivem, *Belgrade, Serbia*_
 
 
 ![Valentina-C](https://www.techexcellence.io/Mask%20group.png){: style="float: left"} 
