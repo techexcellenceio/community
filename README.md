@@ -34,45 +34,45 @@ Our vision is to raise the bar of technical excellence across the world.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; [Pierre Criulanscy](https://www.linkedin.com/in/pierre-criulanscy/){:target="_blank"}, Trainer & Consultant @ CraftAcademy, *Montreuil, France*
 
 07 Sep 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ivan Paulovich](https://www.linkedin.com/in/ivanpaulovich/){:target="_blank"}, Engineering Manager @ Lunar, *Stockholm County, Sweden*
 
 14 Sep 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alex Bunardzic](https://www.linkedin.com/in/alexbunardzic/){:target="_blank"}, Director of Automation @ digitalexprt.com, *Vancouver, Canada*
 
 20 Sep 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Daniel Moka](https://www.linkedin.com/in/danielmoka/){:target="_blank"}, Software Craftsman, *France*
 
 28 Sep 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Bryan Finster](https://www.linkedin.com/in/bryan-finster/){:target="_blank"}, Value Stream Architect @ Defense Unicorns, *Arkansas, United States*
 
 05 Oct 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, *, *
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL, *, * Luxembourg
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Rodislav Moldovan](https://www.linkedin.com/in/rodislav){:target="_blank"}, Software Craftsman @ BIL Luxembourg, *Luxembourg*
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/){:target="_blank"}, Technical Coach & Software Craftsman @ BIL, *Luxembourg* Luxembourg
 
 12 Oct 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/){:target="_blank"}, Director @ Inspired Academy, *Amersfoort, Netherlands*
 
 19 Oct 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Schuler](https://www.linkedin.com/in/peterschuler/){:target="_blank"}, Senior Java Developer @ Rabobank, *The Randstad, Netherlands*
 
 26 Oct 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning LLC, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ted M. Young](https://www.linkedin.com/in/tedmyoung/){:target="_blank"}, Principal Java Trainer & Coding Coach @ Spiral Learning LLC, *San Francisco Bay Area, United States*
 
 03 Nov 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Peter Gfader](https://www.linkedin.com/in/petergfader/){:target="_blank"}, Founder @ Beyond Agility, *Zurich, Switzerland*
 
 09 Nov 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"}, Co-Founder and Technical Coach @ Alcor Academy, *, *
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}, Co-founder @ Alcor Academy, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Marco Consolaro](https://www.linkedin.com/in/consolaro/){:target="_blank"}, Co-Founder and Technical Coach @ Alcor Academy, *London, United Kingdom*
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alessandro Di Gioia](https://www.linkedin.com/in/alessandro-di-gioia/){:target="_blank"}, Co-founder @ Alcor Academy, *London, United Kingdom*
 
 16 Nov 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}, previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position), *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Ariel Pérez](https://www.linkedin.com/in/arielxperez/){:target="_blank"}, previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position), *New York, United States*
 
 23 Nov 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}, Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alexandre Cuva](https://www.linkedin.com/in/cuvaalex/){:target="_blank"}, Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl, *Nyon, Switzerland*
 
 30 Nov 2022. Tech Excellence Meetup Event
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor, *, *
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; [Alexander Pushkarev](https://www.linkedin.com/in/alexpushkarev/){:target="_blank"}, Senior Software Engineer @ TripAdvisor, *London, United Kingdom*
 
 07 Dec 2022. Tech Excellence Meetup Event
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; 
