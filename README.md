@@ -30,7 +30,7 @@
   
   	@media (min-width: 500px} {
 		.fab {
-			color: red;
+			color: #1d1e1e;
 		}
 	}
 	
