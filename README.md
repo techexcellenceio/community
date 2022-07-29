@@ -3,7 +3,9 @@
 
 <style>
   .img-container {
-    display: flex !important;
+	@media (min-width: 576px {
+		display: flex !important;
+	}
     align-items: center
   }
   .profile-img {
@@ -12,13 +14,13 @@
     margin-bottom: 2rem;
   }
   .p-date {
-	margin-bottom: .25rem;
+	margin-bottom: .25rem !important;
 	font-weight: 600;
   }
   .fab {
 	font-size: 3rem;
 	margin-right: 2rem;
-	color: black;
+	color: #43cece;
   }
 </style>
 
@@ -30,9 +32,9 @@
 
 ## Vision
 
-Our vision is to raise the bar of technical excellence across the world.
+<p style="margin-bottom: 2rem;>Our vision is to raise the bar of technical excellence across the world.</p>
 
-<div style="">
+<div style="margin-bottom: 3rem">
 	<a href="https://www.meetup.com/techexcellence" target="_blank"><i class="fab fa-meetup"></i></a>
 	<a href="https://www.youtube.com/c/TechExcellence" target="_blank"><i class="fab fa-youtube"></i></a>
 	<a href="https://www.linkedin.com/company/techexcellenceio" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -71,7 +73,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// MICHELE
+<!-- MICHELE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/michele-sollecito.png" alt="michele-sollecito" class="profile-img" width="100" height="100">
   <div>
@@ -84,7 +86,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// MICHAEL
+<!-- MICHAEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/michael-azerhad.png" alt="michael-azerhad" class="profile-img" width="100" height="100">
   <div>
@@ -97,7 +99,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// URS
+<!-- URS -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/urs-enzler.png" alt="urs-enzler" class="profile-img" width="100" height="100">
   <div>
@@ -111,7 +113,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// PIERRE
+<!-- PIERRE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/pierre-criulanscy.png" alt="pierre-criulanscy" class="profile-img" width="100" height="100">
   <div>
@@ -124,8 +126,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-
-// IVAN
+<!-- IVAN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ivan-paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100">
   <div>
@@ -138,8 +139,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-
-// ALEX
+<!-- ALEX -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alex-bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100">
   <div>
@@ -152,7 +152,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// DANIEL
+<!-- DANIEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/daniel-moka.png" alt="daniel-moka" class="profile-img" width="100" height="100">
   <div>
@@ -165,7 +165,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// BRYAN
+<!-- BRYAN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/bryan-finster.png" alt="bryan-finster" class="profile-img" width="100" height="100">
   <div>
@@ -179,7 +179,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// RODISLAV + ADRIEN
+<!-- RODISLAV + ADRIEN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/rodislav-moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/adrien-uller.png" alt="adrien-uller" class="profile-img" width="100" height="100">
@@ -197,8 +197,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-
-// BAS
+<!-- BAS -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/bas-dijkstra.png" alt="bas-dijkstra" class="profile-img" width="100" height="100">
   <div>
@@ -211,9 +210,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-
-
-// PETER
+<!-- PETER -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/pete-schuler.png" alt="pete-schuler" class="profile-img" width="100" height="100">
   <div>
@@ -226,7 +223,7 @@ Our vision is to raise the bar of technical excellence across the world.
 </div>
 
 
-// TED
+<!-- TED -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ted-m-young.png" alt="ted-m-young" class="profile-img" width="100" height="100">
   <div>
@@ -240,7 +237,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// PETER GFADER
+<!-- PETER GFADER -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/peter-gfader.png" alt="peter-gfader" class="profile-img" width="100" height="100">
   <div>
@@ -254,7 +251,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// MARCO + ALESSANDRO
+<!-- MARCO + ALESSANDRO -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/marco-consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100">
   <img src="https://www.techexcellence.io/img/alessandro-di-gioia.png" alt="alessandro-di-gioia" class="profile-img" width="100" height="100">
@@ -272,7 +269,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// ARIEL
+<!-- ARIEL -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ariel-perez.png" alt="ariel-perez" class="profile-img" width="100" height="100">
   <div>
@@ -286,7 +283,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// ALEXANDRE CUVA
+<!-- ALEXANDRE CUVA -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alexandre-cuva.png" alt="alexandre-cuva" class="profile-img" width="100" height="100">
   <div>
@@ -300,7 +297,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// ALEXANDER PUSHKAREV
+<!-- ALEXANDER PUSHKAREV -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/alexander-pushkarev.png" alt="alexander-pushkarev" class="profile-img" width="100" height="100">
   <div>
@@ -314,7 +311,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// JACQUELINE
+<!-- JACQUELINE -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/jacqueline-bilston.png" alt="jacqueline-bilston" class="profile-img" width="100" height="100">
   <div>
@@ -328,7 +325,7 @@ Our vision is to raise the bar of technical excellence across the world.
 
 
 
-// KEN
+<!-- KEN -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/ken-pugh.png" alt="ken-pugh" class="profile-img" width="100" height="100">
   <div>
