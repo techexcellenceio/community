@@ -4,11 +4,13 @@
 <style>
   .img-container {
 	display: flex;
-	@media (max-width: 576px) {
-		display: block !important;
-	}
     align-items: center;
   }
+  
+  @media(min-width: 576px) {
+	display: flex;
+  }
+	
   .profile-img {
     margin-right: 1.5rem;
     margin-top: 2rem;
@@ -25,15 +27,7 @@
 	font-size: 3rem;
 	margin-right: 2rem;
 	color: #43cece;
-  }
-  
-  
-  	@media (min-width: 500px) {
-		.fab {
-			color: #1d1e1e;
-		}
-	}
-	
+  }	
 	
   .markdown-body p, p {
 	margin-bottom: 0;
