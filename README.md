@@ -3,9 +3,7 @@
 
 <style>
   .img-container {
-	@media (min-width: 576px) {
-		display: flex !important;
-	};
+	display: flex !important;
     align-items: center;
   }
   .profile-img {
@@ -14,7 +12,7 @@
     margin-bottom: 2rem;
   }
   .text-container {
-	margin-top:2rem;
+	margin-top:0rem;
 	}
   .p-date {
 	margin-bottom: .25rem !important;
