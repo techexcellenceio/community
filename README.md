@@ -300,7 +300,7 @@
     <p class="p-date">16 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/arielxperez/" target="_blank">Ariel Pérez</a>,
-      previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co. (pending update next position), <em>New York, United States</em>
+      previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase & Co., <em>New York, United States</em>
     </p>
   </div>
 </div>
