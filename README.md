@@ -156,9 +156,9 @@
   <img src="https://www.techexcellence.io/img/ivan-paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Sep 2022</p>
-    <a target="_blank">Tech Excellence Meetup Event</a>
+    <a target="_blank">Clean Architecture: Principles, Patterns and Practices</a>
     <p><a href="https://www.linkedin.com/in/ivanpaulovich/" target="_blank">Ivan Paulovich</a>,
-      Engineering Manager @ Lunar, <em>Stockholm County, Sweden</em>
+      Engineering Manager @ Lunar, <em>Stockholm, Sweden</em>
     </p>
   </div>
 </div>
