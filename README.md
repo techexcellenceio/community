@@ -182,7 +182,7 @@
   <img src="https://www.techexcellence.io/img/daniel-moka.png" alt="daniel-moka" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">20 Sep 2022</p>
-    <a target="_blank"> Tech Excellence Meetup Event</a>
+    <a target="_blank">How to sell TDD to the management and your fellow colleagues</a>
     <p><a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
       Software Craftsman, <em>France</em>
     </p>
@@ -239,7 +239,7 @@
   <img src="https://www.techexcellence.io/img/pete-schuler.png" alt="pete-schuler" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">19 Oct 2022</p>
-    <a target="_blank">Tech Excellence Meetup Event</a>
+    <a target="_blank">Bigger unit tests are better - why small unit test classes will slow you down</a>
     <p><a href="https://www.linkedin.com/in/peterschuler/" target="_blank">Peter Schuler</a>,
       Senior Java Developer @ Rabobank, <em>The Randstad, Netherlands</em>
     </p>
