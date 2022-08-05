@@ -169,7 +169,7 @@
   <img src="https://www.techexcellence.io/img/alex-bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">14 Sep 2022</p>
-    <a target="_blank">Tech Excellence Meetup Event</a>
+    <a target="_blank">Agile is a slow and steady way to win the race</a>
     <p><a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>,
       Director of Automation @ digitalexprt.com, <em>Vancouver, Canada</em>
     </p>
