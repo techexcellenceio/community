@@ -337,12 +337,12 @@
 
 <!-- JACQUELINE -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/jacqueline-bilston.png" alt="jacqueline-bilston" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/name-surname.png" alt="name-surname" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
-    <p><a href="https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/" target="_blank">Jacqueline Bilston</a>,
-      Software Developer @ Yelp, <em>Canada</em>
+    <p><a href="" target="_blank">Name Surname</a>,
+      Position @ Company, <em>Location</em>
     </p>
   </div>
 </div>
