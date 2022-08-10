@@ -268,7 +268,7 @@
     <p class="p-date">03 Nov 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/petergfader/" target="_blank">Peter Gfader</a>,
-      Founder @ Beyond Agility, <em>Zurich, Switzerland</em>
+      Founder @ Beyond Agility, <em>Zurich, Switzerland</em> and Host @ <a href="https://www.meetup.com/software-craftsmanship-zurich/>Software Crafters Zürich</a> 
     </p>
   </div>
 </div>
