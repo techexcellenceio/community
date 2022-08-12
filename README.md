@@ -341,7 +341,7 @@
   <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
-    <p><a href="" target="_blank">Oliver Zihler</a>,
+    <p><a href="https://www.linkedin.com/in/oliver-zihler-9b92471a5/" target="_blank">Oliver Zihler</a>,
       Full Stack Software Engineer @ Swisscom, <em>Zurich, Switzerland</em>
     </p>
   </div>
