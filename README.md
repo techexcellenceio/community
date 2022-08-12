@@ -335,14 +335,14 @@
 
 
 
-<!-- JACQUELINE -->
+<!-- OLIVER  -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/name-surname.png" alt="name-surname" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
-    <p><a href="" target="_blank">Name Surname</a>,
-      Position @ Company, <em>Location</em>
+    <p><a href="" target="_blank">Oliver Zihler</a>,
+      Full Stack Software Engineer @ Swisscom, <em>Zurich, Switzerland</em>
     </p>
   </div>
 </div>
