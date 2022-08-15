@@ -337,7 +337,7 @@
 
 <!-- OLIVER  -->
 <div class="img-container">
-  <img src="https://www.techexcellence.io/img/name.png" alt="name" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/oliver-zihler.png" alt="oliver-zihler" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
