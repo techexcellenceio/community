@@ -131,7 +131,7 @@
     <p class="p-date">16 Aug 2022</p>
     <a href="hhttps://www.youtube.com/watch?v=JcKLqX8wuR4" target="_blank">TDD Perspectives: Trade-offs and impact of functional programming</a>
     <p><a href="https://www.linkedin.com/in/ursenzler/" target="_blank">Urs Enzler</a>,
-      Software Architect @ Calitime AG, <em>Zug, Switzerland</em>
+      Software Architect @ Calitime AG, Co-organizer @ .NET Usergroup Zentralschweiz <em>Zug, Switzerland</em>
     </p>
   </div>
 </div>
@@ -335,7 +335,7 @@
 
 
 
-<!-- OLIVER  -->
+<!-- OLIVER / ALINA  -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/oliver-zihler.png" alt="oliver-zihler" class="profile-img" width="100" height="100">
   <div class="text-container">
@@ -343,6 +343,8 @@
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/oliver-zihler-9b92471a5/" target="_blank">Oliver Zihler</a>,
       Full Stack Software Engineer @ Swisscom, <em>Zurich, Switzerland</em>
+    </p>    <p><a href="https://www.linkedin.com/in/alina-liburkina-657637128/" target="_blank">Alina Liburkina</a>,
+      Software Engineer @ BlueCare AG, <em>Zurich, Switzerland</em>
     </p>
   </div>
 </div>
