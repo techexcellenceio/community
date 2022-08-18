@@ -91,7 +91,7 @@
     <p><a href="https://www.linkedin.com/in/yoanthirion/" target="_blank">Yoan Thirion</a>,
       Agile Technical Coach @yoan-thirion.com, <em>Luxembourg</em>
     </p>
-	<p><a href="https://www.linkedin.com/in/guillaumefaas/" target="_blank">Guillaume Faas</a>,
+    <p><a href="https://www.linkedin.com/in/guillaumefaas/" target="_blank">Guillaume Faas</a>,
       Software Craftsmanship Leader & .Net Expert @Squaremiled S.A., <em>Luxembourg</em>
     </p>
   </div>
@@ -213,7 +213,7 @@
     <p><a href="https://www.linkedin.com/in/rodislav" target="_blank">Rodislav Moldovan</a>,
       Software Craftsman @ BIL Luxembourg, <em>Luxembourg</em>
     </p>
-	<p><a href="https://www.linkedin.com/in/adrien-muller-566373a/" target="_blank">Adrien Muller</a>,
+    <p><a href="https://www.linkedin.com/in/adrien-muller-566373a/" target="_blank">Adrien Muller</a>,
       Technical Coach & Software Craftsman @ BIL, <em>Luxembourg</em>
     </p>
   </div>
@@ -285,7 +285,7 @@
     <p><a href="https://www.linkedin.com/in/consolaro/" target="_blank">Marco Consolaro</a>,
       Co-Founder and Technical Coach @ Alcor Academy, <em>London, United Kingdom</em>
     </p>
-	<p><a href="https://www.linkedin.com/in/alessandro-di-gioia/" target="_blank">Alessandro Di Gioia</a>,
+    <p><a href="https://www.linkedin.com/in/alessandro-di-gioia/" target="_blank">Alessandro Di Gioia</a>,
       Co-founder @ Alcor Academy, <em>London, United Kingdom</em>
     </p>
   </div>
@@ -334,16 +334,17 @@
 </div>
 
 
-
 <!-- OLIVER / ALINA  -->
 <div class="img-container">
   <img src="https://www.techexcellence.io/img/oliver-zihler.png" alt="oliver-zihler" class="profile-img" width="100" height="100">
+  <img src="https://www.techexcellence.io/img/alina-liburkina.png" alt="alina-liburkina" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Dec 2022</p>
     <a target="_blank">Tech Excellence Meetup Event</a>
     <p><a href="https://www.linkedin.com/in/oliver-zihler-9b92471a5/" target="_blank">Oliver Zihler</a>,
       Full Stack Software Engineer @ Swisscom, <em>Zurich, Switzerland</em>
-    </p>    <p><a href="https://www.linkedin.com/in/alina-liburkina-657637128/" target="_blank">Alina Liburkina</a>,
+    </p>
+    <p><a href="https://www.linkedin.com/in/alina-liburkina-657637128/" target="_blank">Alina Liburkina</a>,
       Software Engineer @ BlueCare AG, <em>Zurich, Switzerland</em>
     </p>
   </div>
