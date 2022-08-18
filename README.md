@@ -184,7 +184,7 @@
     <p class="p-date">20 Sep 2022</p>
     <a target="_blank">How to sell TDD to the management and your fellow colleagues</a>
     <p><a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
-      Software Craftsman @ MokaIT <em>France</em>
+      Software Craftsman @ MokaIT, Co-creator @ TDD Manifesto <em>France</em>
     </p>
   </div>
 </div>
