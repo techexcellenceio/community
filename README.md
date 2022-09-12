@@ -411,3 +411,5 @@ In case of any exception (if an event will not be recorded), then we will specif
 ## Ideas
 
 Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/community/discussions){:target="_blank"}
+
+<!-- Some comment -->
