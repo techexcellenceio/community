@@ -156,7 +156,7 @@
   <img src="https://www.techexcellence.io/img/ivan-paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">07 Sep 2022</p>
-    <a target="_blank">Clean Architecture: Principles, Patterns and Practices</a>
+    <a href="https://www.youtube.com/watch?v=g2gwmqZQUkQ" target="_blank">Clean Architecture: Principles, Patterns and Practices</a>
     <p><a href="https://www.linkedin.com/in/ivanpaulovich/" target="_blank">Ivan Paulovich</a>,
       Engineering Manager @ Lunar, <em>Stockholm, Sweden</em>
     </p>
@@ -169,7 +169,7 @@
   <img src="https://www.techexcellence.io/img/alex-bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">14 Sep 2022</p>
-    <a target="_blank">Agile is a slow and steady way to win the race</a>
+    <a href="https://www.youtube.com/watch?v=unbrl4QjhGc" target="_blank">Agile is a slow and steady way to win the race</a>
     <p><a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>,
       Director of Automation @ digitalexprt.com, <em>Vancouver, Canada</em>
     </p>
@@ -182,7 +182,7 @@
   <img src="https://www.techexcellence.io/img/daniel-moka.png" alt="daniel-moka" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">20 Sep 2022</p>
-    <a target="_blank">How to sell TDD to the management and your fellow colleagues</a>
+    <a href="https://www.youtube.com/watch?v=h70T_eWGCHM" target="_blank">How to sell TDD to the management and your fellow colleagues</a>
     <p><a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
       Software Craftsman @ MokaIT, Co-creator @ TDD Manifesto <em>France</em>
     </p>
@@ -195,7 +195,7 @@
   <img src="https://www.techexcellence.io/img/bryan-finster.png" alt="bryan-finster" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">28 Sep 2022</p>
-    <a target="_blank">Tech Excellence Meetup Event</a>
+    <a href="https://www.youtube.com/watch?v=nDHtub5BhXQ" target="_blank">The Trouble with Continuous Delivery</a>
     <p><a href="https://www.linkedin.com/in/bryan-finster/" target="_blank">Bryan Finster</a>,
       Value Stream Architect @ Defense Unicorns, <em>Arkansas, United States</em>
     </p>
@@ -209,7 +209,7 @@
   <img src="https://www.techexcellence.io/img/adrien-uller.png" alt="adrien-uller" class="profile-img" width="100" height="100">
   <div class="text-container">
     <p class="p-date">05 Oct 2022</p>
-    <a target="_blank">Tech Excellence Meetup Event</a>
+    <a href="https://www.youtube.com/watch?v=5l5Klz4Mwf4" target="_blank">Tech Interview Cookbook</a>
     <p><a href="https://www.linkedin.com/in/rodislav" target="_blank">Rodislav Moldovan</a>,
       Software Craftsman @ BIL Luxembourg, <em>Luxembourg</em>
     </p>
@@ -367,15 +367,42 @@
 
 
 
-## Our Sponsors
-
-Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target="_blank"}
-
 ## Our Organizers
 
 [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
 
 [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/){:target="_blank"}, Designer @ Tech Excellence
+
+
+## Our Sponsors
+
+Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target="_blank"}
+
+<!-- OPTIVEM -->
+<div class="img-container" style="margin-bottom: 3rem">
+    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img" width="100" height="100">
+    <div class="text-container">
+      <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
+      <p>
+        Better Software Faster: 
+        Helping backend development teams deliver quality software faster with TDD, Clean Code & Clean Architecture
+      </p>
+    </div>
+  </div>
+
+
+## Our Partners
+
+<!-- QE UNIT -->
+  <div class="img-container" style="margin-bottom: 3rem">
+      <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img" width="100" height="100">
+      <div class="text-container">
+        <p class="p-date"><a href="https://qeunit.com/" target="_blank">QE Unit: The Quality Engineering Community</a></p>
+        <p>
+          We are an extended community of practice dedicated to one thing: succeed with Quality at Speed software
+        </p>
+      </div>
+    </div>
 
 ## FAQ
 
