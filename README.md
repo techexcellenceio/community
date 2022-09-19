@@ -51,6 +51,7 @@
 </style>
 
 
+{% include head.html %}
 
 
 # Tech Excellence
