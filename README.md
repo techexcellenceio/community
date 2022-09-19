@@ -377,7 +377,7 @@
 
 [Jelena Cupać](https://www.linkedin.com/in/jelenacupac/){:target="_blank"}, Designer @ Tech Excellence
 
-<div style="margin-bottom: 3rem;">&nbsp</div>
+<div style="margin-bottom: 3rem;">&nbsp;</div>
 
 
 ## Our Sponsors
