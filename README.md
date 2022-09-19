@@ -19,6 +19,10 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+	
+.logo {
+	margin-right: 10px;
+}
   
   @media(max-width: 575px) {
 	.profile-img {
@@ -368,6 +372,8 @@
 
 
 ## Our Organizers
+<div style="margin-bottom: 3rem;">
+</div>
 
 [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
 
@@ -378,7 +384,7 @@
 
 <!-- OPTIVEM -->
 <div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
-    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img" width="100" height="100">
+    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="100" height="100">
     <div class="text-container">
       <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
       <p>
@@ -393,7 +399,7 @@
 
 <!-- QE UNIT -->
   <div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
-      <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img" width="100" height="100">
+      <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img logo" width="100" height="100">
       <div class="text-container">
         <p class="p-date"><a href="https://qeunit.com/" target="_blank">QE Unit: The Quality Engineering Community</a></p>
         <p>
