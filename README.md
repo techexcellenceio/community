@@ -376,10 +376,8 @@
 
 ## Our Sponsors
 
-Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target="_blank"}
-
 <!-- OPTIVEM -->
-<div class="img-container" style="margin-bottom: 3rem">
+<div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
     <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img" width="100" height="100">
     <div class="text-container">
       <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
@@ -394,7 +392,7 @@ Tech Excellence Meetups are sponsored by [Optivem](http://optivem.com/){:target=
 ## Our Partners
 
 <!-- QE UNIT -->
-  <div class="img-container" style="margin-bottom: 3rem">
+  <div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
       <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img" width="100" height="100">
       <div class="text-container">
         <p class="p-date"><a href="https://qeunit.com/" target="_blank">QE Unit: The Quality Engineering Community</a></p>
