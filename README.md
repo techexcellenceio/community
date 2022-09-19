@@ -372,8 +372,6 @@
 
 
 ## Our Organizers
-<div style="margin-bottom: 3rem;">
-</div>
 
 [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
 
@@ -383,7 +381,7 @@
 ## Our Sponsors
 
 <!-- OPTIVEM -->
-<div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
+<div class="img-container" style="margin-bottom: 3rem; max-width: 700px; margin-top: 3rem;">
     <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="100" height="100">
     <div class="text-container">
       <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
