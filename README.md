@@ -412,4 +412,6 @@ In case of any exception (if an event will not be recorded), then we will specif
 
 Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/community/discussions){:target="_blank"}
 
+_Disclaimer: Some of our speakers may present code demos during the meetup sessions. Please note that any code shown during any meetups is for educational purposes only._
+
 <!-- Some comment -->
