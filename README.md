@@ -1,11 +1,3 @@
-<head>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-	
-	<!-- Font Awesome -->
-	<link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-</head>
-
 <style>
   .img-container {
     align-items: center;
