@@ -370,6 +370,9 @@
 
 
 
+
+
+
 ## Our Organizers
 
 [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/){:target="_blank"}, Founder & Organizer @ Tech Excellence
@@ -406,6 +409,23 @@
         </p>
       </div>
     </div>
+
+
+
+<!-- Consulting, Coaching & Training -->
+
+<!-- WealCome - Michaël Azerhad   -->  <!--    https://wealcomecompany.com/    https://www.linkedin.com/company/wealcomecompany/   --> 
+
+
+<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check --> <!-- https://alcor.academy/  https://www.linkedin.com/company/alcor-academy/      -->
+
+<!-- Alexandre Cuva - SoCraDev Sarl --> <!-- https://socradev.ch   https://www.linkedin.com/company/socradev  --> 
+
+<!-- On Test Automation - Bas Dijkstra  --> <!-- https://www.ontestautomation.com/training     https://www.linkedin.com/company/on-test-automation    -->
+
+
+
+
 
 ## FAQ
 
