@@ -440,7 +440,7 @@
 
 <!-- WealCome - Michaël Azerhad   -->
 <div class="img-container c-container">
-  <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img logo" width="90" height="90">
+  <img src="https://www.techexcellence.io/logo/wealcome.png" alt="Wealcome" class="profile-img logo" width="" height="90">
   <div class="text-container">
     <p class="p-date"><a href="https://wealcomecompany.com/" target="_blank">WealCome - Michaël Azerhad</a></p>
 <!--     <p>
