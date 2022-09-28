@@ -38,12 +38,15 @@
 	margin-bottom: .25rem !important;
 	font-weight: 600;
   }
-  social-media a .fab {
+  .social-media a .fab {
 	font-size: 3rem;
 	margin-right: 2rem;
 	margin-bottom: 1rem;
 	color: #43cece;
-  }	
+  }
+  .social-media a .fab:hover {
+	color: #2fb7b7;
+  }
 
   .markdown-body p, p {
 	margin-bottom: 0;
