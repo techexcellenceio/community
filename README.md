@@ -393,6 +393,11 @@
         Better Software Faster: 
         Helping backend development teams deliver quality software faster with TDD, Clean Code & Clean Architecture
       </p>
+      <div class="social-media-icons">
+        <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener">
+          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+        </a>
+      </div>
     </div>
   </div>
 
