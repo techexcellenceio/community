@@ -52,6 +52,9 @@
 	margin-bottom: 0;
   }
 	
+.c-container {
+    margin-bottom: 3rem; max-width: 700px;
+}
 .social-media-icons a .fab {
     font-size: 2rem;
     margin-right: 1.5rem;
@@ -400,42 +403,54 @@
 ## Our Sponsors
 
 <!-- OPTIVEM -->
-<div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
-    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
-    <div class="text-container">
-      <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
-      <p>
-        Better Software Faster: 
-        Helping backend development teams deliver quality software faster with TDD, Clean Code & Clean Architecture
-      </p>
-      <div class="social-media-icons">
-        <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener">
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </div>
+<div class="img-container c-container">
+  <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
+  <div class="text-container">
+    <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
+    <p>
+      Better Software Faster: 
+      Helping backend development teams deliver quality software faster with TDD, Clean Code & Clean Architecture
+    </p>
+    <div class="social-media-icons">
+      <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
+</div>
 
 
 ## Our Partners
 
 <!-- QE UNIT -->
-  <div class="img-container" style="margin-bottom: 3rem; max-width: 700px">
-      <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img logo" width="90" height="90">
-      <div class="text-container">
-        <p class="p-date"><a href="https://qeunit.com/" target="_blank">QE Unit: The Quality Engineering Community</a></p>
-        <p>
-          We are an extended community of practice dedicated to one thing: succeed with Quality at Speed software
-        </p>
-      </div>
+<div class="img-container c-container">
+  <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img logo" width="90" height="90">
+  <div class="text-container">
+    <p class="p-date"><a href="https://qeunit.com/" target="_blank">QE Unit: The Quality Engineering Community</a></p>
+    <p>
+      We are an extended community of practice dedicated to one thing: succeed with Quality at Speed software
+    </p>
+    <div class="social-media-icons">
+      <a href="https://www.linkedin.com/company/qe-unit/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
     </div>
+  </div>
+</div>
 
 
 
-<!-- Consulting, Coaching & Training -->
+## Consulting, Coaching & Training
 
-<!-- WealCome - Michaël Azerhad   -->  <!--    https://wealcomecompany.com/    https://www.linkedin.com/company/wealcomecompany/   --> 
-
+<!-- WealCome - Michaël Azerhad   -->
+<div class="img-container c-container">
+  <img src="https://www.techexcellence.io/logo/qe_unit.png" alt="QE Unit" class="profile-img logo" width="90" height="90">
+  <div class="text-container">
+    <p class="p-date"><a href="https://wealcomecompany.com/" target="_blank">WealCome - Michaël Azerhad</a></p>
+<!--     <p>
+      We are an extended community of practice dedicated to one thing: succeed with Quality at Speed software
+    </p> -->
+    <div class="social-media-icons">
+      <a href="https://www.linkedin.com/company/wealcomecompany/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+</div>
 
 <!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check --> <!-- https://alcor.academy/  https://www.linkedin.com/company/alcor-academy/      -->
 
