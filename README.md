@@ -38,7 +38,7 @@
 	margin-bottom: .25rem !important;
 	font-weight: 600;
   }
-  social-media .fab {
+  social-media a .fab {
 	font-size: 3rem;
 	margin-right: 2rem;
 	margin-bottom: 1rem;
@@ -48,6 +48,18 @@
   .markdown-body p, p {
 	margin-bottom: 0;
   }
+	
+.social-media-icons a .fab {
+    font-size: 2rem;
+    margin-right: 1.5rem;
+    margin-top: .5rem;
+    color: #595e75;
+}
+.social-media-icons a .fab:hover {
+    color: #4664ee;
+}
+	
+	
 </style>
 
 
@@ -395,7 +407,7 @@
       </p>
       <div class="social-media-icons">
         <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener">
-          <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+          <i class="fab fa-linkedin"></i>
         </a>
       </div>
     </div>
