@@ -38,7 +38,7 @@
 	margin-bottom: .25rem !important;
 	font-weight: 600;
   }
-  .fab {
+  social-media .fab {
 	font-size: 3rem;
 	margin-right: 2rem;
 	margin-bottom: 1rem;
@@ -62,7 +62,7 @@
 
 <p style="margin-bottom: 2rem;">Our vision is to raise the bar of technical excellence across the world.</p>
 
-<div style="margin-bottom: 2rem">
+<div class="social-media" style="margin-bottom: 2rem">
 	<a href="https://www.meetup.com/techexcellence" target="_blank"><i class="fab fa-meetup"></i></a>
 	<a href="https://www.youtube.com/c/TechExcellence" target="_blank"><i class="fab fa-youtube"></i></a>
 	<a href="https://www.linkedin.com/company/techexcellenceio" target="_blank"><i class="fab fa-linkedin"></i></a>
