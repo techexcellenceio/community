@@ -411,9 +411,11 @@ Include similar section like sponsors, but for Tech Excellence
 
 <!-- OPTIVEM -->
 <div class="img-container c-container">
-  <a href="http://optivem.com/" target="_blank">
-    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
-  </a>
+  <div class="profile-img logo">
+    <a href="http://optivem.com/" target="_blank">
+      <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" width="90" height="90">
+    </a>
+  </div>
   <div class="text-container">
     <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
     <p>
@@ -465,7 +467,7 @@ Include similar section like sponsors, but for Tech Excellence
 <!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia   -->
 <!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check -->
 <!-- <div class="img-container c-container">
-  <img src="https://www.techexcellence.io/logo/wealcome.png" alt="Wealcome" class="profile-img logo" width="" height="30">
+  <img src="https://www.techexcellence.io/logo/alcor.png" alt="Alcor Academy" class="profile-img logo" width="" height="30">
   <div class="text-container">
     <p class="p-date"><a href="https://alcor.academy/" target="_blank">Alcor Academy - Marco Consolaro & Alessandro Di Gioia</a></p>
     <p>
@@ -479,6 +481,21 @@ Include similar section like sponsors, but for Tech Excellence
 
 
 <!-- Alexandre Cuva - SoCraDev Sarl --> <!-- https://socradev.ch   https://www.linkedin.com/company/socradev  --> 
+<!-- Not only collaboration, but also productive partnerships 
+
+
+Imagine a collaborative partnership where delivering a productive solution is as important than delivering a successful product. 
+										
+										
+										
+
+SoCraDev is a global organization with its site in Nyon, Switzerland, at the border of Geneva Lake.
+
+We understand that our customers have a common problem, their maintenance is costly and not adapted to today’s fast market changes. 
+
+We provide an agency dedicated to helping our customers to embrace digital with peace than with pain by bringing ours over +50 years of experience in company strategies and modern software practices. -->
+
+
 
 <!-- Yoan Thrion - Yoan Thrion --> <!--   https://www.yoan-thirion.com/    https://www.linkedin.com/company/yoan-thirion-freelance/ -->
 
