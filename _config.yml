@@ -1,3 +1,28 @@
 name: TechExcellence
 title: null
 description: Taking software development to the next level
+url: https://www.techexcellence.io/
+# baseurl : /something
+
+include: ['_pages']
+
+# Build settings
+theme: minima
+# theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-sitemap
+
+sass:
+  # where to search for Sass files, if the folder is called '_scss'
+  # sass_dir: assets/css
+  # sass_dir: _sass (default)
+  sass_dir: _scss
+  # Enable minification on your compiled CSS
+  style: compressed
+  
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

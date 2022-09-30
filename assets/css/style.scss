@@ -1,0 +1,102 @@
+---
+---
+@import "github-theme.css";
+
+// @import "{{ techexcellence }}";
+// @import "{{ minima }}";
+// @import "jekyll-theme-minimal";
+
+// // @import "{{ site.theme }}";
+
+// // @import "tech-excellence"; // @import "{{ site.theme }}";
+// // @import "{{ tech }}";
+
+
+// // @import
+// //   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+// //   "minima/initialize";
+
+
+.s-container {
+  align-items: center;
+  text-align: center;
+  @media(min-width: 576px) {
+    display: flex;
+    text-align: left;
+  }
+  .text-container {
+		margin-top: 0rem;
+		text-align: left;
+    .p-date {
+      margin-bottom: .25rem !important;
+      font-weight: 600;
+      }
+	}
+}
+
+.profile-img {
+  margin-right: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  @media(max-width: 575px) {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+  }
+}
+
+
+.markdown-body p, p {
+margin-bottom: 0;
+}
+
+// -----------------
+
+#vision {
+  p {
+    margin-bottom: 2rem;
+  }
+  .social-media a {
+    .fab {
+      font-size: 3rem;
+      margin-right: 2rem;
+      margin-bottom: 1rem;
+      color: #43cece;
+      &:hover {
+        color: #2fb7b7;
+        }
+    }
+  }
+}
+
+#vision, #organizers, #consulting-coaching {
+  margin-bottom: 3rem;
+}
+
+#sponsors, #partners, #consulting-coaching {
+  .text-container{
+    max-width: 700px;
+  }
+  .profile-img {
+    padding-right: 10px;
+  }
+  .social-media {
+    a {
+      .fab {
+        font-size: 1.75rem;
+        margin-right: 1.5rem;
+        margin-top: .5rem;
+        color: #9497a2;
+        &:hover {
+            color: #4664ee;
+        }
+      }
+    }
+  }
+}
+
+
+
+	
+
