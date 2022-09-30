@@ -411,11 +411,7 @@ Include similar section like sponsors, but for Tech Excellence
 
 <!-- OPTIVEM -->
 <div class="img-container c-container">
-  <div class="profile-img logo">
-    <a href="http://optivem.com/" target="_blank">
-      <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" width="90" height="90">
-    </a>
-  </div>
+      <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
   <div class="text-container">
     <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
     <p>
