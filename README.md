@@ -464,54 +464,7 @@ Include similar section like sponsors, but for Tech Excellence
 </div>
 
 
-<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia   -->
-<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check -->
-<div class="img-container c-container">
-  <img src="https://www.techexcellence.io/logo/alcor.png" alt="Alcor Academy" class="profile-img logo" width="" height="30">
-  <div class="text-container">
-    <p class="p-date"><a href="https://alcor.academy/" target="_blank">Alcor Academy - Marco Consolaro & Alessandro Di Gioia</a></p>
-    <p>
-      Rethink Digital Transformation: We help CTOs to promote a culture off excellence with our innovative socio-technical training. A successful change starts from the people... Are your teams equipped for the future?
-    </p>
-    <div class="social-media-icons">
-      <a href="https://www.linkedin.com/company/alcor-academy/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-    </div>
-  </div>
-</div>
 
-
-<!-- Alexandre Cuva - SoCraDev Sarl --> <!-- https://socradev.ch   https://www.linkedin.com/company/socradev  --> 
-Not only collaboration, but also productive partnerships 
-
-
-Imagine a collaborative partnership where delivering a productive solution is as important than delivering a successful product. 
-										
-										
-										
-
-SoCraDev is a global organization with its site in Nyon, Switzerland, at the border of Geneva Lake.
-
-We understand that our customers have a common problem, their maintenance is costly and not adapted to today’s fast market changes. 
-
-We provide an agency dedicated to helping our customers to embrace digital with peace than with pain by bringing ours over +50 years of experience in company strategies and modern software practices.
-
-
-
-<!-- Yoan Thrion - Yoan Thrion --> <!--   https://www.yoan-thirion.com/    https://www.linkedin.com/company/yoan-thirion-freelance/ -->
-
-I coach teams get better at XP practices, Continuous Integration and Development, Domain Driven Design, Clean Code, Behaviour Driven Development and many other technical practices (Mob programming, efficient code review, refactoring of legacy code, ...).
-
-Because there is no agility without technical excellence.
-
-<!-- CraftAcademy - Pierre Criulanscy --> <!-- LinkedIn page and website missing  -->
-
-<!-- On Test Automation - Bas Dijkstra  --> <!-- https://www.ontestautomation.com/training     https://www.linkedin.com/company/on-test-automation    -->
-
-Helping individuals, teams and organizations improve their test automation efforts
-
-Valuable automation training is more than just teaching people to perform tricks with tools. I’ve been a practitioner in the test automation space since 2006 and have worked with a wide range of clients and tools, so I’ve seen what works and what doesn’t.
-
-This experience has enabled me to build solid test automation training courses and workshops, which I have delivered to many companies in the Netherlands as well as abroad, to excellent reviews.
 
 
 
