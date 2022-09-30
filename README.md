@@ -42,7 +42,7 @@
 	font-size: 3rem;
 	margin-right: 2rem;
 	margin-bottom: 1rem;
-	color: #43cece;
+	color: #9497a2;
   }
   .social-media a .fab:hover {
 	color: #2fb7b7;
@@ -55,8 +55,11 @@
 .c-container {
     margin-bottom: 3rem; max-width: 700px;
 }
+<!-- .container .text-container p a {
+	font-size: 17px;
+} -->
 .social-media-icons a .fab {
-    font-size: 2rem;
+    font-size: 1.75rem;
     margin-right: 1.5rem;
     margin-top: .5rem;
     color: #595e75;
@@ -408,7 +411,9 @@ Include similar section like sponsors, but for Tech Excellence
 
 <!-- OPTIVEM -->
 <div class="img-container c-container">
-  <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
+  <a href="http://optivem.com/" target="_blank">
+    <img src="https://www.techexcellence.io/logo/optivem2.png" alt="Optivem" class="profile-img logo" width="90" height="90">
+  </a>
   <div class="text-container">
     <p class="p-date"><a href="http://optivem.com/" target="_blank">Optivem</a></p>
     <p>
@@ -447,16 +452,31 @@ Include similar section like sponsors, but for Tech Excellence
   <img src="https://www.techexcellence.io/logo/wealcome.png" alt="Wealcome" class="profile-img logo" width="" height="30">
   <div class="text-container">
     <p class="p-date"><a href="https://wealcomecompany.com/" target="_blank">WealCome - Michaël Azerhad</a></p>
-<!--     <p>
-      We are an extended community of practice dedicated to one thing: succeed with Quality at Speed software
-    </p> -->
+    <p>
+      WealCome is the founded by Michaël AZERHAD, TDD/DDD influencer about Software Craft on LinkedIn. We carry out your projects brilliantly and offer training services (Qualiopi certified).
+    </p>
     <div class="social-media-icons">
       <a href="https://www.linkedin.com/company/wealcomecompany/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 </div>
 
-<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check --> <!-- https://alcor.academy/  https://www.linkedin.com/company/alcor-academy/      -->
+
+<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia   -->
+<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia... probably also adding Alexandre Cuva, pending check -->
+<!-- <div class="img-container c-container">
+  <img src="https://www.techexcellence.io/logo/wealcome.png" alt="Wealcome" class="profile-img logo" width="" height="30">
+  <div class="text-container">
+    <p class="p-date"><a href="https://alcor.academy/" target="_blank">Alcor Academy - Marco Consolaro & Alessandro Di Gioia</a></p>
+    <p>
+      Rethink Digital Transformation: We help CTOs to promote a culture off excellence with our innovative socio-technical training. A successful change starts from the people... Are your teams equipped for the future?
+    </p>
+    <div class="social-media-icons">
+      <a href="https://www.linkedin.com/company/alcor-academy/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+</div> -->
+
 
 <!-- Alexandre Cuva - SoCraDev Sarl --> <!-- https://socradev.ch   https://www.linkedin.com/company/socradev  --> 
 
