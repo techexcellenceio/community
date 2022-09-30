@@ -399,6 +399,10 @@
 
 <div style="margin-bottom: 3rem;">&nbsp;</div>
 
+<!--
+About Us
+Include similar section like sponsors, but for Tech Excellence
+-->
 
 ## Our Sponsors
 
