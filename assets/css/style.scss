@@ -16,6 +16,18 @@
 // //   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
 // //   "minima/initialize";
 
+#speakers-2022, #about, #sponsors, #partners {
+  .s-container {
+    &:first-of-type {
+      .profile-img {
+          margin-top: 1rem !important;
+          margin-bottom: 1rem !important;
+          // background-color: #2fb7b7;
+      }
+      margin-bottom: 1rem;
+    }
+  }
+}
 
 .s-container {
   align-items: center;
