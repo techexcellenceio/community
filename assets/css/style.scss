@@ -96,13 +96,15 @@ margin-bottom: 0;
   }
   .profile-img {
     padding-right: 10px;
+    margin-top: 2.75rem; //2
+    margin-bottom: 2.75rem; //2
   }
   .social-media {
     a {
       .fab {
         font-size: 1.75rem;
         margin-right: 1rem;
-        margin-top: 1rem;
+        margin-top: .75rem;
         color: #babfce;
         &:hover {
             color: #4664ee;
@@ -111,7 +113,6 @@ margin-bottom: 0;
     }
   }
 }
-
 
 
 	
