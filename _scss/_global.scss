@@ -1,0 +1,138 @@
+#speakers-2022, #about, #sponsors, #partners, #network {
+    .s-container {
+      &:first-of-type {
+        .profile-img {
+            margin-top: 1rem !important;
+            margin-bottom: 1rem !important;
+            // background-color: #2fb7b7;
+        }
+      }
+    }
+}
+
+#speakers-2022, #about, #sponsors, #partners, #network, #organizers, #vision, #faq {
+    .s-container {
+        &:first-of-type {
+        margin-top: 1rem;
+        @include media-breakpoint-down(xs) {
+            margin-top: 2rem;
+        }
+        }
+        &:last-of-type {
+        margin-bottom: 4rem;
+        @include media-breakpoint-down(xs) {
+            margin-bottom: 6rem;
+        }
+        // background-color: pink;
+        }
+    }
+}
+
+.s-container {
+    align-items: center;
+    text-align: center;
+        @include media-breakpoint-up(sm) {
+            display: flex;
+            text-align: left;
+        }
+    .text-container {
+        margin-top: 0rem;
+        text-align: left;
+        .p-date {
+            margin-bottom: .25rem !important;
+            font-weight: 600;
+        }
+    }
+}
+
+.profile-img {
+    margin-right: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    @include media-breakpoint-down(xs){
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 4rem;
+        margin-bottom: 1rem;
+    }
+}
+
+
+.markdown-body p, p {
+    margin-bottom: 0;
+}
+
+// -----------------
+
+#vision {
+p {
+    margin-bottom: 2rem;
+}
+.social-media a {
+    .fab {
+    font-size: 3rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    color: #43cece;
+    &:hover {
+            color: #2fb7b7;
+            }
+        }
+    }
+}
+
+
+#sponsors, #partners, #network, #about {
+    .s-container {
+        @include media-breakpoint-only(sm) {
+            margin-bottom: 2.5rem;
+        }
+    }
+    .text-container{
+        // text-align: center;
+        max-width: 500px;
+    }
+    .profile-img {
+        // text-align: left;
+        padding-right: 10px;
+        margin-top: 2.75rem; //2
+        margin-bottom: 2.75rem; //2
+        @include media-breakpoint-down(xs){
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 4rem;
+            margin-bottom: 1.5rem;
+        }
+    }
+    .social-media {
+        a {
+            .fab {
+                font-size: 1.75rem;
+                margin-right: 1rem;
+                margin-top: .75rem;
+                color: #babfce;
+                &:hover {
+                    color: #4664ee;
+                }
+            }
+        }
+    }
+}
+
+#vision, #organizers, #faq {
+    .s-container {
+        text-align: left;
+        margin-top: 0 !important;
+        display: block;
+    }
+}
+    
+.markdown-body img {
+    max-width: none;
+}
+  
+#masthead {
+    img {
+        max-width: 100%;
+    }
+}
