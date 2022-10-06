@@ -2,21 +2,20 @@
 ---
 @import "github-theme.css";
 
+@import "../node_modules/bootstrap/scss/functions"; //~
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+// @import "../node_modules/bootstrap/scss/bootstrap";
+
+
 // @import "{{ techexcellence }}";
 // @import "{{ minima }}";
 // @import "jekyll-theme-minimal";
+// @import "tech-excellence"; // @import "{{ site.theme }}";
+// "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+// "minima/initialize";
 
-// // @import "{{ site.theme }}";
-
-// // @import "tech-excellence"; // @import "{{ site.theme }}";
-// // @import "{{ tech }}";
-
-
-// // @import
-// //   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-// //   "minima/initialize";
-
-#speakers-2022, #about, #sponsors, #partners {
+#speakers-2022, #about, #sponsors, #partners, #network {
   .s-container {
     &:first-of-type {
       .profile-img {
@@ -24,7 +23,18 @@
           margin-bottom: 1rem !important;
           // background-color: #2fb7b7;
       }
-      margin-bottom: 1rem;
+    }
+  }
+}
+
+#speakers-2022, #about, #sponsors, #partners, #network, #organizers, #vision {
+  .s-container {
+    &:first-of-type {
+      margin-top: 2rem;
+    }
+    &:last-of-type {
+      margin-bottom: 4rem;
+      // background-color: pink;
     }
   }
 }
@@ -50,7 +60,7 @@
   margin-right: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  @media(max-width: 575px) {
+  @include media-breakpoint-down(sm){
     margin-left: auto;
     margin-right: auto;
     margin-top: 4rem;
@@ -82,22 +92,26 @@ margin-bottom: 0;
   }
 }
 
-#vision, #organizers, #sponsors, #partners, #consulting-coaching, #about {
-  margin-bottom: 3rem;
-}
 
-#organizers {
-  padding-bottom: 2rem;
-}
-
-#sponsors, #partners, #consulting-coaching, #about {
+#sponsors, #partners, #network, #about {
   .text-container{
+    // text-align: center;
     max-width: 500px;
+    @include media-breakpoint-only(sm) {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
   }
   .profile-img {
     padding-right: 10px;
     margin-top: 2.75rem; //2
     margin-bottom: 2.75rem; //2
+    @include media-breakpoint-down(sm){
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 3.75rem;
+      margin-bottom: 1.5rem;
+    }
   }
   .social-media {
     a {
@@ -114,6 +128,13 @@ margin-bottom: 0;
   }
 }
 
-
+#vision, #organizers {
+  .s-container {
+    text-align: left;
+    margin-top: 0 !important;
+  }
+}
 	
-
+.markdown-body img {
+  max-width: none;
+}
