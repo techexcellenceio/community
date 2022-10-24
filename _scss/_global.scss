@@ -1,4 +1,4 @@
-#speakers-2022, #about, #sponsors, #partners, #network {
+#speakers-2022, #about, #sponsors, #partners, #network, #organizers {
     .s-container {
       &:first-of-type {
         .profile-img {
@@ -10,7 +10,7 @@
     }
 }
 
-#speakers-2022, #about, #sponsors, #partners, #network, #organizers, #vision, #faq {
+#speakers-2022, #about, #sponsors, #partners, #network, #organizers, #vision, #faq, #organizers {
     .s-container {
         &:first-of-type {
             margin-top: 1rem;
@@ -134,7 +134,34 @@
     }
 }
 
-#vision, #organizers, #faq {
+#organizers {
+    .p-title {
+        margin-bottom: .25rem !important;
+        font-weight: 600;
+    }
+    .p-about {
+        max-width: 720px; // 660
+    }
+    .social-media {
+        a {
+            .fab {
+                font-size: 1.75rem;
+                margin-right: 1rem;
+                margin-top: .75rem;
+                color: #b6deea;
+                &:hover {
+                    color: #8fd2e9;
+                }
+            }
+        }
+    }
+    .profile-img {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}
+
+#vision, #faq {
     .s-container {
         text-align: left;
         margin-top: 0 !important;
@@ -149,5 +176,54 @@
 #masthead {
     img {
         max-width: 100%;
+    }
+}
+
+// shadow? border around user?? or line below
+#members {
+    .name {
+        margin-bottom: .25rem;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .title {
+        font-size: 16px;
+    }
+    .about {
+        font-size: 15px;
+    }
+    .location {
+        font-size: 14px; 
+        color: gray;
+        margin-bottom: .25rem;
+        margin-top: .25rem;
+    }
+    // p {
+    //     display: flex;
+    // }
+    p.specialities span {
+        background: #3e5495;
+        color: white;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        margin-top: 2px;
+        margin-bottom: 2px;
+        display: inline-block;
+        font-size: 14px;
+        border-radius: 6px;
+    }
+    .tech-stack {
+        margin-top: .25rem;
+    }
+    .social-media a .fab, .social-media a .fa {
+        font-size: 1.25rem;
+        margin-right: .75rem;
+        margin-top: .75rem;
+        color: #222631;
+        &:hover {
+            color: #4664ee;
+        }
     }
 }
