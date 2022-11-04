@@ -12,3 +12,7 @@ You can join us on:
 * GitHub: [github.com/techexcellenceio](https://github.com/techexcellenceio)
 
 Do you have any questions or ideas? Feel free to start a discussion on [Discussions](https://github.com/techexcellenceio/community/discussions).
+
+## Editing content
+
+Instructions for editing website content are described on the [CONTRIBUTING](https://github.com/techexcellenceio/community/blob/main/CONTRIBUTING.md) page.
