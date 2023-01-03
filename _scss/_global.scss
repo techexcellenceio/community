@@ -73,7 +73,7 @@
         margin-bottom: 2rem;
     }
     .social-media a {
-        .fab {
+        .fab, .fas {
         font-size: 3rem;
         @media (max-width: 567px) {
             font-size: 2.5rem;
@@ -87,7 +87,7 @@
                 }
         }
         &:last-child{
-            .fab{
+            .fab, .fas{
                 margin-right: 0;
             }
         }
@@ -121,7 +121,7 @@
     }
     .social-media {
         a {
-            .fab {
+            .fab, .fas {
                 font-size: 1.75rem;
                 margin-right: 1rem;
                 margin-top: .75rem;
@@ -144,7 +144,7 @@
     }
     .social-media {
         a {
-            .fab {
+            .fab, .fas {
                 font-size: 1.75rem;
                 margin-right: 1rem;
                 margin-top: .75rem;
@@ -217,7 +217,7 @@
     .tech-stack {
         margin-top: .25rem;
     }
-    .social-media a .fab, .social-media a .fa {
+    .social-media a .fab, .social-media a .fa, .social-media a .fas {
         font-size: 1.25rem;
         margin-right: .75rem;
         margin-top: .75rem;
