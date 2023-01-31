@@ -13,6 +13,30 @@ theme: minima
 gems:
   - jekyll-sitemap
 
+permalink: /:year/:month/:day/:title
+# permalink: pretty
+
+# if collections not at root level
+collections_dir: content
+
+collections:
+  members:
+    output: true
+    # order:
+    #   - jelena-cupac.md
+    #   - j-cupac.md
+    #   - valentina-cupac.md
+
+# defaults:
+#   - scope:
+#       path: "_members"
+#       type: "members"
+#     values:
+#       layout: "member"
+#   - scope:
+#       path: ""
+
+
 sass:
   # where to search for Sass files, if the folder is called '_scss'
   # sass_dir: assets/css

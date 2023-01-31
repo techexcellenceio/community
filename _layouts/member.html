@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div id="members" class="container-lg px-3 my-5 markdown-body">
+
+        
+        <div id="masthead">
+            {% include masthead.html %}
+        </div>
+
+
+        <h2>Overview</h2>
+
+        <div class="s-container" style="margin-bottom: 5rem;">
+            <p>
+                This page contains our members, people who care about and practice Technical Excellence. 
+                We're comprised of Technical Coaches and Trainers, Engineering Leaders, Software Developers, and more. 
+                You can become a member by adding yourself to this list and making a PR. 
+                If you're a company and would like your organization to be added, then please 
+                <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">send a message to Valentina </a>
+                with details about your company.
+            </p>
+        </div>
+
+        <!-- MEMBERS -->
+        {{ content }}
+
+        
+        <div id="footer">
+            {% include footer.html %}     
+        </div>
+        
+        {% include scripts.html %}
+
+    </div>
+  </body>
+</html>

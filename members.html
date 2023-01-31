@@ -1,5 +1,57 @@
 ---
-layout: members-layout
+layout: member
+title: 
 ---
+
+{% for d-member in site.data.members.list %}
+    {% for member in site.members %}
+        {% if d-member.i == member.i %}
+
+
+<div class="s-container">
+    <img src="{{ site.url }}/assets/img/{{ member.i }}.png" alt="{{ member.name }}" class="profile-img" width="100" height="100" />
+    <div class="text-container">
+        <p class="name">
+            {{ member.name }}
+        </p>
+        <p class="title">
+            {{ member.title }}
+        </p>
+        <p class="about">
+            {{ member.about }}
+        </p>
+        <p class="location">
+            {{ member.location }}
+        </p>
+        <p class="specialities">
+            {% for speciality in member.specialities %}
+            {% assign n = forloop.index0 %}
+            <span>
+                {{ member.specialities[n] }}
+            </span>
+            {% endfor %}
+        </p>
+
+
+        <p class="tech-stack">
+            {{ member.tech-stack }}
+        </p>
+        <div class="social-media">
+            {% if member.linkedin == empty or member.linkedin != nil %}
+                <a href="{{ member.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+            {% endif %}
+            {% if member.twitter == empty or member.linkedin != nil %}
+                <a href="{{ member.twitter }}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+            {% endif %}
+            {% if member.website == empty or member.linkedin != nil %}
+                <a href="{{ member.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+        {% endif %}
+    {% endfor %}
+{% endfor %}
 
 
