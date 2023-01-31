@@ -181,6 +181,10 @@
 
 // shadow? border around user?? or line below
 #members {
+    .s-container {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
     .name {
         margin-bottom: .25rem;
         font-weight: 600;
