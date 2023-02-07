@@ -11,6 +11,14 @@ specialities:
 tech-stack: 
 
 linkedin: https://www.linkedin.com/in/arielxperez/
-twitter: 
+twitter: https://twitter.com/arielxperez
+github: https://twitter.com/arielxperez
 website: 
+youtube: 
+medium: 
+blog: 
 ---
+
+https://www.meetup.com/techexcellence/events/289308513/
+
+https://www.youtube.com/watch?v=kMl10keIvu8

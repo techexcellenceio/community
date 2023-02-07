@@ -10,7 +10,15 @@ specialities:
     - 
 tech-stack: 
 
-linkedin: https://www.linkedin.com/in/alina-liburkina-657637128/
+linkedin: https://www.linkedin.com/in/alina-liburkina
 twitter: 
+github: https://github.com/alinaliburkina
 website: 
+youtube: 
+medium: 
+blog: 
 ---
+
+https://www.meetup.com/techexcellence/events/289726691/
+
+https://www.youtube.com/watch?v=Gr_sLZ28Klw

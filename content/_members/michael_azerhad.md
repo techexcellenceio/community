@@ -12,5 +12,9 @@ tech-stack:
 
 linkedin: https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/
 twitter: 
+github: 
 website: 
+youtube: 
+medium: 
+blog: 
 ---

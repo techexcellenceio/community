@@ -20,5 +20,9 @@ tech-stack: Java, .NET, NodeJS, Python, C/C++
 
 linkedin: https://www.linkedin.com/in/valentinacupac
 twitter: https://twitter.com/ValentinaCupac
+github: https://github.com/valentinacupac
 website: https://optivem.com/
+youtube: 
+medium: 
+blog: 
 ---
