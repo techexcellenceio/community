@@ -14,7 +14,7 @@
         <a href="{{ member.2023_link }}" target="_blank">{{ member.2023_title }}</a>
         <p>
             <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">{{ member.name }}</a>,
-            {{ member.title }}, <em>Belgrade, Serbia</em>
+            {{ member.title }}, <em>{{ member.location }}</em>
         </p>
     </div>
 </div>
@@ -22,3 +22,4 @@
         {% endif %}
     {% endfor %}
 {% endfor %}
+
