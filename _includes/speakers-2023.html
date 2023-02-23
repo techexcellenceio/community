@@ -1,17 +1,24 @@
+
 <h2>Meetup Calendar for 2023</h2>
 
 <!-- JC TODO add social media for speakers -->
-        
-<!-- VALENTINA -->
+
+{% for speaker in site.data.speakers.s2023 %}
+    {% for member in site.members %}
+        {% if speaker.i == member.i %}
+
 <div class="s-container">
-    <img src="{{ site.url }}/assets/img/valentina_cupac.png" alt="valentina-cupac" class="profile-img" width="100" height="100" style="margin-top: 2rem;" />
+    <img src="{{ site.url }}/assets/img/{{ member.i }}.png" alt="{{ member.name }}" class="profile-img" width="100" height="100" style="margin-top: 2rem;" />
     <div class="text-container">
-        <p class="p-date">08 Feb 2023</p>
-        <a target="_blank">TDD & Contract Testing in Microservice Architecture</a>
+        <p class="p-date">{{ member.2023_date }}</p>
+        <a href="{{ member.2023_link }}" target="_blank">{{ member.2023_title }}</a>
         <p>
-            <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>,
-            Founder &amp; Technical Coach @ Optivem, <em>Belgrade, Serbia</em>
+            <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">{{ member.name }}</a>,
+            {{ member.title }}, <em>Belgrade, Serbia</em>
         </p>
     </div>
 </div>
 
+        {% endif %}
+    {% endfor %}
+{% endfor %}

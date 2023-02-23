@@ -2,7 +2,7 @@
 i: yoan_thirion
 
 name: Yoan Thirion
-title: AFfocusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices
+title: Focusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices
 location: Luxembourg
 specialities:
     - 
