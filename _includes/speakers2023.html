@@ -30,15 +30,22 @@
         {% endif %}
     {% endfor %}
 
+
     <div class="s-container">
-        <a class="profile-img" href="{{ s1_linkedin }}" target="_blank">
-            <img src="{{ site.url }}/assets/img/{{ s1_i }}.png?v=2" alt="{{ s1_name }}" width="100" height="100" />
-        </a>
-        {% if speaker2 %}
-        <a class="profile-img" href="{{ s2_linkedin }}" target="_blank">
-            <img src="{{ site.url }}/assets/img/{{ s2_i }}.png?v=2" alt="{{ s2_name }}" width="100" height="100" />
-        </a>
-        {% endif %}
+        <div class="img-c">
+            <div class="profile-img">
+                <a href="{{ s1_linkedin }}" target="_blank">
+                    <img src="{{ site.url }}/assets/img/{{ s1_i }}.png?v=2" alt="{{ s1_name }}" width="100" height="100" />
+                </a>
+            </div>
+            {% if speaker2 %}
+            <div class="profile-img">
+                <a href="{{ s2_linkedin }}" target="_blank">
+                    <img src="{{ site.url }}/assets/img/{{ s2_i }}.png?v=2" alt="{{ s2_name }}" width="100" height="100" />
+                </a>
+            </div>
+            {% endif %}
+        </div>
         <div class="text-container">
             <p class="p-date">{{ talk.date }}</p>
             {% if talk.link %}

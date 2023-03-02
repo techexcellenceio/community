@@ -52,14 +52,19 @@
     }
 }
 
+.img-c {
+    display: flex;
+    justify-content: center;
+}
+
 .profile-img {
     margin-right: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
     @media (max-width: 567px){
     // @include media-breakpoint-down(xs){
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: .5rem;
+        margin-right: 0.5rem;
         margin-top: 4rem;
         margin-bottom: 1rem;
     }

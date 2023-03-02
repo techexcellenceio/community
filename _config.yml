@@ -1,7 +1,7 @@
 name: TechExcellence
 title: null
 description: Taking software development to the next level
-url: https://www.techexcellence.io/
+url: https://www.techexcellence.io
 # baseurl : /something
 
 include: ['_pages']
