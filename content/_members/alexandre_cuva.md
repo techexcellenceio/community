@@ -2,7 +2,7 @@
 i: alexandre_cuva
 
 name: Alexandre Cuva
-title: CEO, Software Crafts, agile technical coach @ SoCraDev
+title: CEO, Software Crafts, Agile technical coach @ SoCraDev
 about: 
 location: Nyon, Switzerland
 specialities:
