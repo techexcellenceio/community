@@ -3,23 +3,65 @@
 
 <!-- JC TODO add social media for speakers -->
 
-{% for speaker in site.data.speakers.s2023 %}
+{% for talk in site.data.speakers2023 %}
+    {% assign speaker1 = talk.speaker1 %}
+
+    {% if talk.speaker2 %}
+        {% assign speaker2 = talk.speaker2 %}
+    {% endif %}
+
     {% for member in site.members %}
-        {% if speaker.i == member.i %}
+        {% if member.i == speaker1 %}
+            {% assign s1_i = member.slug %}
+            {% assign s1_name = member.name %}
+            {% assign s1_title = member.title %}
+            {% assign s1_location = member.location %}
+            {% assign s1_linkedin = member.linkedin %}
+        {% endif %}
 
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/{{ member.i }}.png" alt="{{ member.name }}" class="profile-img" width="100" height="100" style="margin-top: 2rem;" />
-    <div class="text-container">
-        <p class="p-date">{{ member.2023_date }}</p>
-        <a href="{{ member.2023_link }}" target="_blank">{{ member.2023_title }}</a>
-        <p>
-            <a href="{{ member.linkedin }}" target="_blank">{{ member.name }}</a>,
-            {{ member.title }}, <em>{{ member.location }}</em>
-        </p>
-    </div>
-</div>
-
+        {% if speaker2 %}
+            {% if member.i == speaker2 %}
+                {% assign s2_i = member.slug %}
+                {% assign s2_name = member.name %}
+                {% assign s2_title = member.title %}
+                {% assign s2_location = member.location %}
+                {% assign s2_linkedin = member.linkedin %}
+            {% endif %}
         {% endif %}
     {% endfor %}
+
+    <div class="s-container">
+        <a class="profile-img" href="{{ s1_linkedin }}" target="_blank">
+            <img src="{{ site.url }}/assets/img/{{ s1_i }}.png?v=2" alt="{{ s1_name }}" width="100" height="100" />
+        </a>
+        {% if speaker2 %}
+        <a class="profile-img" href="{{ s2_linkedin }}" target="_blank">
+            <img src="{{ site.url }}/assets/img/{{ s2_i }}.png?v=2" alt="{{ s2_name }}" width="100" height="100" />
+        </a>
+        {% endif %}
+        <div class="text-container">
+            <p class="p-date">{{ talk.date }}</p>
+            {% if talk.link %}
+            <a class="p-title" href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>
+            {% else %}
+            <a class="p-title">{{ talk.title }}</a>
+            {% endif %}
+            <p>
+                <a href="{{ s1_linkedin }}" target="_blank">{{ s1_name }}</a>,
+                {{ s1_title }}, <em>{{ s1_location }}</em>
+            </p>
+            {% if speaker2 %}
+            <p>
+                <a href="{{ s2_linkedin }}" target="_blank">{{ s2_name }}</a>,
+                {{ s2_title }}, <em>{{ s2_location }}</em>
+            </p>
+            {% endif %}
+        </div>
+    </div>
+
+    {% assign speaker1 = null %}
+    {% assign speaker2 = null %}
+
 {% endfor %}
+
 

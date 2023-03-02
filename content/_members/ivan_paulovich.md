@@ -3,7 +3,7 @@ i: ivan_paulovich
 
 name: Ivan Paulovich
 title: Engineering Manager @ Lunar
-about: 
+about: Ivan Paulovich is an Engineering Manager at Lunar Bank with an interest in Clean Architecture, Use-cases driven development and passionate about .NET and C++. A Brazilian living in Stockholm since 2018, enjoys SUP, Windsurfing and some game engine development.
 location: Stockholm, Sweden
 specialities:
     - 
@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: https://paulovich.net/
 ---
-
-https://www.meetup.com/techexcellence/events/287876888/
-
-https://www.youtube.com/watch?v=g2gwmqZQUkQ

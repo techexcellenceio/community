@@ -25,10 +25,5 @@ website: https://www.malotaux.eu
 youtube: 
 medium: 
 blog: 
-
-2023_date: 15 March 2023
-2023_title: Help! We have a QA problem!
-2023_link: https://www.youtube.com/watch?v=hUuL74rRv9o
 ---
 
-MEETUP: https://www.meetup.com/techexcellence/events/291719517/

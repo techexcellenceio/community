@@ -20,10 +20,4 @@ website:
 youtube: https://www.youtube.com/@ahmedmisbah 
 medium: 
 blog: 
-
-2023_date: 8 March 2023
-2023_title: TDD Anti-patterns
-2023_link: https://www.youtube.com/watch?v=TzkuDJ6ef44
 ---
-
-MEETUP: https://www.meetup.com/techexcellence/events/291444161/

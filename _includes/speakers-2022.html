@@ -1,296 +1,62 @@
 <h2>Meetup Calendar for 2022</h2>
 
-<!-- JC TODO add social media for speakers -->
-        
-<!-- VALENTINA -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/valentina_cupac.png" alt="valentina_cupac" class="profile-img" width="100" height="100" style="margin-top: 2rem;" />
-    <div class="text-container">
-        <p class="p-date">30 Jun 2022</p>
-        <a href="https://www.youtube.com/watch?v=WAoqGzVDHc0" target="_blank">TDD in Hexagonal Architecture and Clean Architecture</a>
-        <p>
-            <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>,
-            Founder &amp; Technical Coach @ Optivem, <em>Belgrade, Serbia</em>
-        </p>
-    </div>
-</div>
+{% for talk in site.data.speakers2022 %}
+    {% assign speaker1 = talk.speaker1 %}
 
-<!-- YOAN & GUILLAUME -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/yoan_thirion.png" alt="yoan-thirion" class="profile-img" width="100" height="100" style="margin-right: 1rem;" />
-    <img src="{{ site.url }}/assets/img/guillaume_faas.png" alt="guillaume-faas" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">06 Jul 2022</p>
-        <a href="https://www.youtube.com/watch?v=yxO7YHkB83I" target="_blank">Xtrem TDD by Example</a>
-        <p>
-            <a href="https://www.linkedin.com/in/yoanthirion/" target="_blank">Yoan Thirion</a>,
-            Agile Technical Coach @yoan-thirion.com, <em>Luxembourg</em>
-        </p>
-        <p>
-            <a href="https://www.linkedin.com/in/guillaumefaas/" target="_blank">Guillaume Faas</a>,
-            Software Craftsmanship Leader &amp; .Net Expert @Squaremiled S.A., <em>Luxembourg</em>
-        </p>
-    </div>
-</div>
+    {% if talk.speaker2 %}
+        {% assign speaker2 = talk.speaker2 %}
+    {% endif %}
 
-<!-- MICHELE -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/michele_sollecito.png" alt="michele-sollecito" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">20 Jul 2022</p>
-        <a href="https://www.youtube.com/watch?v=a3jUXRJRddQ" target="_blank">TDD and other Agile practices: A Systemic Perspective</a>
-        <p>
-            <a href="https://www.linkedin.com/in/michelesollecito/" target="_blank">Michele Sollecito</a>,
-            Head Of Architecture @ JP Morgan, <em>London, United Kingdom</em>
-        </p>
-    </div>
-</div>
+    {% for member in site.members %}
+        {% if member.i == speaker1 %}
+            {% assign s1_i = member.slug %}
+            {% assign s1_name = member.name %}
+            {% assign s1_title = member.title %}
+            {% assign s1_location = member.location %}
+            {% assign s1_linkedin = member.linkedin %}
+        {% endif %}
 
-<!-- MICHAEL -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/michael_azerhad.png" alt="michael-azerhad" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">03 Aug 2022</p>
-        <a href="https://www.youtube.com/watch?v=Vi_FtRXopdQ" target="_blank">If you refactor after each green TDD step, you’ll fail!</a>
-        <p>
-            <a href="https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/" target="_blank">Michaël Azerhad</a>,
-            Founder @ WealCome, <em>Paris, France</em>
-        </p>
-    </div>
-</div>
+        {% if speaker2 %}
+            {% if member.i == speaker2 %}
+                {% assign s2_i = member.slug %}
+                {% assign s2_name = member.name %}
+                {% assign s2_title = member.title %}
+                {% assign s2_location = member.location %}
+                {% assign s2_linkedin = member.linkedin %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 
-<!-- URS -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/urs_enzler.png" alt="urs-enzler" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">16 Aug 2022</p>
-        <a href="hhttps://www.youtube.com/watch?v=JcKLqX8wuR4" target="_blank">TDD Perspectives: Trade-offs and impact of functional programming</a>
-        <p>
-            <a href="https://www.linkedin.com/in/ursenzler/" target="_blank">Urs Enzler</a>,
-            Software Architect @ Calitime AG, Co-organizer @ .NET Usergroup Zentralschweiz <em>Zug, Switzerland</em>
-        </p>
+    <div class="s-container">
+        <a class="profile-img" href="{{ s1_linkedin }}" target="_blank">
+            <img src="{{ site.url }}/assets/img/{{ s1_i }}.png?v=2" alt="{{ s1_name }}" width="100" height="100" />
+        </a>
+        {% if speaker2 %}
+        <a class="profile-img" href="{{ s2_linkedin }}" target="_blank">
+            <img src="{{ site.url }}/assets/img/{{ s2_i }}.png?v=2" alt="{{ s2_name }}" width="100" height="100" />
+        </a>
+        {% endif %}
+        <div class="text-container">
+            <p class="p-date">{{ talk.date }}</p>
+            {% if talk.link %}
+            <a class="p-title" href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>
+            {% else %}
+            <a class="p-title">{{ talk.title }}</a>
+            {% endif %}
+            <p>
+                <a href="{{ s1_linkedin }}" target="_blank">{{ s1_name }}</a>,
+                {{ s1_title }}, <em>{{ s1_location }}</em>
+            </p>
+            {% if speaker2 %}
+            <p>
+                <a href="{{ s2_linkedin }}" target="_blank">{{ s2_name }}</a>,
+                {{ s2_title }}, <em>{{ s2_location }}</em>
+            </p>
+            {% endif %}
+        </div>
     </div>
-</div>
 
-<!-- PIERRE -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/pierre_criulanscy.png" alt="pierre-criulanscy" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">31 Aug 2022</p>
-        <a href="https://www.youtube.com/watch?v=z58ckvPYVAI" target="_blank">TDD: How to Write Maintainable Tests as Executable Specifications</a>
-        <p>
-            <a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">Pierre Criulanscy</a>,
-            Trainer &amp; Consultant @ CraftAcademy, <em>Montreuil, France</em>
-        </p>
-    </div>
-</div>
+    {% assign speaker1 = null %}
+    {% assign speaker2 = null %}
 
-<!-- IVAN -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/ivan_paulovich.png" alt="ivan-paulovich" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">07 Sep 2022</p>
-        <a href="https://www.youtube.com/watch?v=g2gwmqZQUkQ" target="_blank">Clean Architecture: Principles, Patterns and Practices</a>
-        <p>
-            <a href="https://www.linkedin.com/in/ivanpaulovich/" target="_blank">Ivan Paulovich</a>,
-            Engineering Manager @ Lunar, <em>Stockholm, Sweden</em>
-        </p>
-    </div>
-</div>
-
-<!-- ALEX -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/alex_bunardzic.png" alt="alex-bunardzic" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">14 Sep 2022</p>
-        <a href="https://www.youtube.com/watch?v=unbrl4QjhGc" target="_blank">Agile is a slow and steady way to win the race</a>
-        <p>
-            <a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>,
-            Director of Automation @ digitalexprt.com, <em>Vancouver, Canada</em>
-        </p>
-    </div>
-</div>
-
-<!-- DANIEL -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/daniel_moka.png" alt="daniel-moka" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">20 Sep 2022</p>
-        <a href="https://www.youtube.com/watch?v=h70T_eWGCHM" target="_blank">How to sell TDD to the management and your fellow colleagues</a>
-        <p>
-            <a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>,
-            Software Craftsman @ MokaIT, Co-creator @ TDD Manifesto <em>France</em>
-        </p>
-    </div>
-</div>
-
-<!-- BRYAN -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/bryan_finster.png" alt="bryan-finster" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">28 Sep 2022</p>
-        <a href="https://www.youtube.com/watch?v=nDHtub5BhXQ" target="_blank">The Trouble with Continuous Delivery</a>
-        <p>
-            <a href="https://www.linkedin.com/in/bryan-finster/" target="_blank">Bryan Finster</a>,
-            Value Stream Architect @ Defense Unicorns, <em>Arkansas, United States</em>
-        </p>
-    </div>
-</div>
-
-<!-- RODISLAV + ADRIEN -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/rodislav_moldovan.png" alt="rodislav-moldovan" class="profile-img" width="100" height="100" style="margin-right: 1rem;" />
-    <img src="{{ site.url }}/assets/img/adrien_muller.png" alt="adrien-muller" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">05 Oct 2022</p>
-        <a href="https://www.youtube.com/watch?v=5l5Klz4Mwf4" target="_blank">Tech Interview Cookbook</a>
-        <p><a href="https://www.linkedin.com/in/rodislav" target="_blank">Rodislav Moldovan</a>,
-            Software Craftsman @ BIL Luxembourg, <em>Luxembourg</em>
-        </p>
-        <p>
-            <a href="https://www.linkedin.com/in/adrien-muller-566373a/" target="_blank">Adrien Muller</a>,
-            Technical Coach &amp; Software Craftsman @ BIL, <em>Luxembourg</em>
-        </p>
-    </div>
-</div>
-
-<!-- BAS -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/bas_dijkstra.png" alt="bas-dijkstra" class="profile-img" width="100" height="100" />    <div class="text-container">
-        <p class="p-date">12 Oct 2022</p>
-        <a href="https://www.youtube.com/watch?v=bxdK3zJ8boU" target="_blank">Improving your integration testing efforts with contract testing</a>
-        <p>
-            <a href="https://www.linkedin.com/in/basdijkstra/" target="_blank">Bas Dijkstra</a>,
-            Director @ Inspired Academy, <em>Amersfoort, Netherlands</em>
-        </p>
-    </div>
-</div>
-
-<!-- PETER -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/peter_schuler.png" alt="peter-schuler" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">19 Oct 2022</p>
-        <a href="https://www.youtube.com/watch?v=D5YSQkNFu_E" target="_blank">Bigger unit tests are better - why small unit test classes will slow you down</a>
-        <p>
-            <a href="https://www.linkedin.com/in/peterschuler/" target="_blank">Peter Schuler</a>,
-            Senior Java Developer @ Rabobank, <em>The Randstad, Netherlands</em>
-        </p>
-    </div>
-</div>
-
-
-<!-- PETER GFADER -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/peter_gfader.png" alt="peter-gfader" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">03 Nov 2022</p>
-        <a href="https://www.youtube.com/watch?v=3lmClkPKQ0k" target="_blank">The key concept in computer science and how it relates to ATDD (Peter Gfader)</a>
-        <p>
-            <a href="https://www.linkedin.com/in/petergfader/" target="_blank">Peter Gfader</a>,
-            Founder @ Beyond Agility, Host @ <a href="https://www.meetup.com/software-craftsmanship-zurich/">Software Crafters Zürich</a> <em>Zurich, Switzerland</em> 
-        </p>
-    </div>
-</div>
-
-<!-- MARCO + ALESSANDRO -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/marco_consolaro.png" alt="marco-consolaro" class="profile-img" width="100" height="100" style="margin-right: 1rem;" />
-    <img src="{{ site.url }}/assets/img/alessandro_di_gioia.png" alt="alessandro-di-gioia" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">09 Nov 2022</p>
-        <a href="https://www.youtube.com/watch?v=kyG_ljVF3cA" target="_blank">TDD and Remote Mob Programming</a>
-        <p>
-            <a href="https://www.linkedin.com/in/consolaro/" target="_blank">Marco Consolaro</a>,
-            Co-Founder and Technical Coach @ Alcor Academy, <em>London, United Kingdom</em>
-        </p>
-        <p>
-            <a href="https://www.linkedin.com/in/alessandro-di-gioia/" target="_blank">Alessandro Di Gioia</a>,
-            Co-founder @ Alcor Academy, <em>London, United Kingdom</em>
-        </p>
-    </div>
-</div>
-
-<!-- ARIEL -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/ariel_perez.png" alt="ariel-perez" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">16 Nov 2022</p>
-        <a href="https://www.youtube.com/watch?v=kMl10keIvu8" target="_blank">Engineering Leaders: Creating a culture of Tech Excellence</a>
-        <p>
-            <a href="https://www.linkedin.com/in/arielxperez/" target="_blank">Ariel Pérez</a>,
-            previously Executive Director, Head of Digital and Communications Platforms, International Consumer Bank @ JPMorgan Chase &amp; Co., <em>New York, United States</em>
-        </p>
-    </div>
-</div>
-
-<!-- ALEXANDRE CUVA -->
-<!-- <div class="s-container">
-    <img src="{{ site.url }}/assets/img/alexandre_cuva.png" alt="alexandre-cuva" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">23 Nov 2022</p>
-        <a target="_blank">Tech Excellence Meetup Event</a>
-        <p>
-            <a href="https://www.linkedin.com/in/cuvaalex/" target="_blank">Alexandre Cuva</a>,
-            Founder, Certified Agile Coach, Agile Technical Coach, Trainer and Speaker @ SoCraAgile Sàrl, <em>Nyon, Switzerland</em>
-        </p>
-    </div>
-</div> -->
-
-<!-- Khaled Souf -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/khaled_souf.png" alt="khaled-souf" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">24 Nov 2022</p>
-        <a href="https://www.youtube.com/watch?v=1AlCTVXs5KE" target="_blank">Domain Driven Design to the rescue of legacy code</a>
-        <p>
-            <a href="https://www.linkedin.com/in/khaledsouf/" target="_blank">Khaled Souf</a>,
-            Senior Consultant @ Socradev, <em>Nyon, Switzerland</em>
-        </p>
-    </div>
-</div>
-<!-- https://twitter.com/khaledsouf -->
-
-<!-- ALEXANDER PUSHKAREV -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/alexander_pushkarev.png" alt="alexander-pushkarev" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">30 Nov 2022</p>
-        <a href="https://www.youtube.com/watch?v=GZHTY-Glt1w" target="_blank">The Hard Truth About TDD</a>
-        <p>
-            <a href="https://www.linkedin.com/in/alexpushkarev/" target="_blank">Alexander Pushkarev</a>,
-            Senior Software Engineer @ TripAdvisor, <em>London, United Kingdom</em>
-        </p>
-    </div>
-</div>
-
-<!-- OLIVER / ALINA  -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/oliver_zihler.png" alt="oliver-zihler" class="profile-img" width="100" height="100" />
-    <img src="{{ site.url }}/assets/img/alina_liburkina2.png" alt="alina-liburkina" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">07 Dec 2022</p>
-        <a href="https://www.youtube.com/watch?v=Gr_sLZ28Klw" target="_blank">DDD, Event Storming & Clean Architecture</a>
-        <p>
-            <a href="https://www.linkedin.com/in/oliver-zihler-9b92471a5/" target="_blank">Oliver Zihler</a>,
-            Full Stack Software Engineer @ Swisscom, <em>Zurich, Switzerland</em>
-        </p>
-        <p>
-            <a href="https://www.linkedin.com/in/alina-liburkina-657637128/" target="_blank">Alina Liburkina</a>,
-            Software Engineer @ BlueCare AG, <em>Zurich, Switzerland</em>
-        </p>
-    </div>
-</div>
-
-<!-- KEN -->
-<div class="s-container">
-    <img src="{{ site.url }}/assets/img/ken_pugh.png" alt="ken-pugh" class="profile-img" width="100" height="100" />
-    <div class="text-container">
-        <p class="p-date">14 Dec 2022</p>
-        <a href="https://www.youtube.com/watch?v=BsFqU1iqpDo" target="_blank">Using BDD/ATDD in context with DDD and Clean Architecture</a>
-        <p>
-            <a href="https://www.linkedin.com/in/kenpugh/" target="_blank">Ken Pugh</a>,
-            Principal Consultant @ Ken Pugh, Inc., <em>North Carolina, United States</em>
-        </p>
-    </div>
-</div>
+{% endfor %}

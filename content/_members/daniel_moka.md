@@ -3,7 +3,7 @@ i: daniel_moka
 
 name: Daniel Moka
 title: Software Craftsman @ MokaIT, Co-creator @ TDD Manifesto
-about: 
+about: Daniel Moka is a software craftsman and boundary pusher, having a mission to raise the software quality standard worldwide. He is a big fan of Extreme Programming, TDD, Clean Code, and the state of the art technologies with the ultimate goal of making the customer happy. Beyond software engineering he loves doing any kind of sports and helping others to fulfill their potential. He is also the co-creator of TDD Manifesto.
 location: France
 specialities:
     - 
@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: https://www.danielmoka.com/
 ---
-
-https://www.meetup.com/techexcellence/events/287640065/
-
-https://www.youtube.com/watch?v=h70T_eWGCHM

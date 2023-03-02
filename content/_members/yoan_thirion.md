@@ -2,7 +2,8 @@
 i: yoan_thirion
 
 name: Yoan Thirion
-title: Focusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices
+title: Agile Technical Coach @yoan-thirion.com
+about: Focusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices
 location: Luxembourg
 specialities:
     - 
@@ -17,10 +18,6 @@ youtube:
 medium: 
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/286438189/
-
-https://www.youtube.com/watch?v=yxO7YHkB83I
 
 
 Knowledge base : https://yoan-thirion.gitbook.io/knowledge-base/

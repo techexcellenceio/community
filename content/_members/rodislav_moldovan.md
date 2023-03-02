@@ -3,7 +3,7 @@ i: rodislav_moldovan
 
 name: Rodislav Moldovan
 title: Software Craftsman @ BIL Luxembourg
-about: 
+about: I'm a Software Craftsman with ~14 years’ experience. I worked mostly with Banking Systems, Electronic Payments, Media Streaming. In most cases I was taking part in the development of the complete stack. Today I'm helping teams to find solutions to technical problems and facilitate interactions.
 location: Luxembourg
 specialities:
     - 
@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/288432307/
-
-https://www.youtube.com/watch?v=5l5Klz4Mwf4

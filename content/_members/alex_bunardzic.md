@@ -3,7 +3,7 @@ i: alex_bunardzic
 
 name: Alex Bunardzic
 title: Director of Automation @ digitalexprt.com
-about: 
+about: 32 years in the software development profession. Started as programmer/analyst and grew into a leadership role. Experienced in leading and coaching teams in practicing XP, TDD, service virtualization. CI/CD, pair and mob programming, no estimates.
 location: Vancouver, Canada
 specialities:
     - 
@@ -18,7 +18,3 @@ youtube: https://www.youtube.com/c/AlexBunardzic
 medium: https://medium.com/@alexbunardzic
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/287983711/
-
-https://www.youtube.com/watch?v=unbrl4QjhGc

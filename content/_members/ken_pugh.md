@@ -17,7 +17,3 @@ website: https://kenpugh.com/
 youtube: 
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/289891140/
-
-https://www.youtube.com/watch?v=BsFqU1iqpDo

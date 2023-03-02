@@ -17,8 +17,4 @@ website:
 youtube: 
 medium: 
 blog: 
-
-2023_date: 17 May 2023
-2023_title: 12 Microservices Testing Techniques for Dependency Control
-2023_link: 
 ---

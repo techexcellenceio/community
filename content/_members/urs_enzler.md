@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: https://www.planetgeek.ch/
 ---
-
-https://www.meetup.com/techexcellence/events/287202512/
-
-https://www.youtube.com/watch?v=JcKLqX8wuR4

@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/286438189/
-
-https://www.youtube.com/watch?v=yxO7YHkB83I

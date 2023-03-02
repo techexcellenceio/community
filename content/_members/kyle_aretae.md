@@ -17,8 +17,4 @@ website:
 youtube: 
 medium: 
 blog: 
-
-2023_date: 03 May 2023
-2023_title: What is Tech Excellence? Who Cares?
-2023_link: 
 ---

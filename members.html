@@ -38,7 +38,7 @@ title:
             {{ member.tech-stack }}
         </p>
         <div class="social-media">
-            {% if member.linkedin == empty or member.linkedin != nil %}
+            {% if member.linkedin %}
                 <a href="{{ member.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
             {% endif %}
             {% if member.twitter %}

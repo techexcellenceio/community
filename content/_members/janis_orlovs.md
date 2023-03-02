@@ -22,10 +22,4 @@ website:
 youtube: 
 medium: 
 blog: 
-
-2023_date: 22 Feb 2023
-2023_title: Testing With Terraform
-2023_link: https://www.youtube.com/watch?v=UqjewhZwY-Y
 ---
-
-MEETUP: https://www.meetup.com/techexcellence/events/291443030/

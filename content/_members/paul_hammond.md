@@ -17,8 +17,4 @@ website:
 youtube: 
 medium: 
 blog: 
-
-2023_date: 19 April 2023
-2023_title: Component-Driven Development with React & DOM Testing
-2023_link: 
 ---

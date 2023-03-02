@@ -26,10 +26,25 @@ website: https://optivem.com/
 youtube: 
 medium: 
 blog: 
-
-2023_date: 08 Feb 2023
-2023_title: TDD and Hexagonal Architecture in Microservices
-2023_link: https://www.youtube.com/watch?v=-620eHMEH-w
 ---
 
-MEETUP 2023: https://www.meetup.com/techexcellence/events/291051139/
+<!-- ---
+i: 
+
+name: 
+title: 
+about: 
+location: 
+specialities:
+    - 
+    - 
+tech-stack: 
+
+linkedin: 
+twitter: 
+github: 
+website: 
+youtube: 
+medium: 
+blog: 
+--- -->

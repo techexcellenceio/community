@@ -3,7 +3,7 @@ i: alessandro_di_gioia
 
 name: Alessandro Di Gioia
 title: Co-founder @ Alcor Academy
-about: 
+about: With 20 years of experience in building software, Alessandro helps companies embrace Agile Technical Practices in London where he currently resides, and previously in Italy and Norway. He likes concise, expressive, and readable code as well as pragmatically improving existing solutions. He is passionate about developing and designing OO and functional code. Being a continuous learner, he loves to share his experience with others through coaching, mentoring, delivering workshops and talks.
 location: London, United Kingdom
 specialities:
     - 
@@ -18,7 +18,3 @@ youtube:
 medium: 
 blog: 
 ---
-
-https://www.meetup.com/techexcellence/events/288724330/
-
-https://www.youtube.com/watch?v=kyG_ljVF3cA
