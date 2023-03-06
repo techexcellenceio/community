@@ -1,240 +1,76 @@
 <h2>Our Network</h2>
 
-<!-- Optivem - Valentina Cupać -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://optivem.com/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/optivem.png" alt="Optivem" width="252" height="90" />
-      </a>
-  </div>
-  <div class="text-container">
-  <p class="p-date">
-    <a href="https://optivem.com/" target="_blank">Optivem</a> -
-    <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank">Valentina Cupać</a>
-  </p>
-  <p>
-    Better Software Faster: Helping backend development teams deliver quality software faster with TDD, Clean Architecture & Clean Code
-  </p>
-  <div class="social-media">
-      <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/ValentinaCupac" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-  </div>
-  </div>
-</div>
+{% assign networks = site.data.networks %}
+{% assign companies = site.companies %}
+{% assign members = site.members %}
 
-<!-- WealCome - Michaël Azerhad -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://wealcomecompany.com/" target="_blank">
-            <img src="{{ site.url }}/assets/logo/wealcome.png" alt="Wealcome" width="252" height="90" />
-        </a>
-    </div>
-    <div class="text-container">
-    <p class="p-date">
-      <a href="https://wealcomecompany.com/" target="_blank">WealCome</a> - 
-      <a href="https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/" target="_blank">Michaël Azerhad</a>
-    </p>
-    <p>
-        Software craftsmanship is in our genes: we create your software from A to Z and offer training services
-    </p>
-    <div class="social-media">
-      <a href="https://www.youtube.com/channel/UCdcsr2L2WC0OON39Ar3hBKQ" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-      <a href="https://www.linkedin.com/company/wealcomecompany/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/wealcomecompany?lang=en" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-    </div>
-    </div>
-</div>
-
-
-<!-- Alcor Academy - Marco Consolaro & Alessandro Di Gioia -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://alcor.academy/" target="_blank">
-            <img src="{{ site.url }}/assets/logo/alcor-academy.png" alt="Alcor Academy" width="252" height="90">
-        </a>
-    </div>
-    <div class="text-container">
-      <p class="p-date">
-        <a href="https://alcor.academy/" target="_blank">Alcor Academy</a> - 
-        <a href="https://www.linkedin.com/in/consolaro/" target="_blank">Marco Consolaro</a> & 
-        <a href="https://www.linkedin.com/in/alessandro-di-gioia/" target="_blank">Alessandro Di Gioia</a>
-      </p>
-      <p>
-        Promote a Culture of Excellence in your Software Engineering Teams with our INNOVATIVE socio-technical training
-      </p>
-      <div class="social-media">
-        <a href="https://www.linkedin.com/company/alcor-academy/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-        <a href="https://twitter.com/alcoracademy" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-        <a href="https://www.youtube.com/channel/UCVeacNGWudrebe_wgtHkcTA/videos" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-        <a href="https://github.com/AgileTechPraxis" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-      </div>
-    </div>
-</div>
+{% for network in networks %}
   
-<!-- SoCraDev Sarl - Alexandre Cuva  -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://socradev.ch" target="_blank">
-            <img src="{{ site.url }}/assets/logo/socradev.png" alt="SoCraDev" width="252" height="90">
-        </a>
-    </div>
-    <div class="text-container">
+  {% assign rep1 = network.rep1 %}
+  {% assign rep2 = network.rep2 %}
+
+  {% for company in companies %}
+    {% if company.i == network.i %}
+
+    {% for member in members %}
+      {% if member.i == rep1 %}
+        {% assign rep1_name = member.name %}
+        {% assign rep1_linkedin = member.linkedin %}
+      {% endif %}
+      {% if member.i == rep2 %}
+        {% assign rep2_name = member.name %}
+        {% assign rep2_linkedin = member.linkedin %}
+      {% endif %}
+    {% endfor %}
+
+    <div class="s-container">
+      <div class="profile-img">
+          <a href="{{ company.website }}" target="_blank">
+              <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
+          </a>
+      </div>
+      <div class="text-container">
       <p class="p-date">
-        <a href="https://socradev.ch" target="_blank">SoCraDev</a> - 
-        <a href="https://www.linkedin.com/in/cuvaalex/" target="_blank">Alexandre Cuva</a>
+        <a href="{{ company.website }}" target="_blank">{{ company.name }}</a> -
+        <a href="{{ rep1_linkedin }}" target="_blank">{{ rep1_name }}</a>
+        {% if rep2 %}
+        & <a href="{{ rep2_linkedin }}" target="_blank">{{ rep2_name }}</a>
+        {% endif %}
       </p>
-      <p>
-        We turn your legacy system into a modern and scalable digital experience without the high risks of making new software
-      </p>
+      <p>{{ company.about }}</p>
       <div class="social-media">
-        <a href="https://www.linkedin.com/company/socradev" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-        <a href="https://twitter.com/cra_dev" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+        {% if company.linkedin %}
+          <a href="{{ company.linkedin }}" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+        {% endif %}
+        {% if company.youtube %}
+          <a href="{{ company.youtube }}" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
+        {% endif %}
+        {% if company.twitter %}
+          <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-twitter"></i></a>
+        {% endif %}
+        {% if company.instagram %}
+          <a href="{{ company.instagram }}" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
+        {% endif %}
+        {% if company.facebook %}
+          <a href="{{ company.facebook }}" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
+        {% endif %}
+        {% if company.medium %}
+          <a href="{{ company.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
+        {% endif %}
+        {% if company.blog %}
+          <a href="{{ company.blog }}" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>
+        {% endif %}
+        {% if company.github %}
+          <a href="{{ company.github }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
+        {% endif %}
+      </div>
       </div>
     </div>
-</div>
-  
 
-<!-- Yoan Thirion Technical Coaching - Yoan Thirion -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://www.yoan-thirion.com/" target="_blank">
-            <img src="{{ site.url }}/assets/logo/yoan-thirion-freelance.png" alt="Yoan Thirion" width="252" height="90">
-        </a>
-    </div>
-    <div class="text-container">
-      <p class="p-date">
-        <a href="https://www.yoan-thirion.com/" target="_blank">Yoan Thirion Technical Coaching</a> - 
-        <a href="https://www.linkedin.com/in/yoanthirion/" target="_blank">Yoan Thirion</a>
-      </p>
-      <p>
-        I coach teams get better at software delivery through Agile & Craft practices
-        <!-- Because there is no agility without technical excellence. -->
-      </p>
-      <div class="social-media">
-        <a href="https://www.linkedin.com/company/yoan-thirion-freelance/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-        <a href="https://twitter.com/yot88" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      </div>
-    </div>
-</div>
-  
-<!-- https://craftacademy.substack.com/about -->
-<!-- https://craftacademy.fr/courses/1321076/lectures/30329473 -->
-<!-- CraftAcademy - Pierre Criulanscy --> <!-- LinkedIn page and website missing  -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">
-            <img src="{{ site.url }}/assets/logo/craft-academy.png" alt="CraftAcademy" width="252" height="90">
-        </a>
-    </div>
-    <div class="text-container">
-      <p class="p-date">
-        <a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">CraftAcademy</a> - 
-        <a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank">Pierre Criulanscy</a>
-      </p>
-      <p>
-        Passionate about TDD, Crafter & Trainer - craftacademy.fr
-        <!-- I help developers to understand good development practices as early as possible in their career, even if it's never too late! -->
-      </p>
-      <div class="social-media">
-        <a href="https://www.linkedin.com/in/pierre-criulanscy/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-        <a href="https://twitter.com/p_criulanscy" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      </div>
-    </div>
-</div>
-  
-<!-- On Test Automation - Bas Dijkstra  -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://www.ontestautomation.com/training" target="_blank">
-            <img src="{{ site.url }}/assets/logo/on-test-automation.png" alt="On Test Automation" width="252" height="90">
-        </a>
-    </div>
-    <div class="text-container">
-      <p class="p-date">
-        <a href="https://www.ontestautomation.com/training" target="_blank">On Test Automation</a> - 
-        <a href="https://www.linkedin.com/in/basdijkstra/" target="_blank">Bas Dijkstra</a>
-      </p>
-      <p>
-        Helping individuals, teams and organizations improve their test automation efforts
-        <!-- through smart application of tools. -->
-      </p>
-      <div class="social-media">
-        <a href="https://www.linkedin.com/company/on-test-automation" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/basdijkstra" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-      </div>
-    </div>
-</div>
+    {% endif %}
+  {% endfor %}
 
-<!-- Beyond Agility - Peter Gfader -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://beyond-agility.com/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/beyond-agility.png" alt="Beyond Agility" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://beyond-agility.com/" target="_blank">Beyond Agility</a> - 
-      <a href="https://www.linkedin.com/in/petergfader/" target="_blank">Peter Gfader</a>
-    </p>
-    <p>
-      We help your teams to discover better ways to build products and software with tools in testing, engineering and lots of automation.
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/beyond-agility/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/peitor" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-    </div>
-  </div>
-</div>
-
-<!-- Becoming.Tech - Rodislav -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://becoming.tech/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/becoming-tech2.png" alt="Becoming.Tech" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://becoming.tech/" target="_blank">Becoming.Tech</a> - 
-      <a href="https://www.linkedin.com/in/rodislav/" target="_blank">Rodislav Moldovan</a>
-    </p>
-    <p>
-      Becoming.Tech is the home of the cost-effective software.
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/becomingtech/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/rodislavable" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/becoming/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
-</div>
-
-<!-- Daniel Moka -->
-<!-- MokaIT - no website or logo yet -->
-<!-- https://www.linkedin.com/company/mokait/ -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://www.danielmoka.com/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/daniel-moka.png" alt="Daniel Moka" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://www.danielmoka.com/" target="_blank">MokaIT</a> - 
-      <a href="https://www.linkedin.com/in/danielmoka/" target="_blank">Daniel Moka</a>
-    </p>
-    <p>
-      I help you to build better and elegant software by using design principles & programming disciplines
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/in/danielmoka/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/dmokafa" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-    </div>
-  </div>
-</div>
-
-
+{% endfor %}
 
 
 
@@ -244,276 +80,5 @@
 <!-- send emails -->
 
 
-<!-- Digital Exprt - Alex Bunardzic...   -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/digital-exprt.png" alt="Digital Exprt" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Digital Exprt</a> - 
-      <a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank">Alex Bunardzic</a>
-    </p>
-    <p>
-      Providing innovative approached to automating business operations
-      <!-- Providing expertise for the 21st century technology -->
-      <!-- Responsible for designing and implementing innovative approaches to automating business operations. Utilizing emerging technologies (AI, chatbots, machine learning, NLP, IoT and blockchain) to fully automate paperwork, workflow and conversations with customers, partners, suppliers and other 3rd party vendors. -->
-    </p>
-    <div class="social-media">
-      <!-- <a href="https://www.linkedin.com/company/digital-exprt/about/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a> -->
-      <a href="https://www.linkedin.com/in/alexbunardzic/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/alexbunardzic" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://medium.com/@alexbunardzic" target="_blank" rel="noopener"><i class="fab fa-medium"></i></a>
-      <!-- https://twitter.com/DigitalExprt -->
-    </div>
-  </div>
-</div>
-
-
-<!-- Code Insider - César Mourot -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://codeinsider.fr/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/code-insider.png" alt="Code Insider" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://codeinsider.fr/" target="_blank">Code Insider</a> - 
-      <a href="https://www.linkedin.com/in/cesarmourot/" target="_blank">César Mourot</a>
-    </p>
-    <p>
-      Expert consulting company on advanced software development methodologies
-      <!-- Software Crafters. -->
-      <!-- Code Insider is an expert consulting company on advanced methodologies: Clean Code, TDD, BDD, Legacy Remediation, DevOps, DDD, XP.
-      Code Insider is an Innovation Consulting company, which helps companies to differentiate themselves
-      Code Insider is a consulting firm with expertise in Microsoft technologies and advanced software development methodologies. -->
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/code-insider/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.youtube.com/channel/UCXwE6o9pRe7azShpqnruWDg" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-      <a href="https://twitter.com/Code_Insider" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.facebook.com/codeinsider/" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a>
-    </div>
-  </div>
-</div>
-
-
-
-<!-- Code Sherpas - Cristina Verdi -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://www.code-sherpas.rocks/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/code-sherpas.png" alt="Code Sherpas" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> - 
-      <a href="https://www.linkedin.com/in/cristina-verdi/" target="_blank">Cristina Verdi</a>
-    </p>
-    <p>
-      We help you build excellent diverse & inclusive tech teams and drive them to the next level of business impact
-      <!-- We help you build excellent diverse & inclusive tech teams and drive them to the next level of business impact. | TDD, BDD, DDD, CI/CD, XP, Hexagonal architecture, Evolutionary Design, Lean -->
-      <!-- At Code Sherpas we help startups, scaleups, and innovative tech companies build diverse & inclusive tech teams and drive them to the next level of business impact. -->
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/code-sherpas/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/codesherpas_bcn" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.youtube.com/channel/UCgVl03AHj9MixzGLLHDLreg" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-      <a href="https://www.facebook.com/codesherpas" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a>
-      <a href="https://www.instagram.com/codesherpas/" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
-    </div>
-  </div>
-</div>
-
-
-<!-- BuildMySoftware.pro - Mike Wojtyna -->
-<!-- https://www.howtobe.pro/ -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://www.howtobe.pro/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/build-my-software.png" alt="howtobe.pro" width="252" height="">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://www.howtobe.pro/" target="_blank">howtobe.pro</a> - 
-      <a href="https://www.linkedin.com/in/michalwojtyna/" target="_blank">Mike Wojtyna</a>
-    </p>
-    <p>
-      Become a professional software developer and elevate your career to the next level 
-
-      <!-- Become a professional software developer -->
-      <!-- Learn how to take pride in your work and move forward in your career -->
-      <!-- I'm a software developer with passion for creating great products. Domain-driven design & Test-driven development are some of my favorite tools. My code is clean and easy to modify, thanks to the modular, loosely coupled design achieved by continuous TDD iterations backed by a deep understanding of business requirements. I'm also a professional consultant and trainer. My clients include IBM, Roche, Nordea, Vattenfall, Asseco. In my free time I create online courses and write articles about software development, DDD and clean code.  -->
-      <!-- Become a professional and elevate your career to the next level  -->
-      <!-- Software house specialized in creating custom applications following Domain-driven design and Test-driven development. -->
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/howtobe-pro" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <!-- <a href="https://www.linkedin.com/company/buildmysoftware-pro/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a> -->
-      <a href="https://github.com/mikewojtyna" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
-</div>
-
-
-
-<!-- My Happy Agency - Guillaume Duhan -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://vueworkshop.gg/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/vue-workshop.png" alt="VueWorkshop.gg" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://vueworkshop.gg/" target="_blank">Vue Workshop</a> - 
-      <a href="https://www.linkedin.com/in/guillaumeduhan/" target="_blank">Guillaume Duhan</a>
-    </p>
-    <p>
-      A remote workshop to learn Vue 3 essentials
-
-      <!-- A remote workshop to learn Vue 3 -->
-      <!-- Learn Vue 3 in three days workshop remote with 4 participants maximum.  -->
-      <!-- 3 days live with 4 participants max. to learn Vue 3 essentials and to bootstrap your project or your developer career. -->
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/vue-workshop/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/vueworkshop" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-    </div>
-  </div>
-</div>
-
-
-<!-- Ken Pugh, Inc.  Ken Pugh -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://kenpugh.com/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/ken-pugh.png" alt="Ken Pugh, Inc." width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://kenpugh.com/" target="_blank">Ken Pugh, Inc.</a> - 
-      <a href="https://www.linkedin.com/in/kenpugh/" target="_blank">Ken Pugh</a>
-    </p>
-    <p>
-      Training and consulting in lean-agile processes, with an emphasis on TDD/BDD
-      <!-- Using BDD/ATDD in context with DDD and Clean Architecture -->
-
-      <!-- Build-in Quality with BDD/ATDD | Technical Agility, Technical Excellence | Co-creator SAFe Agile Software Engineering | Effective Software Development (Design Patterns, Lean, Agile, Scrum, Kanban) | TBR-CT | Training -->
-
-      <!-- Ken Pugh, Inc. offers training and consulting in lean-agile processes, with an emphasis on acceptance test-driven development/behavior driven development, business value-driven development, and test-driven development.   -->
-
-      <!-- ATDD/BDD, TDD, BVDD, TBR-CT, Design Patterns, OOA&D, Design Reviews, Lean-Agile, Co-Creator SAFe Agile Software Engineering -->
-
-    </p>
-    <div class="social-media">
-      <a href="https://www.linkedin.com/company/ken-pugh/about/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/kpugh" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://github.com/atdd-bdd/" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-    </div>
-  </div>
-</div>
-
-
-<!-- Traffic Parrot - Wojciech Bulaty -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://trafficparrot.com/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/traffic-parrot.png" alt="Traffic Parrot" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://trafficparrot.com/" target="_blank">Traffic Parrot</a> - 
-      <a href="https://www.linkedin.com/in/wojciechbulaty/" target="_blank">Wojciech Bulaty</a>
-    </p>
-    <p>
-      API and service simulator: speed up your software development lifecycle and increase software quality
-      <!-- API and service simulator: reduce the time to market -->
-      <!-- Traffic Parrot simulates APIs, services, and systems. Speed up your software development lifecycle. Increase software quality. -->
-      <!-- Service virtualization, API mocking, and system simulation for microservice architectures -->
-      <!-- Traffic Parrot simulates APIs, services, and systems. Speed up your software development lifecycle. Reduce the time to market. Up to 43% faster software releases. Up to 38% fewer customer-facing issues. Accelerate digital transformation. Create automated tests faster. Decrease costs of moving to cloud. -->
-    </p>
-    <div class="social-media">
-      <a href="https://www.youtube.com/@trafficparrot778/videos" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-      <a href="https://www.linkedin.com/company/traffic-parrot/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/traffic_parrot" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-    </div>
-  </div>
-</div>
-
-
-<!-- ChangIT - Johan Martinsson -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://www.changit.fr/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/chang-it.png" alt="Chang IT" width="252" height="90">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://www.changit.fr/" target="_blank">ChangIT</a> - 
-      <a href="https://www.linkedin.com/in/jomartinsson/" target="_blank">Johan Martinsson</a>
-    </p>
-    <p>
-      Regain control of your source code through TDD, clean code and continuous delivery
-      <!-- Regain control of your source code
-TDD, clean code and continuous delivery
-Take precedence over your competitors by giving you the means to deliver more frequently than them. 
-Thanks to TDD, refactoring and DevOps practices, you will find code that is easy and pleasant to work with and test. 
-These practices allow you to deliver more frequently and therefore you will be able to adjust your software to user needs more quickly than your competitors.
-
-Boosting your company by 
-- Showing how to do kick-ass agile development without fucking up your code base
-- Showing how to get out of a legacy code base, while continuously delivering value
-- Teaching successful testing at all levels, approaching zero defects
-- Helping teams become self organised.
-- Taking development skills to the next level, making it possible to improve code with limited time.
-- And by helping your developers see the Whole picture. -->
-    </p>
-    <div class="social-media">
-      <a href="http://martinsson-johan.blogspot.com/" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>
-      <a href="https://twitter.com/johan_alps" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.linkedin.com/in/jomartinsson/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <!-- <a href="https://www.linkedin.com/company/changit/about/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a> -->
-      <a href="https://www.youtube.com/@johanmartinsson680/videos" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-    </div>
-  </div>
-</div>
-
 <!-- TODO: Add others from US / Canada -->
-
-
-
-  
-<!-- Coach Denis - Denis Cahuk -->
-<div class="s-container">
-  <div class="profile-img">
-      <a href="https://coachdenis.start.page/" target="_blank">
-          <img src="{{ site.url }}/assets/logo/coach-denis.png" alt="Coach Denis" width="252" height="">
-      </a>
-  </div>
-  <div class="text-container">
-    <p class="p-date">
-      <a href="https://coachdenis.start.page/" target="_blank">Coach Denis</a> - 
-      <a href="https://www.linkedin.com/in/deniscahuk/" target="_blank">Denis Cahuk</a>
-    </p>
-    <p>
-      Software Craftsmanship and Architecture Coach | Tech Consultant | Podcast Host 
-      <!-- 1 on 1 Coaching -->
-      <!-- The human interplay that produces productivity and creativity in tech teams fascinates me. It's all about culture and vision for me. I spent my career on exploring engineering, mentoring, psychology and inner wellbeing. Improving the productivity and longevity of tech teams is my passion.  -->
-    </p>
-    <div class="social-media">
-      <!-- https://www.linkedin.com/company/coach-denis-cahuk/ -->
-      <a href="https://www.linkedin.com/in/deniscahuk/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.youtube.com/@technologistpodcast" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
-    </div>
-  </div>
-</div>  
 

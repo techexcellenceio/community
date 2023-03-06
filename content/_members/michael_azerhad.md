@@ -10,7 +10,7 @@ specialities:
     - 
 tech-stack: 
 
-linkedin: https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/
+linkedin: https://www.linkedin.com/in/michael-azerhad/
 twitter: 
 github: 
 xing: 

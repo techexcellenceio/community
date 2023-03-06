@@ -24,6 +24,7 @@
   link: https://www.youtube.com/watch?v=Vi_FtRXopdQ
   speaker1: michael_azerhad
   speaker2: 
+  # https://www.meetup.com/techexcellence/events/287119913/
 
 - title: "TDD Perspectives: Trade-offs and impact of functional programming"
   date: 16 Aug 2022

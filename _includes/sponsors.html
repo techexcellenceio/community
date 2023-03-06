@@ -1,9 +1,9 @@
 <h2>Our Sponsors</h2>
 
 {% assign sponsors = site.data.sponsors %}
-{% for sponsor in sponsors %}
+{% assign companies = site.companies %}
 
-    {% assign companies = site.companies %}
+{% for sponsor in sponsors %}
     {% for company in companies %}
         {% if company.i == sponsor.i %}
 
@@ -29,7 +29,6 @@
 
         {% endif %}
     {% endfor %}
-
 {% endfor %}
 
 
