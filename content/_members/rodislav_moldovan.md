@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/rodislav
 twitter: https://twitter.com/rodislavable
 github: https://github.com/rodislav
+xing: 
 website: https://becoming.tech/
 youtube: 
 medium: 

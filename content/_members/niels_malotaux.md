@@ -21,6 +21,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/nielsmalotaux/
 twitter: https://twitter.com/nielsmx
 github: 
+xing: 
 website: https://www.malotaux.eu
 youtube: 
 medium: 

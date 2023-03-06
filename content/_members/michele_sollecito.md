@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/michelesollecito/
 twitter: https://twitter.com/sollecitom
 github: https://github.com/sollecitom
+xing: 
 website: 
 youtube: 
 medium: 

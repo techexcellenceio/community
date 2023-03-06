@@ -26,6 +26,8 @@ collections:
     #   - jelena-cupac.md
     #   - j-cupac.md
     #   - valentina-cupac.md
+  companies:
+    output: true
 
 # defaults:
 #   - scope:

@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/ivanpaulovich/
 twitter: https://twitter.com/ivanpaulovich/
 github: https://github.com/ivanpaulovich
+xing: 
 website: 
 youtube: 
 medium: 

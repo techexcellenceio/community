@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/paul-hammond-bb5b78251/
 twitter: 
 github: 
+xing: 
 website: 
 youtube: 
 medium: 

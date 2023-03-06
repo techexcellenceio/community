@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/ursenzler/
 twitter: https://twitter.com/ursenzler
 github: 
+xing: 
 website: 
 youtube: 
 medium: 

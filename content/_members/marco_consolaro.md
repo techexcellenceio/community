@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/consolaro/
 twitter: https://twitter.com/consolondon
 github: https://github.com/conso
+xing: 
 website: https://alcor.academy/
 youtube: 
 medium: 

@@ -16,6 +16,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/ahmed-misbah-msc-251a3a32/ 
 twitter: https://twitter.com/AhmedMisbahTech
 github: https://github.com/ahmedmisbah
+xing: 
 website: 
 youtube: https://www.youtube.com/@ahmedmisbah 
 medium: 

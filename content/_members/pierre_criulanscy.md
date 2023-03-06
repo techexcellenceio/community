@@ -16,6 +16,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/pierre-criulanscy/
 twitter: https://twitter.com/p_criulanscy
 github: https://github.com/PCreations
+xing: 
 website: 
 youtube: https://www.youtube.com/@craftacademy94
 medium: 

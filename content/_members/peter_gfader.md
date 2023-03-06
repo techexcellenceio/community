@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/petergfader/
 twitter: https://twitter.com/peitor
 github: https://github.com/peitor
+xing: 
 website: https://beyond-agility.com/
 youtube: 
 medium: 

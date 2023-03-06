@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/khaledsouf/
 twitter: https://twitter.com/khaledsouf
 github: https://github.com/ksouf
+xing: 
 website: https://ksouf.com/
 youtube: 
 medium: 

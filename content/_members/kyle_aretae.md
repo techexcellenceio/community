@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/kyle-aretae/
 twitter: 
 github: 
+xing: 
 website: 
 youtube: 
 medium: 

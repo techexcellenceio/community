@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/alessandro-di-gioia/
 twitter: https://twitter.com/parajao
 github: https://github.com/11PJ11
+xing: 
 website: https://alcor.academy/
 youtube: 
 medium: 

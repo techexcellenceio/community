@@ -4,7 +4,9 @@ i: valentina_cupac
 name: Valentina Cupać
 # title: Technical Coach & Consultant @ OPTIVEM
 title: Founder & Technical Coach @ Optivem
-about: Helping backend development teams to deliver quality software faster with TDD, Clean Architecture & Clean Code | Helping Engineering Leaders build a culture of Technical Excellence
+titleTE: Founder & Organizer @ Tech Excellence
+about: Technical Coach | Helping backend development teams to deliver quality software faster with TDD, Clean Architecture & Clean Code | Helping Engineering Leaders build a culture of Technical Excellence
+# I help Tech Founders and Engineering Leaders deliver quality software faster.
 location: Belgrade, Serbia
 specialities:
     - TDD
@@ -22,6 +24,7 @@ tech-stack: Java, .NET, NodeJS, Python, C/C++
 linkedin: https://www.linkedin.com/in/valentinacupac
 twitter: https://twitter.com/ValentinaCupac
 github: https://github.com/valentinacupac
+xing: https://www.xing.com/profile/Valentina_Cupac
 website: https://optivem.com/
 youtube: 
 medium: 
@@ -43,6 +46,7 @@ tech-stack:
 linkedin: 
 twitter: 
 github: 
+xing: 
 website: 
 youtube: 
 medium: 

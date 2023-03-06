@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/arielxperez/
 twitter: https://twitter.com/arielxperez
 github: https://twitter.com/arielxperez
+xing: 
 website: 
 youtube: 
 medium: 

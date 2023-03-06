@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/basdijkstra/
 twitter: 
 github: https://www.github.com/basdijkstra
+xing: 
 website: 
 youtube: 
 medium: 

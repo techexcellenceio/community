@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/alexbunardzic/
 twitter: https://twitter.com/alexbunardzic
 github: 
+xing: 
 website: 
 youtube: https://www.youtube.com/c/AlexBunardzic
 medium: https://medium.com/@alexbunardzic

@@ -1,23 +1,37 @@
 <h2>Our Sponsors</h2>
-        
-<!-- OPTIVEM -->
-<div class="s-container">
-    <div class="profile-img">
-        <a href="https://optivem.com/" target="_blank">
-            <img src="{{ site.url }}/assets/logo/optivem.png" alt="Optivem" width="252" height="90" />
-        </a>
-    </div>
-    <div class="text-container">
-        <p class="p-date"><a href="https://optivem.com/" target="_blank">Optivem</a></p>
-        <p>
-            Better Software Faster: Helping backend development teams deliver quality software faster with TDD, Clean Architecture & Clean Code
-        </p>
-        <div class="social-media">
-            <a href="https://www.linkedin.com/company/optivem" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-            <a href="https://twitter.com/ValentinaCupac" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+
+{% assign sponsors = site.data.sponsors %}
+{% for sponsor in sponsors %}
+
+    {% assign companies = site.companies %}
+    {% for company in companies %}
+        {% if company.i == sponsor.i %}
+
+        <div class="s-container">
+            <div class="profile-img">
+                <a href="{{ company.website }}" target="_blank">
+                    <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
+                </a>
+            </div>
+            <div class="text-container">
+                <p class="p-date"><a href="{{ company.website }}" target="_blank">{{ company.name }}</a></p>
+                <p> {{ company.about }}</p>
+                <div class="social-media">
+                    {% if company.linkedin %}
+                        <a href="{{ company.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                    {% endif %}
+                    {% if company.twitter %}
+                        <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+                    {% endif %}
+                </div>
+            </div>
         </div>
-    </div>
-</div>
+
+        {% endif %}
+    {% endfor %}
+
+{% endfor %}
+
 
 
 <!-- square logo -->

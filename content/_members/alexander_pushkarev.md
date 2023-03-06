@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/alexpushkarev/
 twitter: 
 github: https://github.com/senpay
+xing: 
 website: 
 youtube: https://www.youtube.com/@TestClubRU
 medium: 

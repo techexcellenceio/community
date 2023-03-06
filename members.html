@@ -25,12 +25,12 @@ title:
         </p>
         <p class="specialities">
             {% for speciality in member.specialities %}
-            {% assign n = forloop.index0 %}
-            {% if speciality != nil %}
-            <span>
-                {{ member.specialities[n] }}
-            </span>
-            {% endif %}
+                {% assign n = forloop.index0 %}
+                {% if speciality != nil %}
+                <span>
+                    {{ member.specialities[n] }}
+                </span>
+                {% endif %}
             {% endfor %}
         </p>
 

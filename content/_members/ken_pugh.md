@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/kenpugh/
 twitter: https://twitter.com/kpugh
 github: https://github.com/atdd-bdd/
+xing: 
 website: https://kenpugh.com/
 youtube: 
 blog: 

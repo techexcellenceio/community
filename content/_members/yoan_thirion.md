@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/yoanthirion/
 twitter: https://twitter.com/yot88
 github: https://github.com/ythirion
+xing: 
 website: https://www.yoan-thirion.com/
 youtube: 
 medium: 

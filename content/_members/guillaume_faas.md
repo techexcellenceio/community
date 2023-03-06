@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/guillaumefaas/
 twitter: 
 github: https://github.com/Tr00d
+xing: 
 website: 
 youtube: 
 medium: 

@@ -13,6 +13,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/adrien-muller-566373a/
 twitter: 
 github: 
+xing: 
 website: 
 youtube: 
 medium: 

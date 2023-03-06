@@ -18,6 +18,7 @@ tech-stack:
 linkedin: https://www.linkedin.com/in/janisorlovs/
 twitter: 
 github: https://github.com/JanisOrlovs
+xing: 
 website: 
 youtube: 
 medium: 
