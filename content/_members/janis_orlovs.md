@@ -3,7 +3,8 @@ i: janis_orlovs
 
 name: Janis Orlovs
 title: CTO @ CWISE
-about: Janis Orlovs is a PlatformOps and DevOps @CWISE.eu consultant with more than 13 years experience in the field. He is focused on developer experience and reliability. 
+about: Janis Orlovs is a PlatformOps and DevOps @CWISE.eu consultant with more than 13 years experience in the field. 
+# He is focused on developer experience and reliability. 
 location: Riga, Latvia
 specialities:
     - terraform

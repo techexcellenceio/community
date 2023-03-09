@@ -3,7 +3,8 @@ i: ken_pugh
 
 name: Ken Pugh
 title: Principal Consultant @ Ken Pugh, Inc.
-about: Helps companies develop software effectively by applying lean-agile principles and practices | Concentrates on delivering business value quickly by removing waste and delays in value streams; building in quality with Acceptance Test-Driven Development / Behaviour Driven Development; creating a collaborative environment; and evaluating return-on-investment
+about: Helps companies develop software effectively by applying lean-agile principles and practices
+#  | Concentrates on delivering business value quickly by removing waste and delays in value streams; building in quality with Acceptance Test-Driven Development / Behaviour Driven Development; creating a collaborative environment; and evaluating return-on-investment
 location: North Carolina, United States
 specialities:
     - 

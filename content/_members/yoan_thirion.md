@@ -4,6 +4,7 @@ i: yoan_thirion
 name: Yoan Thirion
 title: Agile Technical Coach @yoan-thirion.com
 about: Focusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices
+# Agile Technical Coach @yoan-thirion.com, craft coach, software crafter, organizer of the software craft Luxembourg meetup #sharingiscaring
 location: Luxembourg
 specialities:
     - 
