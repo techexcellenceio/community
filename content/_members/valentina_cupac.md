@@ -6,7 +6,6 @@ name: Valentina Cupać
 title: Founder & Technical Coach @ Optivem
 titleTE: Founder & Organizer @ Tech Excellence
 about: Technical Coach | Helping backend development teams to deliver quality software faster with TDD, Clean Architecture & Clean Code | Helping Engineering Leaders build a culture of Technical Excellence
-# I help Tech Founders and Engineering Leaders deliver quality software faster.
 location: Belgrade, Serbia
 specialities:
     - TDD
@@ -30,6 +29,9 @@ youtube:
 medium: 
 blog: 
 ---
+
+I help Tech Founders and Engineering Leaders deliver quality software faster.
+
 
 <!-- ---
 i: 

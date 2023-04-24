@@ -7,13 +7,9 @@ titleTE: Writer @ Tech Excellence
 about: Full-stack developer
 location: Greater Paris Metropolitan Region, France
 specialities:
-    - Amazon Web Services
-    - API Google
-    - Python
-    - JavaScript
-    - HTML
-    - CSS
-tech-stack: 
+    - Automation
+    - React
+tech-stack: React.js, TypeScript
 
 linkedin: https://www.linkedin.com/in/ilias-el-mhamdi-72a013146/
 twitter: 

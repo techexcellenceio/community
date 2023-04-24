@@ -7,10 +7,12 @@ about: Organization Coach | Agile Technical Coach | Craft Coach | fCTO | Pragmat
 #  | cofounder at SoCraDev & SoCraAgile | Advisor Board at Technical Excellence
 location: Nyon, Switzerland
 specialities:
-    - 
-    - 
-tech-stack: 
-# Talks about #agilemindset, #agileleadership, #agiletransformation, #softwarecraftsmanship, and #agilesoftwaredevelopment
+    - TDD
+    - BDD
+    - Pair/Mob Programming
+    - XP
+    - DevOps
+tech-stack:  Java, C#, Elixir, JavaScript
 
 linkedin: https://www.linkedin.com/in/cuvaalex/
 twitter: 
@@ -21,3 +23,8 @@ youtube:
 medium: 
 blog: 
 ---
+
+Talks about #agilemindset, #agileleadership, #agiletransformation, #softwarecraftsmanship, and #agilesoftwaredevelopment
+
+
+

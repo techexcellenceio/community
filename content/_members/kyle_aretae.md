@@ -3,12 +3,12 @@ i: kyle_aretae
 
 name: Kyle Aretae
 title: Principal Agile Coach @ T-Mobile
-about: 
+about: Agile technical coach focusing on organizational change
 location: Colorado Springs, Colorado, USA
 specialities:
-    - 
-    - 
-tech-stack: 
+    - xp
+    - agile
+tech-stack: Java, Spring, C#, XML, SQL
 
 linkedin: https://www.linkedin.com/in/kyle-aretae/
 twitter: 
@@ -19,3 +19,8 @@ youtube:
 medium: 
 blog: 
 ---
+
+Humilitant Applied Epistemologist -- Unreformed eXtreme Programmer -- Zero-Lecture Educator -- Dynamic Systems Evolutionist
+
+Talks about #agile, #learning, #software, and #philosophy
+
