@@ -6,7 +6,7 @@ title: Principal Agile Coach @ T-Mobile
 about: Agile technical coach focusing on organizational change
 location: Colorado Springs, Colorado, USA
 specialities:
-    - xp
+    - XP
     - agile
 tech-stack: Java, Spring, C#, XML, SQL
 

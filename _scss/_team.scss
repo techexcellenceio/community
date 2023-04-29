@@ -1,0 +1,28 @@
+#team {
+    .p-title {
+        margin-bottom: .25rem !important;
+        font-weight: 600;
+        color: #263c50;
+    }
+    .p-about {
+        max-width: 720px; // 660
+        color: #526980;
+    }
+    .social-media {
+        a {
+            .fab, .fas, .fa-brands {
+                font-size: 1.75rem;
+                margin-right: 1rem;
+                margin-top: .75rem;
+                color: #b6deea;
+                &:hover {
+                    color: #8fd2e9;
+                }
+            }
+        }
+    }
+    .profile-img {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}

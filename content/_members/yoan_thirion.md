@@ -9,7 +9,7 @@ specialities:
     - TDD
     - DDD
     - agile
-tech-stack: C#, .NET, XP
+tech-stack: C#, .NET
 
 linkedin: https://www.linkedin.com/in/yoanthirion/
 twitter: https://twitter.com/yot88

@@ -1,0 +1,55 @@
+// shadow? border around user?? or line below
+#members {
+    .s-container {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .name {
+        margin-bottom: .25rem;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .title {
+        font-size: 16px;
+    }
+    .about {
+        font-size: 15px;
+    }
+    .location {
+        font-size: 14px; 
+        color: gray;
+        margin-bottom: .25rem;
+        margin-top: .25rem;
+    }
+    // p {
+    //     display: flex;
+    // }
+    p.specialities span {
+        // background: #3e5495;
+        // color: white;
+        background: #d3d1ff;
+        color: #424148;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        margin-top: 2px;
+        margin-bottom: 2px;
+        display: inline-block;
+        font-size: 14px;
+        border-radius: 6px;
+        text-transform: capitalize; // lowercase; // capitalize;
+    }
+    .tech-stack {
+        margin-top: .25rem;
+    }
+    .social-media a .fab, .social-media a .fa, .social-media a .fas, .social-media a .fa-brands {
+        font-size: 1.25rem;
+        margin-right: .75rem;
+        margin-top: .75rem;
+        color: #222631;
+        &:hover {
+            color: #4664ee;
+        }
+    }
+}

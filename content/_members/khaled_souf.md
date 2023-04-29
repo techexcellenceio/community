@@ -9,7 +9,7 @@ specialities:
     - DDD
     - devops
     - software architecture
-tech-stack: Java, Gradle, Spring Boot, Tomcat
+tech-stack: Java, Spring Boot
 
 linkedin: https://www.linkedin.com/in/khaledsouf/
 twitter: https://twitter.com/khaledsouf

@@ -9,7 +9,7 @@ specialities:
     - XP
     - TDD
     - agile
-tech-stack: XML, Ruby, SQL, JavaScript, C#
+tech-stack: Ruby, SQL, JavaScript, C#
 
 linkedin: https://www.linkedin.com/in/alexbunardzic/
 twitter: https://twitter.com/alexbunardzic

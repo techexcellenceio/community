@@ -41,11 +41,13 @@
             {% endif %}
         </div>
         <div class="text-container">
-            <p class="p-date">{{ talk.date }}</p>
+            <p class="p-date">
+                {{ talk.date }}
+            </p>
             {% if talk.link %}
             <a class="p-title" href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>
             {% else %}
-            <a class="p-title">{{ talk.title }}</a>
+            <p class="p-title pending">{{ talk.title }}</p>
             {% endif %}
             <p>
                 <a href="{{ s1_linkedin }}" target="_blank">{{ s1_name }}</a>,

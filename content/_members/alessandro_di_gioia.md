@@ -10,7 +10,7 @@ specialities:
     - clean code
     - refactoring
     - Continuous Delivery
-tech-stack: 
+tech-stack: C#, .NET, SQL, HTML, CSS
 
 linkedin: https://www.linkedin.com/in/alessandro-di-gioia/
 twitter: https://twitter.com/parajao

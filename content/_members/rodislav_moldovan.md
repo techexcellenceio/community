@@ -11,7 +11,7 @@ specialities:
     - CI
     - recruitment
     - mentoring
-tech-stack: Spring Boot, Java, JavaScript, HTML, CSS, Maven
+tech-stack: Spring Boot, Java, JavaScript, HTML, CSS
 
 linkedin: https://www.linkedin.com/in/rodislav
 twitter: https://twitter.com/rodislavable

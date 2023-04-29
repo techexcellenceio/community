@@ -1,0 +1,25 @@
+#vision {
+    p {
+        margin-bottom: 2rem;
+    }
+    .social-media a {
+        .fab, .fas, .fa-brands {
+        font-size: 3rem;
+        @media (max-width: 567px) {
+            font-size: 2.5rem;
+            margin-right: 1.75rem;
+        }
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        color: #43cece;
+        &:hover {
+                color: #2fb7b7;
+                }
+        }
+        &:last-child{
+            .fab, .fas{
+                margin-right: 0;
+            }
+        }
+    }
+}

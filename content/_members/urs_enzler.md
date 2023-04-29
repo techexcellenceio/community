@@ -10,8 +10,8 @@ specialities:
     - hexagonal architecture
     - functional programming
     - software architecture
-    agile
-tech-stack: .NET, C#, XML, SQL
+    - agile
+tech-stack: .NET, C#, SQL
 
 linkedin: https://www.linkedin.com/in/ursenzler/
 twitter: https://twitter.com/ursenzler

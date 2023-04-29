@@ -11,7 +11,7 @@ specialities:
     - contract testing
     - distributed systems
     # testing
-tech-stack: Java, XML, C#, Selenium, Python
+tech-stack: Java, C#, Selenium, Python
 
 linkedin: https://www.linkedin.com/in/basdijkstra/
 twitter: 

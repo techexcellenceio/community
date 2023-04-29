@@ -10,7 +10,7 @@
     }
 }
 
-#speakers-2022, #about, #sponsors, #partners, #network, #team, #vision, #faq, #team {
+#speakers-2022, #about, #sponsors, #partners, #network, #team, #vision, #faq {
     .s-container {
         &:first-of-type {
             margin-top: 1rem;
@@ -41,13 +41,17 @@
     .text-container {
         margin-top: 0rem;
         text-align: left;
+        color: #263c50;
+        font-size: 15px;
         .p-date {
             margin-bottom: .25rem !important;
             font-weight: 600;
+            color: #24292e;
+            font-size: 16px;
         }
         .p-title {
-            font-weight: 400;
-            // background-color: #2fb7b7;
+            font-weight: 600;
+            font-size: 18px;
         }
     }
 }
@@ -76,33 +80,6 @@
 }
 
 // -----------------
-
-#vision {
-    p {
-        margin-bottom: 2rem;
-    }
-    .social-media a {
-        .fab, .fas, .fa-brands {
-        font-size: 3rem;
-        @media (max-width: 567px) {
-            font-size: 2.5rem;
-            margin-right: 1.75rem;
-        }
-        margin-right: 2rem;
-        margin-bottom: 1rem;
-        color: #43cece;
-        &:hover {
-                color: #2fb7b7;
-                }
-        }
-        &:last-child{
-            .fab, .fas{
-                margin-right: 0;
-            }
-        }
-    }
-}
-
 
 #sponsors, #partners, #network, #about {
     .s-container {
@@ -143,33 +120,6 @@
     }
 }
 
-#team {
-    .p-title {
-        margin-bottom: .25rem !important;
-        font-weight: 600;
-    }
-    .p-about {
-        max-width: 720px; // 660
-    }
-    .social-media {
-        a {
-            .fab, .fas, .fa-brands {
-                font-size: 1.75rem;
-                margin-right: 1rem;
-                margin-top: .75rem;
-                color: #b6deea;
-                &:hover {
-                    color: #8fd2e9;
-                }
-            }
-        }
-    }
-    .profile-img {
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-    }
-}
-
 #vision, #faq {
     .s-container {
         text-align: left;
@@ -181,65 +131,12 @@
 .markdown-body img {
     max-width: none;
 }
-  
-#masthead {
-    img {
-        max-width: 100%;
-    }
-}
 
-// shadow? border around user?? or line below
-#members {
-    .s-container {
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-    .name {
-        margin-bottom: .25rem;
-        font-weight: 600;
-        font-size: 18px;
-    }
-    .title {
-        font-size: 16px;
-    }
-    .about {
-        font-size: 15px;
-    }
-    .location {
-        font-size: 14px; 
-        color: gray;
-        margin-bottom: .25rem;
-        margin-top: .25rem;
-    }
-    // p {
-    //     display: flex;
-    // }
-    p.specialities span {
-        // background: #3e5495;
-        // color: white;
-        background: #d3d1ff;
-        color: #424148;
-        padding-left: 8px;
-        padding-right: 8px;
-        padding-top: 2px;
-        padding-bottom: 2px;
-        margin-top: 2px;
-        margin-bottom: 2px;
-        display: inline-block;
-        font-size: 14px;
-        border-radius: 6px;
-        text-transform: capitalize; // lowercase; // capitalize;
-    }
-    .tech-stack {
-        margin-top: .25rem;
-    }
-    .social-media a .fab, .social-media a .fa, .social-media a .fas, .social-media a .fa-brands {
-        font-size: 1.25rem;
-        margin-right: .75rem;
-        margin-top: .75rem;
-        color: #222631;
-        &:hover {
-            color: #4664ee;
-        }
+a {
+    color: #067799; // #0366d6
+    text-decoration: none !important;
+    &:hover {
+        color: #0999c5; // #0366d6
     }
 }
+  

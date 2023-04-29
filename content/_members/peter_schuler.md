@@ -9,7 +9,7 @@ specialities:
     - TDD
     - refactoring
     - clean code
-tech-stack: Java, Spring, Maven
+tech-stack: Java, Spring
 
 linkedin: https://www.linkedin.com/in/peterschuler
 twitter: 

@@ -10,7 +10,7 @@ specialities:
     - CI / CD
     - react
     - testing
-tech-stack: React, PHP, POstgreSQL, Node.js, JavaScript, TypeScript, CSS
+tech-stack: React, PHP, PostgreSQL, Node.js, JavaScript, TypeScript, CSS
 
 linkedin: https://www.linkedin.com/in/paul-hammond-bb5b78251/
 twitter: 

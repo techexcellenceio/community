@@ -28,25 +28,25 @@
 
 - title: Getting out of Legacy with 3P
   date: 05 Apr 2023
-  link: 
+  link: https://www.youtube.com/watch?v=E2d2BYxOiME
   speaker1: johan_martinsson
   speaker2:
 
 - title: Component-Driven Development with React & DOM Testing
   date: 19 Apr 2023
-  link: 
+  link: https://www.youtube.com/watch?v=jBkEz-Azsak
   speaker1: paul_hammond
   speaker2: 
 
 - title: What is Tech Excellence? Who Cares?
   date: 03 May 2023
-  link: 
+  link: https://www.youtube.com/watch?v=JQxyCviyOek
   speaker1: kyle_aretae
   speaker2: 
 
 - title: 12 Microservices Testing Techniques for Dependency Control
   date: 17 May 2023
-  link: 
+  link: https://www.youtube.com/watch?v=C3hkqzPpt-A
   speaker1: wojciech_bulaty
   speaker2: 
 
@@ -56,8 +56,8 @@
   speaker1: alexandre_cuva
   speaker2: khaled_souf
 
-- title: Shorter Embedded Development Loops
-  date: 21 Jun 2023
-  link: 
-  speaker1: fran_climent
-  speaker2: 
+# - title: Shorter Embedded Development Loops
+#   date: 21 Jun 2023
+#   link: 
+#   speaker1: fran_climent
+#   speaker2: 
