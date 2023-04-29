@@ -1,4 +1,4 @@
-#speakers-2022, #about, #sponsors, #partners, #network, #team {
+#speakers-2022, #about, #sponsors, #partners, .network, #team {
     .s-container {
       &:first-of-type {
         .profile-img {
@@ -10,7 +10,7 @@
     }
 }
 
-#speakers-2022, #about, #sponsors, #partners, #network, #team, #vision, #faq {
+#speakers-2022, #about, #sponsors, #partners, .network, #team, #vision, #faq {
     .s-container {
         &:first-of-type {
             margin-top: 1rem;
@@ -81,7 +81,7 @@
 
 // -----------------
 
-#sponsors, #partners, #network, #about {
+#sponsors, #partners, .network, #about {
     .s-container {
         @media (min-width: 567px) and (max-width: 786px){
         // @include media-breakpoint-only(sm) {
@@ -139,4 +139,3 @@ a {
         color: #0999c5; // #0366d6
     }
 }
-  

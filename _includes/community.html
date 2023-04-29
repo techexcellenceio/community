@@ -6,21 +6,21 @@
         <a href="{{ site.url }}/members">
             <div class="row">
 
-    {% for memberC in membersC %}
-    {% for member in site.members %}
-        {% if member.i == memberC.i %}
+            {% for memberC in membersC %}
+                {% for member in site.members %}
+                    {% if member.i == memberC.i %}
 
-            <!-- col-xs-4 col-sm-4 col-md-3 col-lg-3 -->
-            <div class="col">
-                <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" class="c-img" width="100" height="100" />
-                <div class="text-container">
-                    <p class="p-name">{{ member.name }}</p>
-                </div>
-            </div>
+                    <!-- col-xs-4 col-sm-4 col-md-3 col-lg-3 -->
+                    <div class="col">
+                        <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" class="c-img" width="100" height="100" />
+                        <div class="text-container">
+                            <p class="p-name">{{ member.name }}</p>
+                        </div>
+                    </div>
 
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
 
             </div>
 
