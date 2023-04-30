@@ -63,11 +63,17 @@ title:
             {% if member.github %}
                 <a href="{{ member.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
             {% endif %}
+            {% if member.xing %}
+                <a href="{{ member.xing }}" target="_blank" rel="noopener"><i class="fab fa-xing"></i></a>
+            {% endif %}
             {% if member.website %}
                 <a href="{{ member.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
             {% endif %}
             {% if member.youtube %}
                 <a href="{{ member.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            {% endif %}
+            {% if member.medium %}
+                <a href="{{ member.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
             {% endif %}
             {% if member.blog %}
                 <a href="{{ member.blog }}" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>

@@ -18,7 +18,7 @@ specialities:
 tech-stack: Java, Spring, SQL
 
 linkedin: https://www.linkedin.com/in/stanislas-%F0%9F%8C%9F-klukowski-96431248/
-twitter: www.twitter.com/SKlukowski
+twitter: https://twitter.com/SKlukowski
 github: https://github.com/stankluk
 xing: 
 website: 

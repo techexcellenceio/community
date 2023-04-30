@@ -15,9 +15,9 @@ linkedin: https://www.linkedin.com/in/bryan-finster/
 twitter: https://twitter.com/BryanFinster
 github: 
 xing: 
-website: bryanfinster.com
+website: https://bryanfinster.com/
 youtube: 
-medium: blog.bryanfinster.com
+medium: https://bdfinst.medium.com/
 blog: 
 ---
 

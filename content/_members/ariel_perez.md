@@ -13,7 +13,7 @@ tech-stack: Java, C++, React, JavaScript, SQL
 
 linkedin: https://www.linkedin.com/in/arielxperez/
 twitter: https://twitter.com/arielxperez
-github: https://twitter.com/arielxperez
+github: https://github.com/arielperez82
 xing: 
 website: 
 youtube: 

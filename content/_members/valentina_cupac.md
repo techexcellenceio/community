@@ -25,7 +25,7 @@ twitter: https://twitter.com/ValentinaCupac
 github: https://github.com/valentinacupac
 xing: https://www.xing.com/profile/Valentina_Cupac
 website: https://optivem.com/
-youtube: 
+youtube: https://www.youtube.com/@valentinacupac
 medium: 
 blog: 
 ---

@@ -7,7 +7,7 @@ about: Becoming.Tech is the home of the cost-effective software.
 website: https://becoming.tech/
 
 youtube: 
-linkedin: https://www.linkedin.com/company/becomingtech/
+linkedin: https://www.linkedin.com/in/rodislav/
 twitter: https://twitter.com/rodislavable
 instagram: 
 facebook: 
