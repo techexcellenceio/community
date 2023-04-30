@@ -2,15 +2,18 @@
 i: niels_malotaux
 
 name: Niels Malotaux
-title: Coach @ N R Malotaux - Consultancy
+title: Technical Coach @ N R Malotaux - Consultancy
 about: Niels Malotaux is an independent Project Coach, and expert in optimizing team performance.
 location: Medebach, Germany
 specialities:
-    - software quality
-    - agile
-    - testing
-    - QA
-tech-stack: Embedded Systems
+    - Optimising value delivery
+    - Quality on Time
+    - Evolutionary delivery
+    - Project Rescue
+    - Dependable electronic systems design
+    - Zero Defects
+    - Reviews & Inspections
+tech-stack: C, PHP, JS, CSS
 
 linkedin: https://www.linkedin.com/in/nielsmalotaux/
 twitter: https://twitter.com/nielsmx
@@ -21,6 +24,10 @@ youtube:
 medium: 
 blog: 
 ---
+
+[[[Optimising value delivery (Quality on Time, Defining clear goals, Timely delivery, Evolutionary delivery, Meeting deadlines, Project Rescue)]]]
+
+
 Coaching your teams to proudly deliver the Right Result on Time
 
 
@@ -29,3 +36,7 @@ Niels Malotaux is an independent Project Coach, and expert in optimizing team pe
 Since 2001, he has taught and coached 100s of projects/teams in 40+ organizations in the Netherlands, Belgium, China, Germany, India, Ireland, Israel, Japan, Romania, South Africa, the UK, and the US, in fields like electronics, software, space, road, rail, telecom, building automation, parking systems, which led to a wealth of experience in which approaches work better, and which work less in real practice.
 
 Educated as an electronics engineer, from time to time he is still asked to develop embedded products (HW/FW). Focus on Zero Defects deliveries.
+
+
+
+I hope you can help with finding the right Specialties and TechStack definitions
