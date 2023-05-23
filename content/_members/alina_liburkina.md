@@ -19,6 +19,7 @@ github: https://github.com/alinaliburkina
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

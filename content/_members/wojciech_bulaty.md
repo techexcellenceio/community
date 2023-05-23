@@ -12,11 +12,12 @@ specialities:
 tech-stack: JUnit, Java, Spring, Hibernate, SQL
 
 linkedin: https://www.linkedin.com/in/wojciechbulaty/
-twitter: 
+twitter: https://twitter.com/WojciechBulaty 
 github: 
 xing: 
 website: 
-youtube: 
+youtube: https://www.youtube.com/@trafficparrot 
+podcast: https://www.youtube.com/@fabsoftwarefast
 medium: 
 blog: 
 ---

@@ -18,6 +18,7 @@ github: https://github.com/11PJ11
 xing: 
 website: https://alcor.academy/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

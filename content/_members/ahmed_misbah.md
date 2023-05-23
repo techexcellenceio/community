@@ -20,6 +20,7 @@ github: https://github.com/ahmedmisbah
 xing: 
 website: 
 youtube: https://www.youtube.com/@ahmedmisbah 
+podcast: 
 medium: 
 blog: 
 ---

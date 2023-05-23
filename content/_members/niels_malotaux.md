@@ -21,6 +21,7 @@ github:
 xing: 
 website: https://www.malotaux.eu
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

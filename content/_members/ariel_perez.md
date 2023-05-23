@@ -17,6 +17,7 @@ github: https://github.com/arielperez82
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

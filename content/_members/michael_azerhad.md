@@ -18,6 +18,7 @@ github: https://github.com/mica16
 xing: 
 website: https://wealcomecompany.com/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

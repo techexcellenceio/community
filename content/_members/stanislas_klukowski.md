@@ -23,6 +23,7 @@ github: https://github.com/stankluk
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

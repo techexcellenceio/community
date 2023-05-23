@@ -19,6 +19,8 @@ github: https://github.com/atdd-bdd/
 xing: 
 website: https://kenpugh.com/
 youtube: 
+podcast: 
+medium: 
 blog: 
 ---
 

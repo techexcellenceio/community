@@ -20,6 +20,7 @@ github:
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

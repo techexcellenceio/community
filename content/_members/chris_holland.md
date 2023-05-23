@@ -19,6 +19,7 @@ github: https://github.com/elchris
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

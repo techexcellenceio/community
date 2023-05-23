@@ -17,6 +17,7 @@ github: https://github.com/Tr00d
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

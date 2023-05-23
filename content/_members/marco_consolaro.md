@@ -18,6 +18,7 @@ github: https://github.com/conso
 xing: 
 website: https://alcor.academy/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

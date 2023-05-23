@@ -18,6 +18,7 @@ github: https://github.com/senpay
 xing: 
 website: 
 youtube: https://www.youtube.com/@TestClubRU
+podcast: 
 medium: 
 blog: 
 ---

@@ -14,10 +14,11 @@ tech-stack: React, PHP, PostgreSQL, Node.js, JavaScript, TypeScript, CSS
 
 linkedin: https://www.linkedin.com/in/paul-hammond-bb5b78251/
 twitter: 
-github: 
+github: https://github.com/citypaul
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

@@ -17,6 +17,7 @@ github: https://github.com/ivanpaulovich
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: https://paulovich.net/
 ---

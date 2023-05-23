@@ -13,13 +13,14 @@ specialities:
 tech-stack: Node.js, Go, AWS, Java
 
 linkedin: https://www.linkedin.com/in/jomartinsson/
-twitter: 
-github: 
+twitter: https://twitter.com/johan_alps
+github: https://github.com/martinsson
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
-blog: 
+blog: http://martinsson-johan.blogspot.com
 ---
 
 Developer, Continuous delivery, TDD and crafting coach

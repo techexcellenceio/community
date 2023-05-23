@@ -17,6 +17,7 @@ github: https://github.com/ythirion
 xing: 
 website: https://www.yoan-thirion.com/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

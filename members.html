@@ -72,6 +72,9 @@ title:
             {% if member.youtube %}
                 <a href="{{ member.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             {% endif %}
+            {% if member.podcast %}
+                <a href="{{ member.podcast }}" target="_blank" rel="noopener"><i class="fa fa-microphone"></i></a>
+            {% endif %}
             {% if member.medium %}
                 <a href="{{ member.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
             {% endif %}

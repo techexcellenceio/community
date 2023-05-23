@@ -20,6 +20,7 @@ github: https://github.com/niksumeiko/
 xing: 
 website: https://www.withnik.com/tdd
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

@@ -56,11 +56,14 @@
   speaker1: chris_holland
   speaker2: 
 
-- title: Tech Excellence Meetup
+- title: Domain-Driven Qualities of High Performing Teams
   date: 21 Jun 2023
-  link: 
+  link: https://www.youtube.com/watch?v=nOrJwilJYKk
   speaker1: denis_cahuk
   speaker2: 
+
+# - title: Tech Excellence Meetup
+
 
 # - title: Shorter Embedded Development Loops
 #   date: 21 Jun 2023

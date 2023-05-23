@@ -19,6 +19,7 @@ github: https://www.github.com/basdijkstra
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: https://www.ontestautomation.com/blog
 ---

@@ -17,6 +17,7 @@ github: https://github.com/ksouf
 xing: 
 website: https://ksouf.com/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

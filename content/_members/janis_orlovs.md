@@ -17,6 +17,7 @@ github: https://github.com/JanisOrlovs
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

@@ -17,6 +17,7 @@ github: https://github.com/PCreations
 xing: 
 website: 
 youtube: https://www.youtube.com/@craftacademy94
+podcast: 
 medium: 
 blog: 
 ---

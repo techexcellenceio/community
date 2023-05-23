@@ -17,6 +17,7 @@ github: https://github.com/Ilias-El-Mhamdi
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: https://ilias.elmhamdi.fr/
 ---

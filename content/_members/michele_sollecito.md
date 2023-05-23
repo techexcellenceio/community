@@ -19,6 +19,7 @@ github: https://github.com/sollecitom
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

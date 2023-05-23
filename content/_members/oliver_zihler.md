@@ -21,6 +21,7 @@ github: https://github.com/ozihler
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

@@ -26,6 +26,7 @@ github: https://github.com/valentinacupac
 xing: https://www.xing.com/profile/Valentina_Cupac
 website: https://optivem.com/
 youtube: https://www.youtube.com/@valentinacupac
+podcast: 
 medium: 
 blog: 
 ---
@@ -51,6 +52,7 @@ github:
 xing: 
 website: 
 youtube: 
+podcast: 
 medium: 
 blog: 
 --- -->

@@ -17,6 +17,7 @@ github: https://github.com/jcupac
 xing: https://www.xing.com/profile/Jelena_Cupac
 website: https://optivem.com/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

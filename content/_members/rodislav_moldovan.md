@@ -19,6 +19,7 @@ github: https://github.com/rodislav
 xing: 
 website: https://becoming.tech/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

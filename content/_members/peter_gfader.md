@@ -18,6 +18,7 @@ github: https://github.com/peitor
 xing: 
 website: https://beyond-agility.com/
 youtube: 
+podcast: 
 medium: 
 blog: 
 ---

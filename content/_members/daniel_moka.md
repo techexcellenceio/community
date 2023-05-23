@@ -18,6 +18,7 @@ github: https://github.com/dmoka
 xing: 
 website: https://www.danielmoka.com/
 youtube: 
+podcast: 
 medium: 
 blog: https://www.danielmoka.com/
 ---
