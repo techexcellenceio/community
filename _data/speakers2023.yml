@@ -31,36 +31,49 @@
   link: https://www.youtube.com/watch?v=E2d2BYxOiME
   speaker1: johan_martinsson
   speaker2:
+  # MEETUP: Getting out of Legacy with 3P
 
 - title: Component-Driven Development with React & DOM Testing
   date: 19 Apr 2023
   link: https://www.youtube.com/watch?v=jBkEz-Azsak
   speaker1: paul_hammond
   speaker2: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/292360648/
 
 - title: What is Tech Excellence? Who Cares?
   date: 03 May 2023
   link: https://www.youtube.com/watch?v=JQxyCviyOek
   speaker1: kyle_aretae
   speaker2: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/292658917/
 
 - title: 12 Microservices Testing Techniques for Dependency Control
   date: 17 May 2023
   link: https://www.youtube.com/watch?v=C3hkqzPpt-A
   speaker1: wojciech_bulaty
   speaker2: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/292981610/
 
 - title: Shipping Better Software Faster & Having Fun Doing It
   date: 31 May 2023
   link: https://www.youtube.com/watch?v=LsWPHIJyXRU
   speaker1: chris_holland
   speaker2: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/293489628/
 
 - title: Domain-Driven Qualities of High Performing Teams
   date: 21 Jun 2023
   link: https://www.youtube.com/watch?v=nOrJwilJYKk
   speaker1: denis_cahuk
   speaker2: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/293701560/
+
+
+
+
+
+
+
 
 # - title: Tech Excellence Meetup
 
