@@ -103,12 +103,12 @@
   speaker2: 
   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 
-#   link: 
-#   speaker1: 
-#   speaker2: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 20 Sep 2023
+  link: 
+  speaker1: vlad_khononov
+  speaker2: 
+  # MEETUP: 
 
 - title: Tech Excellence Meetup
   date: 4 Oct 2023
@@ -118,28 +118,28 @@
   # MEETUP: 
 
 # - title: Tech Excellence Meetup
-#   date: 
+#   date: 18 Oct 2023
 #   link: 
 #   speaker1: 
 #   speaker2: 
 #   # MEETUP: 
 
 # - title: Tech Excellence Meetup
-#   date: 
+#   date: 1 Nov 2023
 #   link: 
 #   speaker1: 
 #   speaker2: 
 #   # MEETUP: 
 
 # - title: Tech Excellence Meetup
-#   date: 
+#   date: 15 Nov 2023
 #   link: 
 #   speaker1: 
 #   speaker2: 
 #   # MEETUP: 
 
 # - title: Tech Excellence Meetup
-#   date: 
+#   date: 29 Nov 2023
 #   link: 
 #   speaker1: 
 #   speaker2: 
@@ -162,8 +162,6 @@
 
 
 
-
-# - title: Tech Excellence Meetup
 
 
 # - title: Shorter Embedded Development Loops
