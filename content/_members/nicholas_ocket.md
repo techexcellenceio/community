@@ -15,7 +15,7 @@ linkedin: https://www.linkedin.com/in/nicholas-ocket/
 twitter: 
 github: 
 xing: 
-website: 
+website: https://www.aboutcoding.be
 youtube: 
 podcast: 
 medium: 

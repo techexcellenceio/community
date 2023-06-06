@@ -15,7 +15,7 @@ tech-stack: C#, .NET, JavaScript, HTML
 
 linkedin: https://www.linkedin.com/in/paige-watson-b817564/
 twitter: https://twitter.com/paigeisxp
-github: 
+github: https://github.com/MyTurnyet
 xing: 
 website: 
 youtube: 
