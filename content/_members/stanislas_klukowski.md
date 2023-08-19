@@ -33,6 +33,6 @@ Curious, organized, autonomous, passionate, creative. Clean code and craftsmansh
 Senior developer in Java, I am specialized in backend. Having 10 years of development experience, I am sensitive to issues of code robustness, performance and maintenance.
 This is why I am particularly interested in TDD, Domain Driven Design (DDD) and hexagonal architecture approaches.
 
-Skills: Java (5-17), Spring Framework, SQL (Oracle, MySQL, MariaDB), Maven, JUnit 5, Cucumber, Wiremock.
+Skills: Java (5-17), Spring Framework, SQL (Oracle, MySQL, MariaDB), JUnit 5, Cucumber, Wiremock.
 Methodology: TDD, DDD, SOLID
 Languages: French, English, Polish. Advanced Bilingual.
