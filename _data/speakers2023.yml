@@ -82,21 +82,21 @@
   speaker2: 
   # MEETUP: https://www.meetup.com/techexcellence/events/294438248/
 
-- title: Tech Excellence Meetup
+- title: Visual Thinking for Software Teams
   date: 9 Aug 2023
   link: https://www.youtube.com/watch?v=hrlCgKeKgt8
   speaker1: jacqueline_bilston
   speaker2: 
   # MEETUP: https://www.meetup.com/techexcellence/events/294944742/
 
-- title: Tech Excellence Meetup
+- title: A Tactical TDD Introduction
   date: 23 Aug 2023
   link: https://www.youtube.com/watch?v=Q2qLql0dvz4
   speaker1: garrick_west
   speaker2: 
   # MEETUP: https://www.meetup.com/techexcellence/events/295008503/
 
-- title: Tech Excellence Meetup
+- title: Shipping React app with zero-bugs policy using TDD
   date: 6 Sep 2023
   link: https://www.youtube.com/watch?v=bA7YMGRwfFM
   speaker1: nik_sumeiko
