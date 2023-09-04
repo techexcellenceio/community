@@ -2,8 +2,8 @@
 i: garrick_west
 
 name: Garrick West
-title: XP Coach & Software Crafter
-about: 
+title: XP Coach & Software Crafter @ Industrial Logic
+about: As an XP Coach & Software Crafter, I am raising the bar of professional software development by building quality software and helping others learn how to do so.
 location: Seattle, Washington, United States
 specialities:
     - TDD

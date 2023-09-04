@@ -3,7 +3,7 @@ i: jacqueline_bilston
 
 name: Jacqueline Bilston
 title: Software Developer @ Yelp
-about: 
+about: Dedicated to collaboration and sharing knowledge on how to make developer's lives easier
 location: Canada
 specialities:
     - Data engineering

@@ -3,7 +3,7 @@ i: vlad_khononov
 
 name: Vlad Khononov
 title: Senior Cloud Architect @ DoiT International
-about: 
+about: Software Architect, O'Reilly Author and Trainer, Keynote Speaker. Author of "Balancing Coupling in Software Design" and "Learning Domain-Driven Design"
 location: Israel
 specialities:
     - microservices
