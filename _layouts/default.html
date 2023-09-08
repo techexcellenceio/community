@@ -5,7 +5,6 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-
         <div id="masthead">
             {% include masthead.html %}
         </div>
@@ -19,11 +18,11 @@
         </div>
 
         <div id="speakers-2022">
-            <h2>Meetup Calendar for 2022</h2>
+            {% include speaker-signup.html %}
+        </div>
 
-            <a href="{{ site.url }}/speakers-2022">
-                <p style="margin-bottom: 4rem">See our 2022 TE talks</p>
-            </a>
+        <div id="speakers-2022">
+            {% include speakers2022.html %}
         </div>
 
         <div id="team">
