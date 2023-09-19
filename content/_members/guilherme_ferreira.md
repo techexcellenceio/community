@@ -9,7 +9,7 @@ specialities:
     - Solution Architecture
     - Microservices
     - Design Patterns
-tech-stack: .NET Core, C#, PostgreSQL, AWS
+tech-stack: .NET Core, C#, PostgreSQL
 
 linkedin: https://www.linkedin.com/in/gferreira/
 twitter: 

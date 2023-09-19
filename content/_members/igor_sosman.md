@@ -2,7 +2,7 @@
 i: igor_sosman
 
 name: Igor Sosman
-title: Senior Software Architect @ SCHOTT Pharmaceutical packaging
+title: Software Developer @ BlueCare AG
 about: Over 25 years of experience in software architecture and development, strong leadership, creativity and technical vision.
 location: St Gallen, Switzerland
 specialities:

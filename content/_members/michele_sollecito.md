@@ -11,7 +11,7 @@ specialities:
     - leadership
     - systems thinking
     - DDD
-tech-stack: Kotlin, Java, AWS, Jenkins, PostgreSQL, Node.js, JavaScript
+tech-stack: Kotlin, Java, Jenkins, PostgreSQL, Node.js, JavaScript
 
 linkedin: https://www.linkedin.com/in/michelesollecito/
 twitter: https://twitter.com/sollecitom

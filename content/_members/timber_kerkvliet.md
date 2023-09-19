@@ -2,7 +2,7 @@
 i: timber_kerkvliet
 
 name: Timber Kerkvliet
-title: Software Architect @ CloudSuite
+title: Software Consultant & Architect @ CloudSuite
 about: Domain-Driven Design | Continuous Delivery | eXtreme Programming
 location: Uithoorn, North Holland, Netherlands
 specialities:

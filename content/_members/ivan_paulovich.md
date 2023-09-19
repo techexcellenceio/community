@@ -9,7 +9,7 @@ specialities:
     - TDD
     - clean architecture
     - cloud
-tech-stack: C#, .NET, Docker
+tech-stack: C#, .NET
 
 linkedin: https://www.linkedin.com/in/ivanpaulovich/
 twitter: https://twitter.com/ivanpaulovich/

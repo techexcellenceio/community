@@ -10,7 +10,7 @@ specialities:
     - unit testing
     - clean code
     - refactoring
-tech-stack: Node.js, Go, AWS, Java
+tech-stack: Node.js, Go, Java
 
 linkedin: https://www.linkedin.com/in/jomartinsson/
 twitter: https://twitter.com/johan_alps
