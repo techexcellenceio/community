@@ -2,7 +2,7 @@
 i: marcelo_chiaradia
 
 name: Marcelo Chiaradia
-title: Staff Software Engineer @ Taxdoo
+title: Staff Software Engineer
 about: I help teams deliver value to the customer through continuous delivery of quality software, striving for technical excellence.
 location: Nuremberg, Bavaria, Germany
 specialities:
