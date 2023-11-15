@@ -131,7 +131,7 @@
   speaker2: 
   # MEETUP: https://www.meetup.com/techexcellence/events/296490147/
 
-- title: Tech Excellence Meetup
+- title: How to use TDD in Legacy Projects
   date: 15 Nov 2023
   link: https://www.youtube.com/watch?v=XMDeoBO0IM4
   speaker1: guilherme_ferreira
@@ -145,12 +145,12 @@
   speaker2: matheus_marabesi
   # MEETUP: 
 
-- title: Tech Excellence Meetup
+- title: Unlocking the Awesome Power of Refactoring
   date: 13 Dec 2023
-  link: 
+  link: https://www.youtube.com/watch?v=Xyv4wUffjiQ
   speaker1: j_b_rainsberger
   speaker2: 
-  # MEETUP: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/297372872/
 
 
 
