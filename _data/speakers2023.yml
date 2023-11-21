@@ -140,10 +140,10 @@
 
 - title: Tech Excellence Meetup
   date: 29 Nov 2023
-  link: 
+  link: https://www.youtube.com/watch?v=lQP33NZo-nU
   speaker1: emmanuel_valverde_ramos
   speaker2: matheus_marabesi
-  # MEETUP: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/297505614/
 
 - title: Unlocking the Awesome Power of Refactoring
   date: 13 Dec 2023
@@ -167,10 +167,3 @@
 
 
 
-
-
-# - title: Shorter Embedded Development Loops
-#   date: 21 Jun 2023
-#   link: 
-#   speaker1: fran_climent
-#   speaker2: 
