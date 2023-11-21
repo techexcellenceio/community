@@ -1,9 +1,9 @@
 ---
 i: j_b_rainsberger
 
-name:  J.B. Rainsberger
+name:  J. B. Rainsberger
 title: Consultant @ jbrains.ca
-about: Worka as a trainer and mentor to software development professionals
+about: Works as a trainer and mentor to software development professionals
 location: Summerside, Prince Edward Island, Canada
 specialities:
     - XP
