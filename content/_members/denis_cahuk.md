@@ -18,11 +18,16 @@ twitter:
 github: 
 xing: 
 website: 
-youtube: 
+youtube: https://www.youtube.com/@TechnologistPodcast
 podcast: 
 medium: 
 blog: 
 ---
+
+Substack: https://craftingtechteams.substack.com/
+Gumroad: https://coachdenis.gumroad.com/l/coach-denis-no-nonsense-tdd
+
+
 
 I train tech leads and their teams how to improve their delivery speeds and maintenance costs by exposing them to Tactical Agility, Clean Code, TDD, DDD and Event Modelling. Directly on their critical features.
 

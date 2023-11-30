@@ -14,10 +14,10 @@ specialities:
 tech-stack: C#, .NET, JavaScript, SQL Server, MySQL
 
 linkedin: https://www.linkedin.com/in/vladikk/
-twitter: 
-github: 
+twitter: https://twitter.com/vladikk
+github: https://github.com/vladikk
 xing: 
-website: 
+website: https://vladikk.com/
 youtube: 
 podcast: 
 medium: 

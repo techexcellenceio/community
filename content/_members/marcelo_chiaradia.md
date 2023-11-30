@@ -15,7 +15,7 @@ tech-stack: Java, Spring, SQL
 
 linkedin: https://www.linkedin.com/in/marcelo-chiaradia-05974468/
 twitter: 
-github: 
+github: https://gitlab.com/marcelo.chiaradia
 xing: 
 website: 
 youtube: 

@@ -12,11 +12,11 @@ specialities:
 tech-stack: .NET Core, C#, PostgreSQL
 
 linkedin: https://www.linkedin.com/in/gferreira/
-twitter: 
+twitter: https://twitter.com/gsferreira
 github: 
 xing: 
-website: 
-youtube: 
+website: https://gsferreira.com/
+youtube: https://www.youtube.com/c/gsferreirachannel
 podcast: 
 medium: 
 blog: 

@@ -15,7 +15,7 @@ tech-stack: Java, Spring, Hibernate, MySQL
 
 linkedin: https://www.linkedin.com/in/garrickwest/
 twitter: 
-github: 
+github: https://github.com/garrick
 xing: 
 website: 
 youtube: 
