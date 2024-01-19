@@ -7,18 +7,13 @@
     <header class="s-masthead-2">
       <div class="container">
         <img src="/assets/banner-text-1.svg" alt="Tech Excellence"> 
-        <h1>Our Network</h1>
+        <h1>{{ page.title }}</h1>
       </div>
     </header>
     <div class="container-lg markdown-body">
 
-        <!-- COMPANIES -->
-        
-        <div class="network">
-          {{ content }}
-        </div>
+        {{ content }}
 
-        
         <div id="footer">
             {% include footer.html %}     
         </div>
