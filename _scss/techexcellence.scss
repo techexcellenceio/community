@@ -1,24 +1,21 @@
 // Import Bootstrap
 // @import "../css/bootstrap/bootstrap.scss";
 
+// @import "../node_modules/bootstrap/scss/bootstrap";
+
 // @import "../node_modules/bootstrap/scss/functions"; //~
 // @import "../node_modules/bootstrap/scss/variables";
 // @import "../node_modules/bootstrap/scss/mixins";
 
-// @import "../node_modules/bootstrap/scss/bootstrap";
-
-
 @import "global.scss";
 
-
-
-// HOME
+// HOME ----
 @import "masthead.scss";
 @import "vision.scss";
 @import "team.scss";
 @import "community.scss";
 @import "speakers.scss";
-@import "network.scss";
+@import "icons.scss";
 
 
 
