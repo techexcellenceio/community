@@ -139,3 +139,16 @@ a {
         color: #0999c5; // #0366d6
     }
 }
+
+
+a.g-btn {
+    background-color: rgb(225, 235, 236);
+    padding: .5rem 2rem;
+    border-radius: 50pt;
+    &:hover {
+        // background-color: rgb(219, 230, 230);
+        background-color: rgb(228, 240, 241);
+    }
+    display: inline-block;
+    margin-bottom: .5rem;
+}
