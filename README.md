@@ -16,3 +16,11 @@ Do you have any questions or ideas? Feel free to start a discussion on [Discussi
 ## Editing content
 
 Instructions for editing website content are described on the [CONTRIBUTING](https://github.com/techexcellenceio/community/blob/main/CONTRIBUTING.md) page.
+
+
+
+
+To run the application:
+```
+bundle exec jekyll serve --livereload
+```

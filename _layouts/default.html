@@ -4,11 +4,10 @@
     {% include head.html %}
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-        <div id="masthead">
-            {% include masthead.html %}
-        </div>
-
+    <div id="masthead">
+        {% include masthead.html %}
+    </div>
+    <div class="container-lg markdown-body">
         {{ content }}
 
         <div id="footer">
