@@ -1,8 +1,56 @@
-<div class="g-container" style="margin-top: 1.5rem; padding-bottom: 1rem;">
-    <!-- <a class="g-btn" href="{{ site.url }}/conference">
-        TE Conference 2024
-    </a> -->
+<!-- TODO JC: Add TIME SLOTS ======================= -->
+<!-- TODO: JC Add description for the conference, -->
+
+<div id="conference" class="g-container">
     <div class="conference-promo">
-        TE Conference 2024 - Coming soon...
+        <!-- TE Conference 2024 - Coming soon... -->
+        <!-- TE Conference  -->
+        Tech Excellence Conference
     </div>
+
+    <div class="dates">
+        <p>Fri 22 Nov 2024</p>
+        <p>live Online</p>
+    </div>
+
+
+    {% assign conferenceSpeakers = site.data.conference-speakers.list %}
+                
+    <div class="c-container">
+        <div class="row">
+
+            {% for conferenceSpeaker in conferenceSpeakers %}
+            {% for member in site.members %}
+            {% if member.i == conferenceSpeaker.i %}
+
+            <div class="col">
+                <a href="{{ member.linkedin }}" target="_blank">
+                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
+                </a>
+                <div class="text-container">
+                    <p class="p-name">
+                        <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+                            {{ member.name }}
+                        </a>
+                    </p>
+                    <p class="p-title">
+                        {{ member.title }}
+                    </p>
+                </div>
+            </div>
+
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <p class="conf-disclaimer">
+        Note: We are forming our speaker list during Jan/Feb 2024, the following reflects current speakers <br />
+        who are planning to speak. 
+        We'll further update this section with session slots.
+    </p>
+
 </div>
+

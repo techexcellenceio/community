@@ -3,13 +3,16 @@
         min-height: 100vh;
     }
     @media (min-width: 567px) {
-        min-height: 620px;
+        min-height: 420px;
+        // max-height: 420px;
     }
     @media (min-width: 768px) {
-        min-height: 420px;
+        min-height: 320px;
+        // max-height: 320px;
     }
     @media (min-width: 1200px) {
-        min-height: 520px;
+        min-height: 420px;
+        // max-height: 420px;
     }
     margin-bottom: 2rem;
     background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
@@ -18,11 +21,17 @@
     justify-content: center;
     align-items: center;
     .container {
-        padding-right: 36px;
-        padding-left: 36px;
+        padding-right: 3rem;
+        padding-left: 3rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        @media (min-width: 567px) and (max-width: 767px) {
+            padding-right: 5rem;
+            padding-left: 5rem;
+        }
         @media (min-width: 768px) {
-            padding-right: 24px;
-            padding-left: 24px;
+            padding-right: 2rem;
+            padding-left: 2rem;
         }
         @media (min-width: 1200px) {
             padding-right: 0;
