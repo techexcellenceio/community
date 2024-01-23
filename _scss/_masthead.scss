@@ -1,17 +1,18 @@
 .s-masthead {
     @media (max-width: 566px){
-        min-height: 100vh;
+        // min-height: 100vh;
+        // min-height: 420px;
     }
     @media (min-width: 567px) {
-        min-height: 420px;
+        // min-height: 420px;
         // max-height: 420px;
     }
     @media (min-width: 768px) {
-        min-height: 320px;
+        // min-height: 320px;
         // max-height: 320px;
     }
     @media (min-width: 1200px) {
-        min-height: 420px;
+        // min-height: 420px;
         // max-height: 420px;
     }
     margin-bottom: 2rem;
@@ -23,8 +24,11 @@
     .container {
         padding-right: 3rem;
         padding-left: 3rem;
-        padding-top: 3rem;
-        padding-bottom: 3rem;
+        padding-top: 3.5rem;
+        padding-bottom: 3.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         @media (min-width: 567px) and (max-width: 767px) {
             padding-right: 5rem;
             padding-left: 5rem;
@@ -38,7 +42,18 @@
             padding-left: 0;
         }
         img {
-            width: 100%;
+            max-width: 320px;
+            @media (min-width: 768px){
+                width: 100%;
+                max-width: 100%;
+            }
+            @media (min-width: 992px){
+                max-width: 656px;
+            }
+            @media (min-width: 1200px){
+                // max-width: 656px;
+                max-width: 100%;
+            }
         }
         // background-color: pink;
     }
