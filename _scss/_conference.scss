@@ -3,8 +3,10 @@
     margin-bottom: 6rem;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
-    padding-right: 3rem;
-    padding-left: 3rem;
+    @media (min-width: 567px) {
+        padding-right: 3rem;
+        padding-left: 3rem;
+    }
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -25,6 +27,16 @@
         font-weight: 600;
         color: #12dfef;
         box-shadow: 2px 2px 20px rgba(23, 141, 147, 0.6);
+        br.br-1 {
+            @media (min-width: 768px) {
+                display: none;
+            }
+        }
+        br.br-2 {
+            @media (min-width: 567px) {
+                display: none;
+            }
+        }
     }
     .dates {
         font-weight: 500;
