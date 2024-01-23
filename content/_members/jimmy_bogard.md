@@ -2,7 +2,7 @@
 i: jimmy_bogard
 
 name: Jimmy Bogard
-title: President at Jimmy Bogard Consulting LLC
+title: President @ Jimmy Bogard Consulting LLC
 about: 
 location: Austin, Texas, United States
 specialities:
