@@ -27,6 +27,7 @@
         font-weight: 600;
         color: #12dfef;
         box-shadow: 2px 2px 20px rgba(23, 141, 147, 0.6);
+        // min-width: 320px;
         br.br-1 {
             @media (min-width: 768px) {
                 display: none;
@@ -43,7 +44,7 @@
         text-transform: uppercase;
         font-size: 18px;
         margin-top: 2rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
         p {
             background-color: #25b4bd;
             color: white;
@@ -60,11 +61,10 @@
         text-decoration: none;
     }
     .c-container {
-        margin-top: 1rem;
         margin-right: auto;
         margin-left: auto;
         max-width: 708px;
-        @media (max-width: 567px){
+        @media (min-width: 567px){
             margin-top: 2rem;
         }
         .row {
@@ -72,7 +72,7 @@
             margin-right: -15px;
             justify-content: center;
             padding-top: 1rem;
-            @media (max-width: 567px){
+            @media (min-width: 567px){
                 padding-top: 2rem;
             }
             .col, [class*="col-"] {
@@ -120,4 +120,11 @@
     padding-bottom: 1rem;
     color: #a2b0b9;
     font-size: 13px;
+    margin-right: 18px;
+    margin-left: 18px;
+    @media (max-width: 767px) {
+        br {
+            display: none;
+        }
+    }
 }
