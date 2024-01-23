@@ -1,11 +1,13 @@
 #conference {
-    margin-top: 3rem;
-    margin-bottom: 6rem;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
     @media (min-width: 567px) {
         padding-right: 3rem;
         padding-left: 3rem;
+        margin-top: 4rem;
+        margin-bottom: 6rem;
     }
     justify-content: center;
     align-items: center;
@@ -14,10 +16,6 @@
     // border: 4px solid #81e3de80;
     border-radius: 42px;
     // background: #25b4bd;
-    @media (max-width: 567px){
-        margin-top: 4rem;
-        margin-bottom: 6rem;
-    }
     .conference-promo {
         background-color: #052426;
         padding: 18px 48px;
