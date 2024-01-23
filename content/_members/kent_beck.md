@@ -2,8 +2,8 @@
 i: kent_beck
 
 name: Kent Beck
-title: Programmer, artist, musician, pokerist
-#  ||| Chief Scientist @ Mechanical Orchard
+title: Chief Scientist @ Mechanical Orchard
+# Programmer, artist, musician, pokerist
 about: 
 location: San Francisco, California, United States
 specialities:
