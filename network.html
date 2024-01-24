@@ -28,16 +28,16 @@ title:
 
     <div class="s-container">
       <div class="profile-img">
-          <a href="{{ company.website }}" target="_blank">
+          <a href="{{ company.website }}" target="_blank" rel="noopener">
               <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
           </a>
       </div>
       <div class="text-container">
       <p class="p-date">
-        <a href="{{ company.website }}" target="_blank">{{ company.name }}</a> -
-        <a href="{{ rep1_linkedin }}" target="_blank">{{ rep1_name }}</a>
+        <a href="{{ company.website }}" target="_blank" rel="noopener">{{ company.name }}</a> -
+        <a href="{{ rep1_linkedin }}" target="_blank" rel="noopener">{{ rep1_name }}</a>
         {% if rep2 %}
-        & <a href="{{ rep2_linkedin }}" target="_blank">{{ rep2_name }}</a>
+        & <a href="{{ rep2_linkedin }}" target="_blank" rel="noopener">{{ rep2_name }}</a>
         {% endif %}
       </p>
       <p>{{ company.about }}</p>

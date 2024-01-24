@@ -8,13 +8,13 @@
     {% if company.i == partner.i %}
         <div class="s-container">
             <div class="profile-img comp-img">
-                <a href="{{ company.website }}" target="_blank">
+                <a href="{{ company.website }}" target="_blank" rel="noopener">
                     <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
                 </a>
             </div>
             <div class="text-container container-fixed">
                 <p class="p-date">
-                    <a href="{{ company.website }}" target="_blank">{{ company.name }}</a>
+                    <a href="{{ company.website }}" target="_blank" rel="noopener">{{ company.name }}</a>
                 </p>
                 <p>{{ company.about }}</p>
                 <div class="social-media">

@@ -7,7 +7,9 @@
         {% if member.i == teamMember.i %}
 
         <div class="s-container">
-            <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" class="profile-img" width="100" height="100" />
+            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+                <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" class="profile-img" width="100" height="100" />
+            </a>
             <div class="text-container">
                 <p class="p-title">{{ member.name }} - {{ member.titleTE }} </p>
                 <p class="p-about"> {{ member.about }}</p>
