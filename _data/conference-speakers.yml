@@ -1,9 +1,10 @@
 list:
 
 - i: kent_beck
+- i: dave_farley
 - i: vlad_khononov
-- i: jimmy_bogard
 - i: susanne_keiser
+- i: jimmy_bogard
 - i: marco_consolaro
 - i: alessandro_di_gioia
 - i: nick_tune
