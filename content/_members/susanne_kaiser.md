@@ -1,7 +1,7 @@
 ---
-i: susanne_keiser
+i: susanne_kaiser
 
-name: Susanne Keiser
+name: Susanne Kaiser
 title: Independent Tech Consultant @ Susanne Kaiser Tech Consulting
 about: 
 location: Greater Hamburg Area, Germany
