@@ -4,18 +4,20 @@
     padding-top: 2.5rem;
     padding-bottom: 1rem;
     @media (min-width: 567px) {
-        padding-right: 3rem;
-        padding-left: 3rem;
+        // padding-right: 3rem;
+        // padding-left: 3rem;
         margin-top: 4rem;
         margin-bottom: 6rem;
+    }
+    @media (max-width: 991px) {
+        padding-right: 3rem;
+        padding-left: 3rem;
     }
     justify-content: center;
     align-items: center;
     text-align: center;
     border: 3px solid #58dbd578;
-    // border: 4px solid #81e3de80;
     border-radius: 42px;
-    // background: #25b4bd;
     .conference-promo {
         background-color: #052426;
         padding: 18px 48px;
@@ -25,7 +27,6 @@
         font-weight: 600;
         color: #12dfef;
         box-shadow: 2px 2px 20px rgba(23, 141, 147, 0.6);
-        // min-width: 320px;
         br.br-1 {
             @media (min-width: 768px) {
                 display: none;
@@ -51,7 +52,6 @@
             border-radius: 6px;
             margin-right: .25rem;
             margin-bottom: .5rem;
-            // box-shadow: 2px 2px 20px rgba(24, 24, 24, 0.6
             box-shadow: 1px 1px 6px rgba(24, 24, 24, 0.4);
         }
     }
@@ -61,7 +61,10 @@
     .c-container {
         margin-right: auto;
         margin-left: auto;
-        max-width: 708px;
+        // max-width: 708px;
+        @media (max-width: 991px) {
+            max-width: 580px;
+        }
         @media (min-width: 567px){
             margin-top: 2rem;
         }
@@ -84,7 +87,6 @@
             }
             img {
                 // border-radius: 50%;
-                // box-shadow: 2px 2px 20px rgba(24, 24, 24, 0.6);
 
             }
             .text-container {
@@ -94,7 +96,6 @@
                     margin-top: .5rem;
                     margin-bottom: .25rem;
                     a {
-                        // color:#485a5a;
                         color: #8573e5;
                     }
                     a:hover, a:active, a.active {
@@ -103,7 +104,6 @@
                 }
                 .p-title {
                     font-size: 13px;
-                    // color:#485a5a;
                     color:#49475c;
                 }
             }
@@ -112,8 +112,6 @@
 }
 
 .conf-disclaimer {
-    // max-width: 708px;
-    // max-width: 600px;
     padding-top: 2rem;
     padding-bottom: 1rem;
     color: #a2b0b9;
