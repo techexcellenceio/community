@@ -9,10 +9,10 @@
         margin-top: 4rem;
         margin-bottom: 6rem;
     }
-    @media (max-width: 991px) {
-        padding-right: 3rem;
-        padding-left: 3rem;
-    }
+    // @media (max-width: 991px) {
+    //     padding-right: 3rem;
+    //     padding-left: 3rem;
+    // }
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -62,9 +62,9 @@
         margin-right: auto;
         margin-left: auto;
         // max-width: 708px;
-        @media (max-width: 991px) {
-            max-width: 580px;
-        }
+        // @media (max-width: 991px) {
+        //     max-width: 580px;
+        // }
         @media (min-width: 567px){
             margin-top: 2rem;
         }
