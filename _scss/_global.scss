@@ -1,14 +1,14 @@
 .s-container {
     &:first-of-type {
         margin-top: 1rem;
-        @media (max-width: 567px){
+        @media (max-width: 575px){
         // @include media-breakpoint-down(xs) {
             margin-top: 2rem;
         }
     }
     &:last-of-type {
         margin-bottom: 4rem;
-        @media (max-width: 567px){
+        @media (max-width: 575px){
         // @include media-breakpoint-down(xs) {
             margin-bottom: 4rem;
         }
@@ -18,7 +18,7 @@
 .s-container {
     align-items: center;
     text-align: center;
-        @media (min-width: 567px){
+        @media (min-width: 576px){
         // @include media-breakpoint-up(sm) {
             display: flex;
             text-align: left;
@@ -28,15 +28,22 @@
         text-align: left;
         color: #263c50;
         font-size: 15px;
+        padding-left: 0;
+        padding-right: 0;
         .p-date {
             margin-bottom: .25rem !important;
             font-weight: 600;
             color: #24292e;
             font-size: 16px;
+            margin-top: .4rem;
         }
         .p-title {
             font-weight: 600;
             font-size: 18px;
+        }
+        .p-speaker {
+            margin-bottom: .4rem;
+            margin-top: 0rem;
         }
     }
     .container-fixed {
@@ -53,7 +60,7 @@
     display: block;
     &:last-of-type {
         margin-bottom: 4rem;
-        @media (max-width: 567px){
+        @media (max-width: 575px){
             margin-bottom: 4rem;
         }
     }
@@ -62,15 +69,31 @@
 
 .img-c {
     display: flex;
+    // flex-wrap: wrap;
     justify-content: center;
+    margin-left: 0; // row
+    margin-right: 0; // row
+    @media (min-width: 576px){
+        max-width: 248px;
+    }
+    .col {
+        padding: 0;
+        max-width: 100px; // size of photo
+    }
 }
 
 .profile-img {
     margin-right: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    @media (max-width: 567px){
-    // @include media-breakpoint-down(xs){
+    display: flex;
+    align-items: end;
+    // @media (min-width: 576px){
+    &:nth-child(n+3) {
+        margin-top: 0rem;
+    }
+    // }
+    @media (max-width: 575px){
         margin-left: .5rem;
         margin-right: 0.5rem;
         margin-top: 4rem;

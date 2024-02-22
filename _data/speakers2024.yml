@@ -12,11 +12,13 @@
   speaker2: 
   # MEETUP: https://www.meetup.com/techexcellence/events/298884041/
 
-- title: Tech Excellence Meetup
-  date: 5 Mar 2024
+- title: Tech Excellence Open Discussion
+  date: 6 Mar 2024
   link: 
-  speaker1: oliver_zihler
-  speaker2: alina_liburkina
+  speaker1: daniel_moka
+  speaker2: oliver_zihler
+  speaker3: alina_liburkina
+  speaker4: pierre_criulanscy
   # MEETUP: 
 
 - title: Tech Excellence Meetup
@@ -54,12 +56,12 @@
   speaker2: 
   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 29 May 2024
-#   link: 
-#   speaker1: 
-#   speaker2: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 29 May 2024
+  link: 
+  speaker1: oliver_zihler
+  speaker2: alina_liburkina
+  # MEETUP: 
 
 # - title: Tech Excellence Meetup
 #   date: 12 Jun 2024

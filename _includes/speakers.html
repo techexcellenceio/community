@@ -5,6 +5,14 @@
         {% assign speaker2 = talk.speaker2 %}
     {% endif %}
 
+    {% if talk.speaker3 %}
+        {% assign speaker3 = talk.speaker3 %}
+    {% endif %}
+
+    {% if talk.speaker4 %}
+        {% assign speaker4 = talk.speaker4 %}
+    {% endif %}
+
     {% for member in site.members %}
         {% if member.i == speaker1 %}
             {% assign s1_i = member.slug %}
@@ -23,24 +31,62 @@
                 {% assign s2_linkedin = member.linkedin %}
             {% endif %}
         {% endif %}
+
+        {% if speaker3 %}
+            {% if member.i == speaker3 %}
+                {% assign s3_i = member.slug %}
+                {% assign s3_name = member.name %}
+                {% assign s3_title = member.title %}
+                {% assign s3_location = member.location %}
+                {% assign s3_linkedin = member.linkedin %}
+            {% endif %}
+        {% endif %}
+
+        {% if speaker4 %}
+            {% if member.i == speaker4 %}
+                {% assign s4_i = member.slug %}
+                {% assign s4_name = member.name %}
+                {% assign s4_title = member.title %}
+                {% assign s4_location = member.location %}
+                {% assign s4_linkedin = member.linkedin %}
+            {% endif %}
+        {% endif %}
+
     {% endfor %}
 
     <div class="s-container">
-        <div class="img-c">
-            <div class="profile-img">
+        <!-- Photo -->
+        <div class="row img-c">
+            <div class="col profile-img">
                 <a href="{{ s1_linkedin }}" target="_blank" rel="noopener">
                     <img src="{{ site.url }}/assets/img/{{ s1_i }}.png?v=2" alt="{{ s1_name }}" width="100" height="100" />
                 </a>
             </div>
             {% if speaker2 %}
-            <div class="profile-img">
+            <div class="col profile-img">
                 <a href="{{ s2_linkedin }}" target="_blank" rel="noopener">
                     <img src="{{ site.url }}/assets/img/{{ s2_i }}.png?v=2" alt="{{ s2_name }}" width="100" height="100" />
                 </a>
             </div>
             {% endif %}
+            {% if speaker3 %}
+            <div class="col profile-img">
+                <a href="{{ s3_linkedin }}" target="_blank" rel="noopener">
+                    <img src="{{ site.url }}/assets/img/{{ s3_i }}.png?v=2" alt="{{ s3_name }}" width="100" height="100" />
+                </a>
+            </div>
+            {% endif %}
+            {% if speaker4 %}
+            <div class="col profile-img">
+                <a href="{{ s4_linkedin }}" target="_blank" rel="noopener">
+                    <img src="{{ site.url }}/assets/img/{{ s4_i }}.png?v=2" alt="{{ s4_name }}" width="100" height="100" />
+                </a>
+            </div>
+            {% endif %}
         </div>
-        <div class="text-container">
+
+        <!-- Text -->
+        <div class="col text-container">
             <p class="p-date">
                 {{ talk.date }}
             </p>
@@ -49,21 +95,37 @@
             {% else %}
             <p class="p-title pending">{{ talk.title }}</p>
             {% endif %}
-            <p>
+            <p class="p-speaker">
                 <a href="{{ s1_linkedin }}" target="_blank" rel="noopener">{{ s1_name }}</a>,
                 {{ s1_title }}, <em>{{ s1_location }}</em>
             </p>
             {% if speaker2 %}
-            <p>
+            <p class="p-speaker">
                 <a href="{{ s2_linkedin }}" target="_blank" rel="noopener">{{ s2_name }}</a>,
                 {{ s2_title }}, <em>{{ s2_location }}</em>
             </p>
             {% endif %}
+            {% if speaker3 %}
+            <p class="p-speaker">
+                <a href="{{ s3_linkedin }}" target="_blank" rel="noopener">{{ s3_name }}</a>,
+                {{ s3_title }}, <em>{{ s3_location }}</em>
+            </p>
+            {% endif %}
+            {% if speaker4 %}
+            <p class="p-speaker">
+                <a href="{{ s4_linkedin }}" target="_blank" rel="noopener">{{ s4_name }}</a>,
+                {{ s4_title }}, <em>{{ s4_location }}</em>
+            </p>
+            {% endif %}
         </div>
+
     </div>
 
     {% assign speaker1 = null %}
     {% assign speaker2 = null %}
+    {% assign speaker3 = null %}
+    {% assign speaker4 = null %}
+
 
 {% endfor %}
 

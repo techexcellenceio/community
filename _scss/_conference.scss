@@ -3,7 +3,7 @@
     margin-bottom: 4rem;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
-    @media (min-width: 567px) {
+    @media (min-width: 576px) {
         // padding-right: 3rem;
         // padding-left: 3rem;
         margin-top: 4rem;
@@ -33,7 +33,7 @@
             }
         }
         br.br-2 {
-            @media (min-width: 567px) {
+            @media (min-width: 576px) {
                 display: none;
             }
         }
@@ -65,7 +65,7 @@
         // @media (max-width: 991px) {
         //     max-width: 580px;
         // }
-        @media (min-width: 567px){
+        @media (min-width: 576x){
             margin-top: 2rem;
         }
         .row {
@@ -73,7 +73,7 @@
             margin-right: -15px;
             justify-content: center;
             padding-top: 1rem;
-            @media (min-width: 567px){
+            @media (min-width: 576px){
                 padding-top: 2rem;
             }
             .col, [class*="col-"] {
