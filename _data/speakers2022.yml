@@ -1,140 +1,128 @@
 - title: TDD in Hexagonal Architecture and Clean Architecture
   date: 30 Jun 2022
   link: https://www.youtube.com/watch?v=WAoqGzVDHc0
-  speaker1: valentina_cupac
-  speaker2: 
+  speakers: valentina_cupac
   # https://www.meetup.com/techexcellence/events/286753006/
 
 - title: Xtrem TDD by Example
   date: 06 Jul 2022
   link: https://www.youtube.com/watch?v=yxO7YHkB83I
-  speaker1: yoan_thirion
-  speaker2: guillaume_faas
+  speakers: 
+    - yoan_thirion
+    - guillaume_faas
   # https://www.meetup.com/techexcellence/events/286438189/
 
 - title: "TDD and other Agile practices: A Systemic Perspective"
   date: 20 Jul 2022
   link: https://www.youtube.com/watch?v=a3jUXRJRddQ
-  speaker1: michele_sollecito
-  speaker2: 
+  speakers: michele_sollecito
   # https://www.meetup.com/techexcellence/events/286921290/
 
 - title: If you refactor after each green TDD step, you'll fail!
   date: 03 Aug 2022
   link: https://www.youtube.com/watch?v=Vi_FtRXopdQ
-  speaker1: michael_azerhad
-  speaker2: 
+  speakers: michael_azerhad
   # https://www.meetup.com/techexcellence/events/287119913/
 
 - title: "TDD Perspectives: Trade-offs and impact of functional programming"
   date: 16 Aug 2022
   link: hhttps://www.youtube.com/watch?v=JcKLqX8wuR4
-  speaker1: urs_enzler
-  speaker2: 
+  speakers: urs_enzler
   # https://www.meetup.com/techexcellence/events/287202512/
 
 - title: "TDD: How to Write Maintainable Tests as Executable Specifications"
   date: 31 Aug 2022
   link: https://www.youtube.com/watch?v=z58ckvPYVAI
-  speaker1: pierre_criulanscy
-  speaker2: 
+  speakers: pierre_criulanscy
   # https://www.meetup.com/techexcellence/events/287325124/
 
 - title: "Clean Architecture: Principles, Patterns and Practices"
   date: 07 Sep 2022
   link: https://www.youtube.com/watch?v=g2gwmqZQUkQ
-  speaker1: ivan_paulovich
-  speaker2: 
+  speakers: ivan_paulovich
   # https://www.meetup.com/techexcellence/events/287876888/
 
 - title: Agile is a slow and steady way to win the race
   date: 14 Sep 2022
   link: https://www.youtube.com/watch?v=unbrl4QjhGc
-  speaker1: alex_bunardzic
-  speaker2: 
+  speakers: alex_bunardzic
   # https://www.meetup.com/techexcellence/events/287983711/
 
 - title: How to sell TDD to the management and your fellow colleagues
   date: 20 Sep 2022
   link: https://www.youtube.com/watch?v=h70T_eWGCHM
-  speaker1: daniel_moka
-  speaker2: 
+  speakers: daniel_moka
   # https://www.meetup.com/techexcellence/events/287640065/
 
 - title: The Trouble with Continuous Delivery
   date: 28 Sep 2022
   link: https://www.youtube.com/watch?v=nDHtub5BhXQ
-  speaker1: bryan_finster
-  speaker2: 
+  speakers: bryan_finster
   # https://www.meetup.com/techexcellence/events/288244890/
 
 - title: Tech Interview Cookbook
   date: 05 Oct 2022
   link: https://www.youtube.com/watch?v=5l5Klz4Mwf4
-  speaker1: rodislav_moldovan
-  speaker2: adrien_muller
+  speakers: 
+    - rodislav_moldovan
+    - adrien_muller
   # https://www.meetup.com/techexcellence/events/288432307/
 
 - title: Improving your integration testing efforts with contract testing
   date: 12 Oct 2022
   link: https://www.youtube.com/watch?v=bxdK3zJ8boU
-  speaker1: bas_dijkstra
-  speaker2: 
+  speakers: bas_dijkstra
   # https://www.meetup.com/techexcellence/events/288856471/
 
 - title: Bigger unit tests are better - why small unit test classes will slow you down
   date: 19 Oct 2022
   link: https://www.youtube.com/watch?v=D5YSQkNFu_E
-  speaker1: peter_schuler
-  speaker2: 
+  speakers: peter_schuler
   # https://www.meetup.com/techexcellence/events/288792004/
 
 - title: The key concept in computer science and how it relates to ATDD
   date: 03 Nov 2022
   link: https://www.youtube.com/watch?v=3lmClkPKQ0k
-  speaker1: peter_gfader
-  speaker2: 
+  speakers: peter_gfader
   # https://www.meetup.com/techexcellence/events/289169990/
 
 - title: TDD and Remote Mob Programming
   date: 09 Nov 2022
   link: https://www.youtube.com/watch?v=kyG_ljVF3cA
-  speaker1: marco_consolaro
-  speaker2: alessandro_di_gioia
+  speakers: 
+    - marco_consolaro
+    - alessandro_di_gioia
   # https://www.meetup.com/techexcellence/events/288724330/
 
 - title: "Engineering Leaders: Creating a culture of Tech Excellence"
   date: 16 Nov 2022
   link: https://www.youtube.com/watch?v=kMl10keIvu8
-  speaker1: ariel_perez
-  speaker2: 
+  speakers: ariel_perez
   # https://www.meetup.com/techexcellence/events/289308513/
 
 - title: Domain Driven Design to the rescue of legacy code
   date: 24 Nov 2022
   link: https://www.youtube.com/watch?v=1AlCTVXs5KE
-  speaker1: khaled_souf
-  speaker2: 
+  speakers: khaled_souf
   # https://www.meetup.com/techexcellence/events/289456285/
 
 - title: The Hard Truth About TDD
   date: 30 Nov 2022
   link: https://www.youtube.com/watch?v=GZHTY-Glt1w
-  speaker1: alexander_pushkarev
-  speaker2: 
+  speakers: alexander_pushkarev
   # https://www.meetup.com/techexcellence/events/289726510/
 
 - title: DDD, Event Storming & Clean Architecture
   date: 07 Dec 2022
   link: https://www.youtube.com/watch?v=Gr_sLZ28Klw
-  speaker1: oliver_zihler
-  speaker2: alina_liburkina
+  speakers: 
+    - oliver_zihler
+    - alina_liburkina
   # https://www.meetup.com/techexcellence/events/289726691/
 
 - title: Using BDD/ATDD in context with DDD and Clean Architecture
   date: 14 Dec 2022
   link: https://www.youtube.com/watch?v=BsFqU1iqpDo
-  speaker1: ken_pugh
-  speaker2: 
+  speakers: ken_pugh
   # https://www.meetup.com/techexcellence/events/289891140/
 

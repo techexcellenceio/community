@@ -1,155 +1,135 @@
 - title: TDD and Hexagonal Architecture in Microservices
   date: 08 Feb 2023
   link: https://www.youtube.com/watch?v=-620eHMEH-w
-  speaker1: valentina_cupac
-  speaker2: 
+  speakers: valentina_cupac
   # MEETUP: https://www.meetup.com/techexcellence/events/291051139/
 
 - title: Testing With Terraform
   date: 22 Feb 2023
   link: https://www.youtube.com/watch?v=UqjewhZwY-Y
-  speaker1: janis_orlovs
-  speaker2: 
+  speakers: janis_orlovs
   # MEETUP: https://www.meetup.com/techexcellence/events/291443030/
 
 - title: TDD Anti-patterns
   date: 8 March 2023
   link: https://www.youtube.com/watch?v=TzkuDJ6ef44
-  speaker1: ahmed_misbah
-  speaker2: 
+  speakers: ahmed_misbah
   # MEETUP: https://www.meetup.com/techexcellence/events/291444161/
 
 - title: Help! We have a QA problem!
   date: 15 March 2023
   link: https://www.youtube.com/watch?v=hUuL74rRv9o
-  speaker1: niels_malotaux
-  speaker2: 
+  speakers: niels_malotaux
   # MEETUP: https://www.meetup.com/techexcellence/events/291719517/
 
 - title: Getting out of Legacy with 3P
   date: 05 Apr 2023
   link: https://www.youtube.com/watch?v=E2d2BYxOiME
-  speaker1: johan_martinsson
-  speaker2:
+  speakers: johan_martinsson
   # MEETUP: Getting out of Legacy with 3P
 
 - title: Component-Driven Development with React & DOM Testing
   date: 19 Apr 2023
   link: https://www.youtube.com/watch?v=jBkEz-Azsak
-  speaker1: paul_hammond
-  speaker2: 
+  speakers: paul_hammond
   # MEETUP: https://www.meetup.com/techexcellence/events/292360648/
 
 - title: What is Tech Excellence? Who Cares?
   date: 03 May 2023
   link: https://www.youtube.com/watch?v=JQxyCviyOek
-  speaker1: kyle_aretae
-  speaker2: 
+  speakers: kyle_aretae
   # MEETUP: https://www.meetup.com/techexcellence/events/292658917/
 
 - title: 12 Microservices Testing Techniques for Dependency Control
   date: 17 May 2023
   link: https://www.youtube.com/watch?v=C3hkqzPpt-A
-  speaker1: wojciech_bulaty
-  speaker2: 
+  speakers: wojciech_bulaty
   # MEETUP: https://www.meetup.com/techexcellence/events/292981610/
 
 - title: Shipping Better Software Faster & Having Fun Doing It
   date: 31 May 2023
   link: https://www.youtube.com/watch?v=LsWPHIJyXRU
-  speaker1: chris_holland
-  speaker2: 
+  speakers: chris_holland
   # MEETUP: https://www.meetup.com/techexcellence/events/293489628/
 
 - title: Domain-Driven Qualities of High Performing Teams
   date: 21 Jun 2023
   link: https://www.youtube.com/watch?v=nOrJwilJYKk
-  speaker1: denis_cahuk
-  speaker2: 
+  speakers: denis_cahuk
   # MEETUP: https://www.meetup.com/techexcellence/events/293701560/
 
 - title: "Effective Software Design: Going forward by taking a step back"
   date: 5 July 2023
   link: https://www.youtube.com/watch?v=PMresjgaNEk
-  speaker1: nicholas_ocket
-  speaker2: 
+  speakers: nicholas_ocket
   # MEETUP: https://www.meetup.com/techexcellence/events/293996317/
 
 - title: Whole Team Programming
   date: 19 July 2023
   link: https://www.youtube.com/watch?v=3BcegnvAaag
-  speaker1: paige_watson
-  speaker2: 
+  speakers: paige_watson
   # MEETUP: https://www.meetup.com/techexcellence/events/294438248/
 
 - title: Visual Thinking for Software Teams
   date: 9 Aug 2023
   link: https://www.youtube.com/watch?v=hrlCgKeKgt8
-  speaker1: jacqueline_bilston
-  speaker2: 
+  speakers: jacqueline_bilston
   # MEETUP: https://www.meetup.com/techexcellence/events/294944742/
 
 - title: A Tactical TDD Introduction
   date: 23 Aug 2023
   link: https://www.youtube.com/watch?v=Q2qLql0dvz4
-  speaker1: garrick_west
-  speaker2: 
+  speakers: garrick_west
   # MEETUP: https://www.meetup.com/techexcellence/events/295008503/
 
 - title: Shipping React app with zero-bugs policy using TDD
   date: 6 Sep 2023
   link: https://www.youtube.com/watch?v=bA7YMGRwfFM
-  speaker1: nik_sumeiko
-  speaker2: 
+  speakers: nik_sumeiko
   # MEETUP: https://www.meetup.com/techexcellence/events/295502277/
 
 - title: Balancing Coupling in Software Design
   date: 20 Sep 2023
   link: https://www.youtube.com/watch?v=nNFgOtN9Gts
-  speaker1: vlad_khononov
-  speaker2: 
+  speakers: vlad_khononov
   # MEETUP: https://www.meetup.com/techexcellence/events/295744433/
 
 - title: Domain Driven Project Structure
   date: 4 Oct 2023
   link: https://www.youtube.com/watch?v=g-1zERBRsZg
-  speaker1: igor_sosman
-  speaker2: 
+  speakers: igor_sosman
   # MEETUP: https://www.meetup.com/techexcellence/events/295865818/
 
 - title: Deploy to production on your first day
   date: 18 Oct 2023
   link: https://www.youtube.com/watch?v=zZfVPtSPkhI
-  speaker1: timber_kerkvliet
-  speaker2: 
+  speakers: timber_kerkvliet
   # MEETUP: https://www.meetup.com/techexcellence/events/296202681/
 
 - title: Using Fakes for Testing
   date: 1 Nov 2023
   link: https://www.youtube.com/watch?v=7K-xHCWad4g
-  speaker1: marcelo_chiaradia
-  speaker2: 
+  speakers: marcelo_chiaradia
   # MEETUP: https://www.meetup.com/techexcellence/events/296490147/
 
 - title: How to use TDD in Legacy Projects
   date: 15 Nov 2023
   link: https://www.youtube.com/watch?v=XMDeoBO0IM4
-  speaker1: guilherme_ferreira
-  speaker2: 
+  speakers: guilherme_ferreira
   # MEETUP: https://www.meetup.com/techexcellence/events/297054192/
 
 - title: Tech Excellence Meetup
   date: 29 Nov 2023
   link: https://www.youtube.com/watch?v=lQP33NZo-nU
-  speaker1: emmanuel_valverde_ramos
-  speaker2: matheus_marabesi
+  speakers:
+    - emmanuel_valverde_ramos
+    - matheus_marabesi
   # MEETUP: https://www.meetup.com/techexcellence/events/297505614/
 
 - title: Unlocking the Awesome Power of Refactoring
   date: 13 Dec 2023
   link: https://www.youtube.com/watch?v=Xyv4wUffjiQ
-  speaker1: j_b_rainsberger
-  speaker2: 
+  speakers: j_b_rainsberger
   # MEETUP: https://www.meetup.com/techexcellence/events/297372872/
 
 

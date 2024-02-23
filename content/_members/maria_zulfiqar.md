@@ -4,7 +4,7 @@ i: maria_zulfiqar
 name: Maria Zulfiqar
 title: Technical Lead @ DPL
 about: Continual learning is a core value of mine, and I stay up-to-date with the latest industry trends and best practices. 
-location: Islamabad, Islāmābād, Pakistan
+location: Islamabad, Pakistan
 specialities:
     - microservices
     - clean architecture

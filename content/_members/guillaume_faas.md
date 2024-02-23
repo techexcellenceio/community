@@ -3,7 +3,7 @@ i: guillaume_faas
 
 name: Guillaume Faas
 title: Software Craftsmanship Leader & .Net Expert @Squaremiled S.A.
-about: Passionate about building software in various environments and business sectors
+about: Developer Advocate, Software Craftsman, Speaker, Mentor and Host of Software Craftsmanship Luxembourg
 location: Luxembourg
 specialities:
     - TDD
