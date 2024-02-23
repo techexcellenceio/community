@@ -14,7 +14,7 @@ specialities:
 tech-stack: Java, Vue.js, Spring, Jenkins, React
 
 linkedin: https://www.linkedin.com/in/alina-liburkina
-twitter: 
+twitter: https://twitter.com/AlinaLiburkina
 github: https://github.com/alinaliburkina
 xing: 
 website: 
