@@ -103,8 +103,25 @@
                     }
                 }
                 .p-title {
+                    font-size: 13px; // 13
+                    color:#9996b5;
+                    // color:#49475c;
+                }
+                .p-talk {
+                    font-size: 15px;
+                    color:#3f3a6d;
+                    font-weight: 700;
+                }
+                .p-date {
                     font-size: 13px;
-                    color:#49475c;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 6px;
+                    span {
+                        font-size: 16px;
+                        margin-right: 2px;
+                    }
                 }
             }
         }

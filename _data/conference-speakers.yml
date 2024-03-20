@@ -1,13 +1,52 @@
 list:
 
 - i: kent_beck
+  date: 12-1pm EST (USA)
+  title:
+  link:
+
 - i: dave_farley
+  date: 10-11am CET (Europe)
+  title:
+  link:
+
 - i: alistair_cockburn
+  date: 1-2pm EST (USA)
+  title:
+  link:
+
 - i: vlad_khononov
+  date: 11-12pm CET (Europe)
+  title: 
+  link:
+
 - i: susanne_kaiser
+  date: 12-1pm CET (Europe)
+  title:
+  link:
+
 - i: jimmy_bogard
+  date: 2-3pm EST (USA)
+  title:
+  link:
+
 - i: sonya_natanzon
+  date: 3-4pm EST (USA)
+  title: 
+  link:
+
 - i: marco_consolaro
+  date: 1-2pm CET  (Europe)
+  title:
+  link:
+
 - i: alessandro_di_gioia
+  date: 1-2pm CET  (Europe)
+  title:
+  link:
+
 - i: nick_tune
+  date: 2-3pm CET (Europe)
+  title:
+  link:
 
