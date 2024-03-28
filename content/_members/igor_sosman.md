@@ -8,7 +8,7 @@ location: St Gallen, Switzerland
 specialities:
     - Architectural design
     - OOP
-    - Design PAtterns
+    - Design Patterns
     - Machine Learning
     - Algorithms
 tech-stack: Spring, C#, C++, C, Java, SQL
