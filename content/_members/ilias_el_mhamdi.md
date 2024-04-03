@@ -19,5 +19,6 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: https://ilias.elmhamdi.fr/
 ---

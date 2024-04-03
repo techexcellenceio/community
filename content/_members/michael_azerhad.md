@@ -20,6 +20,7 @@ website: https://wealcomecompany.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 StackOverflow: https://stackoverflow.com/users/985949/mik378

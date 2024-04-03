@@ -19,6 +19,7 @@ website: https://www.yoan-thirion.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

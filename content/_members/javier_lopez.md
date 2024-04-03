@@ -20,6 +20,7 @@ website:
 youtube: 
 podcast: 
 medium: https://medium.com/@javi-kata
+substack: 
 blog: 
 ---
 

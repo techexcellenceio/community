@@ -18,5 +18,6 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---

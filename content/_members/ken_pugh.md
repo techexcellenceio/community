@@ -21,6 +21,7 @@ website: https://kenpugh.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

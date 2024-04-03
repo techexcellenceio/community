@@ -20,6 +20,7 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: http://martinsson-johan.blogspot.com
 ---
 

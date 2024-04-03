@@ -23,6 +23,7 @@ website: https://www.malotaux.eu
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

@@ -18,6 +18,7 @@ website: https://alistaircockburn.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

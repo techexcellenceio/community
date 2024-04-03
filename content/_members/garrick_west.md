@@ -21,6 +21,7 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 alks about #tdd, #refactoring, #pairprogramming, and #extremeprogramming

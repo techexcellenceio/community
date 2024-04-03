@@ -18,6 +18,7 @@ website: https://www.continuous-delivery.co.uk/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

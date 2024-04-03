@@ -22,5 +22,6 @@ website: https://www.withnik.com/tdd
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---

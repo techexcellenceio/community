@@ -19,6 +19,7 @@ website: https://www.aboutcoding.be
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

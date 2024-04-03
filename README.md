@@ -23,4 +23,10 @@ Instructions for editing website content are described on the [CONTRIBUTING](htt
 To run the application:
 ```
 bundle exec jekyll serve --livereload
+
 ```
+
+<!-- 
+bundle exec jekyll serve --open-url --livereload
+bundle exec jekyll s -l -o
+-->

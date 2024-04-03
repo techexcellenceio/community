@@ -19,6 +19,7 @@ website:
 youtube: https://www.youtube.com/@craftacademy94
 podcast: 
 medium: 
+substack: https://substack.com/@craftacademy
 blog: 
 ---
 

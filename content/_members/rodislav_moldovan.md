@@ -21,6 +21,7 @@ website: https://becoming.tech/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

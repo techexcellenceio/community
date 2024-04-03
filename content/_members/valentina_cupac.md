@@ -1,7 +1,7 @@
 ---
 i: valentina_cupac
 
-name: Valentina Cupać
+name: Valentina Jemuović
 # title: Technical Coach & Consultant @ OPTIVEM
 title: Founder & Technical Coach @ Optivem
 titleTE: Founder & Organizer @ Tech Excellence
@@ -28,6 +28,7 @@ website: https://optivem.com/
 youtube: https://www.youtube.com/@valentinacupac
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 
@@ -54,5 +55,6 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 --- -->

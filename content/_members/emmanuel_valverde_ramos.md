@@ -22,6 +22,7 @@ website: https://emmanuelvalverde.dev
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

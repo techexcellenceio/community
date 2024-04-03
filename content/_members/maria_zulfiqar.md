@@ -6,9 +6,8 @@ title: Technical Lead @ DPL
 about: Continual learning is a core value of mine, and I stay up-to-date with the latest industry trends and best practices. 
 location: Islamabad, Pakistan
 specialities:
-    - microservices
+    - clean code
     - clean architecture
-    - CI/CD
 tech-stack: .NET, C#, Angular
 
 linkedin: https://www.linkedin.com/in/maria-zulfiqar-29485436/
@@ -19,6 +18,7 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

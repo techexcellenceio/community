@@ -19,6 +19,7 @@ website: https://bryanfinster.com/
 youtube: 
 podcast: 
 medium: https://bdfinst.medium.com/
+substack: 
 blog: 
 ---
 

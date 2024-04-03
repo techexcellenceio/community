@@ -42,7 +42,7 @@
   speakers: daniel_moka
   # MEETUP: https://www.meetup.com/techexcellence/events/300030140/
 
-- title: Tech Excellence Meetup
+- title: Micro-decisions in Software Design
   date: 1 May 2024
   link: https://www.youtube.com/watch?v=7aEIIonw_dQ
   speakers: javier_lopez
@@ -62,17 +62,17 @@
     - alina_liburkina
   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 12 Jun 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 12 Jun 2024
+  link: 
+  speakers: maximiliano_contieri
+  # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 26 Jun 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 26 Jun 2024
+  link: 
+  speakers: adam_ralph
+  # MEETUP: 
 
 # - title: Tech Excellence Meetup
 #   date: 10 Jul 2024
@@ -92,11 +92,11 @@
 #   speakers: 
 #   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 4 Sep 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 4 Sep 2024
+  link: 
+  speakers: kristijan_kralj
+  # MEETUP: 
 
 # - title: Tech Excellence Meetup
 #   date: 18 Sep 2024

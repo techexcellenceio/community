@@ -19,6 +19,7 @@ website:
 youtube: https://www.youtube.com/c/AlexBunardzic
 podcast: 
 medium: https://medium.com/@alexbunardzic
+substack: 
 blog: 
 ---
 

@@ -20,6 +20,7 @@ website: https://beyond-agility.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

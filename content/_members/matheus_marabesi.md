@@ -19,6 +19,7 @@ website: https://marabesi.com
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

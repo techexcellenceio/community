@@ -21,10 +21,10 @@ website:
 youtube: https://www.youtube.com/@TechnologistPodcast
 podcast: 
 medium: 
+substack: https://craftingtechteams.substack.com/
 blog: 
 ---
 
-Substack: https://craftingtechteams.substack.com/
 Gumroad: https://coachdenis.gumroad.com/l/coach-denis-no-nonsense-tdd
 
 

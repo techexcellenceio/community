@@ -21,6 +21,7 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: https://www.planetgeek.ch/
 ---
 

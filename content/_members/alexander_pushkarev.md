@@ -20,6 +20,7 @@ website:
 youtube: https://www.youtube.com/@TestClubRU
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

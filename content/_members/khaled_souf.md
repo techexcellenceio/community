@@ -19,6 +19,7 @@ website: https://ksouf.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

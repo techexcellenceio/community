@@ -21,6 +21,7 @@ website: https://vladikk.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

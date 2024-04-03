@@ -80,6 +80,9 @@ title:
             {% if member.medium %}
                 <a href="{{ member.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
             {% endif %}
+            {% if member.substack %}
+                <a href="{{ member.substack }}" target="_blank" rel="noopener"><i class="bi bi-substack"></i></a>
+            {% endif %}
             {% if member.blog %}
                 <a href="{{ member.blog }}" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>
             {% endif %}

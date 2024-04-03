@@ -19,6 +19,7 @@ website: https://gsferreira.com/
 youtube: https://www.youtube.com/c/gsferreirachannel
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

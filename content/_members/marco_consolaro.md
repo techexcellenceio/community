@@ -20,6 +20,7 @@ website: https://alcor.academy/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

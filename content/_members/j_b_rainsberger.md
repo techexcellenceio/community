@@ -21,6 +21,7 @@ website: https://blog.jbrains.ca/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: https://blog.thecodewhisperer.com/
 ---
 Skills: agile, extreme programming, Mentoring, test automation, Design Patterns, Object Oriented Design, Architecture, OOP

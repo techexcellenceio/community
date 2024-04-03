@@ -2,13 +2,14 @@
 i: jonas_felix
 
 name: Jonas Felix
-title: Founder & Trainer at letsboot.ch, Co-Founder Your Sidekicks AG
-about: 
+title: Trainer & Co-Founder @ letsboot.ch
+about: Jonas teaches software engineers how to orchestrate their software projects and automate their CI/CD pipelines
 location: Basel, Switzerland
 specialities:
-    - 
-    - 
-tech-stack: 
+    - CI/CD
+    - DevOps
+    - Continuous delivery
+tech-stack: Python, Node.js, PHP, Angular, HTML, CSS, SQL
 
 linkedin: https://www.linkedin.com/in/jonas-felix/
 twitter: 
@@ -18,6 +19,7 @@ website:
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

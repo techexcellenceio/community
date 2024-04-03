@@ -22,6 +22,7 @@ website:
 youtube: https://www.youtube.com/@ahmedmisbah 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

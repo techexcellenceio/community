@@ -20,6 +20,7 @@ website: https://www.danielmoka.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: https://www.danielmoka.com/
 ---
 Talks about #extremeprogramming, #softwareengineering, and #testdrivendevelopment

@@ -19,6 +19,7 @@ website: https://optivem.com/
 youtube: 
 podcast: 
 medium: 
+substack: 
 blog: 
 ---
 

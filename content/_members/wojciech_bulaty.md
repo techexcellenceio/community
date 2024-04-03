@@ -19,6 +19,7 @@ website:
 youtube: https://www.youtube.com/@trafficparrot 
 podcast: https://www.youtube.com/@fabsoftwarefast
 medium: 
+substack: 
 blog: 
 ---
 
