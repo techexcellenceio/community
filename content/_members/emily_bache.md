@@ -2,7 +2,7 @@
 i: emily_bache
 
 name: Emily Bache
-title: Samman Technical Coach @ Bache Consulting
+title: Technical Coach @ Independent
 about: I am an experienced Technical Agile Coach, Trainer, Software Developer and Architect, with a focus on Test Driven Development and automated testing.
 location: Metropolitan Gothenburg, Sweden
 specialities:
@@ -14,16 +14,19 @@ specialities:
 tech-stack: Java, Python, Ruby on Rails, JavaScript
 
 linkedin: https://www.linkedin.com/in/emilybache/
-twitter: 
-github: 
+twitter: https://twitter.com/emilybache 
+github: https://github.com/emilybache 
 xing: 
-website: 
-youtube: 
+website: http://bacheconsulting.com/
+youtube: https://www.youtube.com/@EmilyBache-tech-coach
 podcast: 
 medium: 
 substack: 
 blog: 
 ---
+
+Mastodon: https://sw-development-is.social/web/@emilybache 
+
 
 Samman Technical Coach at Bache Consulting
 

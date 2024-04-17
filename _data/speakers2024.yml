@@ -48,7 +48,7 @@
   speakers: javier_lopez
   # MEETUP: https://www.meetup.com/techexcellence/events/300069738/
 
-- title: Tech Excellence Meetup
+- title: How to Test Legacy Code
   date: 15 May 2024
   link: 
   speakers: emily_bache
@@ -98,11 +98,11 @@
   speakers: kristijan_kralj
   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 18 Sep 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 18 Sep 2024
+  link: 
+  speakers: irina_dominte
+  # MEETUP: 
 
 - title: Tech Excellence Meetup
   date: 2 Oct 2024

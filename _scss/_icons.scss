@@ -21,8 +21,10 @@
 
 
 .social-media {
+    // align-items: center;
+    // display: flex;
     a {
-        .fab, .fas, .fa-brands {
+        .fab, .fas, .fa-brands, .fa {
             font-size: 1.75rem;
             margin-right: 1rem;
             margin-top: .75rem;
@@ -30,6 +32,10 @@
             &:hover {
                 color: #4664ee;
             }
+        }
+        // only for partners & sponsors
+        .fa-globe {
+            font-size: 1.5rem;
         }
     }
 }

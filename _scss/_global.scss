@@ -137,6 +137,12 @@
 
 .comp-img {
     padding-right: 10px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-top: 1rem;
+    @media (max-width: 576px) {
+        margin-bottom: 2rem;
+    }
 }
 
 .markdown-body p, p {

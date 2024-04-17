@@ -10,7 +10,8 @@
         <div class="s-container">
             <div class="profile-img comp-img">
                 <a href="{{ company.website }}" target="_blank">
-                    <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
+                    <!-- width="252" height="90" -->
+                    <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="" />
                 </a>
             </div>
             <div class="text-container container-fixed">
@@ -22,6 +23,9 @@
                     {% endif %}
                     {% if company.twitter %}
                         <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
+                    {% endif %}
+                    {% if company.website %}
+                        <a href="{{ company.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
                     {% endif %}
                 </div>
             </div>
