@@ -54,13 +54,11 @@
   speakers: emily_bache
   # MEETUP: https://www.meetup.com/techexcellence/events/300488577/
 
-- title: Tech Excellence Meetup
-  date: 29 May 2024
-  link: 
-  speakers: 
-    - oliver_zihler
-    - alina_liburkina
-  # MEETUP: 
+# - title: Tech Excellence Meetup
+#   date: 29 May 2024
+#   link: 
+#   speakers: 
+#   # MEETUP: 
 
 - title: Tech Excellence Meetup
   date: 12 Jun 2024
@@ -86,11 +84,13 @@
 #   speakers: 
 #   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 7 Aug 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 7 Aug 2024
+  link: 
+  speakers:     
+    - oliver_zihler
+    - alina_liburkina
+  # MEETUP: 
 
 - title: Tech Excellence Meetup
   date: 4 Sep 2024
