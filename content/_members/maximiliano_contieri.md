@@ -6,9 +6,11 @@ title: Teacher @ Universidad de Buenos Aires
 about: I’m a senior software engineer and love clean code, TDD, AI, and declarative designs
 location: Buenos Aires, Argentina
 specialities:
-    - 
-    - 
-tech-stack: 
+    - clean code
+    - refactoring
+    - tdd
+    - AI
+tech-stack: PHP, Python, SQL, JavaScript
 
 linkedin: https://www.linkedin.com/in/mcsee/
 twitter: https://twitter.com/mcsee1 
