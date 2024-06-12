@@ -1,0 +1,64 @@
+.navbar {
+  background-color: #05191a;
+  box-shadow: 0 2px 6px rgba(5, 25, 26, 0.5);
+  color: #fff;
+  padding: 0rem 1rem;
+  height: 102px;
+}
+
+.navbar-container {
+  padding: 0 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  color: #fff;
+  margin-right: 1.5rem;
+}
+
+.navbar-toggler {
+    display: none;
+    font-size: 1.5rem;
+    border: none;
+    color: #fff;
+}
+
+.navbar-menu {
+    display: flex;
+    gap: 1.25rem;
+    a {
+        font-size: 14px;
+        &:hover, &:active, &.active {
+            color: #12dfef;
+        }
+    }
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+// @media (max-width: 768px) {
+//     .navbar-toggler {
+//         display: block;
+//         // JC - show on the right side
+//         margin-left: auto;
+//     }
+
+//     .navbar-menu {
+//         display: none;
+//         flex-direction: column;
+//         width: 100%;
+//     }
+
+//     .navbar-menu.show {
+//         display: flex;
+//     }
+
+//     .navbar-link {
+//         padding: 0.5rem 1rem;
+//     }
+// }

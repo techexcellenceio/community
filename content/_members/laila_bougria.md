@@ -1,7 +1,7 @@
 ---
 i: laila_bougria
 
-name: Laïla Bougriâ
+name: Laila Bougria
 title: Software Engineer & Solutions Architect @ Particular Software
 about: Solutions Architect & Software Engineer | Keynote Speaker | Microsoft Azure MVP
 location: Schilde, Flemish Region, Belgium

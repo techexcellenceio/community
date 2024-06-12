@@ -8,12 +8,15 @@
 // @import "../node_modules/bootstrap/scss/mixins";
 
 @import "global.scss";
+@import "navbar.scss";
+@import "footer.scss";
+
 
 // HOME ----
 @import "masthead.scss";
 @import "vision.scss";
 @import "team.scss";
-@import "community.scss";
+@import "members.scss";
 @import "speakers.scss";
 @import "conference.scss";
 @import "icons.scss";
@@ -24,5 +27,7 @@
 @import "members-detail.scss";
 
 @import "companies-detail.scss";
+
+@import "conf-main.scss"
 
 

@@ -15,8 +15,10 @@
         // min-height: 420px;
         // max-height: 420px;
     }
+    margin-top: 4.5rem; //102px;
     margin-bottom: 2rem;
-    background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
+    // background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
+    background-color: #05191a;
     // background: url('/assets/tech_excellence_banner.png?v=2');
     display: flex;
     justify-content: center;
@@ -24,8 +26,8 @@
     .container {
         padding-right: 3rem;
         padding-left: 3rem;
-        padding-top: 3.5rem;
-        padding-bottom: 3.5rem;
+        padding-top: 4.5rem;
+        padding-bottom: 5rem;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -72,8 +74,10 @@
     @media (min-width: 1200px) {
         min-height: 320px;
     }
+    margin-top: 2.5rem; //102px;
     margin-bottom: 3rem;
-    background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
+    // background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
+    background-color: #05191a;
     display: flex;
     justify-content: center;
     align-items: center;

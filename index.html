@@ -2,58 +2,61 @@
 layout: default
 ---
 
-<div id="vision">
+<div id="vision" class="container-lg">
     {% include vision.html %}
 </div>
 
+<!--  -->
 <div class="d-flex justify-content-center align-items-center">
     {% include incl-conference.html %}
 </div>
 
-<div id="speakers">
-    {% include speakers-current.html %}
-</div>
-
-<div id="speakers">
-    {% include speakers-past.html %}
-</div>
-
-<div id="team">
-    {% include team.html %}
-</div>
-
-<div id="community">
-    {% include community.html %}
-</div>
-
-<div id="about">
-    {% include about.html %}
-</div>
-
-<div id="sponsors">
-    {% include sponsors.html %}
-</div>
-
-<div id="partners">
-    {% include partners.html %}
-</div>
-
-<div class="network">
-    {% include network.html %}
-</div>
-
-<div id="faq">
-    {% include incl-faq.html %}
-</div>
-
-<div id="speakers">
-    {% include speaker-signup.html %}
-</div>
-
-<div id="faq">
-    {% include incl-code-of-conduct.html %}
-</div>
-
-<div id="ideas">
-    {% include ideas.html %}
+<div class="container-lg">
+    <article id="meetups" class="speakers">
+        {% include speakers-current.html %}
+    </article>
+    
+    <article id="" class="speakers">
+        {% include speakers-past.html %}
+    </article>
+    
+    <article id="team" class="">
+        {% include team.html %}
+    </article>
+    
+    <article id="members" class="">
+        {% include members.html %}
+    </article>
+    
+    <article id="about" class="">
+        {% include about.html %}
+    </article>
+    
+    <article id="sponsors" class="">
+        {% include sponsors.html %}
+    </article>
+    
+    <article id="partners" class="">
+        {% include partners.html %}
+    </article>
+    
+    <article class="network">
+        {% include network.html %}
+    </article>
+    
+    <article id="faq">
+        {% include incl-faq.html %}
+    </article>
+    
+    <article id="speakers">
+        {% include speaker-signup.html %}
+    </article>
+    
+    <article id="faq">
+        {% include incl-code-of-conduct.html %}
+    </article>
+    
+    <article id="ideas">
+        {% include ideas.html %}
+    </article>
 </div>

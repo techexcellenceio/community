@@ -1,56 +1,67 @@
 list:
 
 - i: kent_beck
-  date: 12-1pm EST (USA)
-  title:
+  date: 12-1pm EST
+  zone: USA
+  title: "TDD: Theme & Variations"
   link:
 
 - i: dave_farley
-  date: 10-11am CET (Europe)
-  title:
+  date: 10-11am CET 
+  zone: Europe
+  title: "Modern Software Engineering: Building Better Software Faster"
   link:
 
 - i: alistair_cockburn
-  date: 1-2pm EST (USA)
-  title:
+  date: 1-2pm EST 
+  zone: USA
+  title: Hexagonal Architecture
   link:
 
 - i: vlad_khononov
-  date: 11-12pm CET (Europe)
-  title: 
+  date: 11-12pm CET 
+  zone: Europe
+  title: "Complexity and Modularity: Two Sides of the Same Coin"
   link:
 
 - i: susanne_kaiser
-  date: 12-1pm CET (Europe)
-  title:
+  date: 12-1pm CET 
+  zone: Europe
+  title: "Optimizing for a fast flow of value with Architecture for Flow"
   link:
 
 - i: jimmy_bogard
-  date: 2-3pm EST (USA)
-  title:
+  date: 2-3pm EST 
+  zone: USA
+  title: "Domain-Driven Refactoring"
   link:
 
 - i: sonya_natanzon
-  date: 3-4pm EST (USA)
-  title: 
+  date: 3-4pm EST 
+  zone: USA
+  title: "So you think you might be an architect"
   link:
 
 - i: marco_consolaro
-  date: 1-2pm CET (Europe)
-  title:
+  date: 1-2pm CET 
+  zone: Europe
+  title: "Test Doubles without Tears"
   link:
 
 - i: alessandro_di_gioia
-  date: 1-2pm CET (Europe)
-  title:
+  date: 1-2pm CET 
+  zone: Europe
+  title: "Test Doubles without Tears"
   link:
 
 - i: nick_tune
-  date: 2-3pm CET (Europe)
-  title:
+  date: 2-3pm CET 
+  zone: Europe
+  title: "Architecture Modernization: Aligning Software, Strategy, and Structure"
   link:
 
 - i: laila_bougria
-  date: 3-4pm CET (Europe)
-  title:
+  date: 3-4pm CET 
+  zone: Europe
+  title: "Orchestration vs. Choreography: The good, the bad, and the trade-offs"
   link:

@@ -1,5 +1,3 @@
-<!-- TODO: JC Add description for the conference, -->
-
 <div id="conference" class="g-container">
     <div class="conference-promo">
         <!-- TE Conference 2024 - Coming soon... -->
@@ -12,7 +10,15 @@
 
     <div class="dates">
         <p>Fri 22 Nov 2024</p>
+        <!-- <p> | </p> -->
+        <p>&bull;</p>
         <p>Live Online</p>
+    </div>
+
+    <div class="">
+        <button href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener" class="c-btn">Register</button>
+
+        <button href="{{ site.url }}/conf/#sessions" rel="noopener" class="c-btn">Sessions</button>
     </div>
 
 
@@ -27,31 +33,26 @@
 
             <div class="col">
                 <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
-                </a>
-                <div class="text-container">
+                    <div class="img-container">
+                        <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="128" height="128" />
+                    </div>
                     <p class="p-name">
-                        <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                            {{ member.name }}
-                        </a>
+                        {{ member.name }}
                     </p>
-                    <p class="p-title">
+                    <!-- <p class="p-title">
                         {{ member.title }}
-                    </p>
-                    <!-- <p>{{ conferenceSpeaker.title }} </p> -->
-                    <!-- <p class="p-talk">
-                        Microservices & Clean Architecture
                     </p> -->
-                    <p class="p-date">
-                        <!-- <i class="fa-regular fa-calendar"></i> -->
-
+                    <!-- <p class="p-talk">
+                        {{ conferenceSpeaker.title }}
+                    </p> -->
+                    <!-- <i class="fa-regular fa-calendar"></i> -->
+                    <!-- <p class="p-date">
                         <span class="material-symbols-outlined">
                             calendar_today
                         </span>
-
-                        {{ conferenceSpeaker.date }}
-                    </p>
-                </div>
+                        {{ conferenceSpeaker.date }} ({{ conferenceSpeaker.zone }})
+                    </p> -->
+                </a>
             </div>
 
             {% endif %}

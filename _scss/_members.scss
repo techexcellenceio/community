@@ -1,4 +1,4 @@
-#community {
+#members {
     a:hover, a:active, a.active {
         text-decoration: none;
     }
@@ -22,8 +22,6 @@
             margin-bottom: 6rem;
         }
         .row {
-            margin-left: -15px;
-            margin-right: -15px;
             justify-content: center;
             padding-top: 1rem;
             @media (max-width: 575px){

@@ -24,5 +24,15 @@
     .profile-img {
         padding-top: 1rem;
         padding-bottom: 1rem;
+
     }
+    @media (min-width: 576px) {
+        .s-container:first-of-type {
+            .profile-img {
+                padding-top: 0;
+                padding-bottom: 0;
+            }
+        }
+    }
+
 }
