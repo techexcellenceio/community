@@ -25,8 +25,7 @@ body {
 .s-container {
     align-items: center;
     text-align: center;
-        @media (min-width: 576px){
-        // @include media-breakpoint-up(sm) {
+        @include media-breakpoint-up(sm) {
             display: flex;
             text-align: left;
         }
@@ -67,7 +66,7 @@ body {
     display: block;
     &:last-of-type {
         margin-bottom: 4rem;
-        @media (max-width: 575px){
+        @include media-breakpoint-down(sm){
             margin-bottom: 4rem;
         }
     }
@@ -79,7 +78,7 @@ body {
     justify-content: center;
     margin-left: 0; // row
     margin-right: 0; // row
-    @media (min-width: 576px){
+    @include media-breakpoint-up(sm){
         max-width: 268px; //  2 people per row, multiple speakers
     }
     .col {
@@ -97,12 +96,12 @@ body {
     &:nth-child(n+4) {
         margin-top: 0rem;
     }
-    @media (min-width: 576px) {
+    @include media-breakpoint-up(sm){
         &:nth-child(n+3) {
             margin-top: 0rem;
         }
     }
-    @media (max-width: 575px){
+    @include media-breakpoint-down(sm){
         margin-right: .75rem;
         margin-left: .75rem;
         margin-top: 4rem;
@@ -182,7 +181,7 @@ button.c-btn {
       border-color: rgb(7, 216, 231);
     }
     margin: 0 .5rem;
-    @media (max-width: 566px){
+    @include media-breakpoint-down(sm){
         width: calc(100% - 24px);
         margin-right: 12px;
         margin-left: 12px;
@@ -216,7 +215,7 @@ a:hover, a:active, a.active {
         padding-right: 10px;
         padding-top: 1rem;
         margin-bottom: 1rem;
-        @media (max-width: 576px) {
+        @include media-breakpoint-down(sm){
             margin-bottom: 1.5rem;
         }
     }

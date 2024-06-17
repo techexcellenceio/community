@@ -8,7 +8,7 @@
     margin-top: 1.5rem;
     padding-top: 6rem;
     padding-bottom: 6rem;
-    @media (max-width: 575px){
+    @include media-breakpoint-down(sm){
       padding-bottom: 4rem;
     }
     .conference-promo {
@@ -21,17 +21,17 @@
         color: #12dfef;
         text-shadow: 1px 1px 6px rgba(24, 24, 24, 0.4);
         line-height: 1.5;
-        @media (min-width: 768px) {
+        @include media-breakpoint-up(md){
           font-size: 3.75rem;
         }
       }
       br.br-1 {
-          @media (min-width: 768px) {
+          @include media-breakpoint-up(md) {
               display: none;
           }
       }
       br.br-2 {
-          @media (min-width: 576px) {
+          @include media-breakpoint-up(sm){
               display: none;
           }
       }
@@ -54,7 +54,7 @@
             margin-bottom: .5rem;
             // box-shadow: 1px 1px 6px rgba(24, 24, 24, 0.4);
             // border: 2px solid #25b4bd;
-            @media (min-width: 768px) {
+            @include media-breakpoint-up(md) {
               font-size: 1.75rem;
             }
         }
@@ -64,16 +64,17 @@
     margin-right: auto;
     margin-left: auto;
     margin-top: 3.5rem;
+    // KEEP?
     @media (max-width: 1120px) {
       max-width: 880px; 
     }
-    @media (min-width: 576x){
+    @include media-breakpoint-up(sm) {
         margin-top: 2rem;
     }
     .row {
       justify-content: center;
       padding-top: 1rem;
-      @media (min-width: 576px){
+      @include media-breakpoint-up(sm) {
           padding-top: 2rem;
       }
       .col, [class*="col-"] {
@@ -129,13 +130,13 @@
   .c-container {
     margin-right: auto;
     margin-left: auto;
-    @media (min-width: 576x){
+    @include media-breakpoint-up(sm){
         margin-top: 2rem;
     }
     .row {
         justify-content: center;
         padding-top: 1rem;
-        @media (min-width: 576px){
+        @include media-breakpoint-up(sm){
             padding-top: 2rem;
         }
     }
@@ -167,7 +168,7 @@
       }
       .text-container {
         .p-talk {
-          @media (max-width: 575px){
+          @include media-breakpoint-down(sm){
             max-width: 360px;
             margin-right: auto;
             margin-left: auto;
@@ -207,7 +208,7 @@
           }
         }
       }
-      @media (max-width: 575px){
+      @include media-breakpoint-down(sm){
         text-align: center;
         .text-container {
           text-align: center;

@@ -1,33 +1,28 @@
 // Import Bootstrap
-// @import "../css/bootstrap/bootstrap.scss";
+// @import "bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
-// @import "../node_modules/bootstrap/scss/bootstrap";
-
-// @import "../node_modules/bootstrap/scss/functions"; //~
-// @import "../node_modules/bootstrap/scss/variables";
-// @import "../node_modules/bootstrap/scss/mixins";
-
-@import "global.scss";
-@import "navbar.scss";
-@import "footer.scss";
-
+@import "variables";
+@import "global";
+@import "navbar";
+@import "footer";
 
 // HOME ----
-@import "masthead.scss";
-@import "vision.scss";
-@import "team.scss";
-@import "members.scss";
-@import "speakers.scss";
-@import "conference.scss";
-@import "icons.scss";
+@import "masthead";
+@import "vision";
+@import "team";
+@import "members";
+@import "speakers";
+@import "conference";
+@import "icons";
 
 
 
 // PAGES
-@import "members-detail.scss";
+@import "members-detail";
 
-@import "companies-detail.scss";
+@import "companies-detail";
 
-@import "conf-main.scss"
+@import "conf-main"
 
 

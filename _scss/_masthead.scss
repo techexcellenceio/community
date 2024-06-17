@@ -1,20 +1,4 @@
 .s-masthead {
-    @media (max-width: 566px){
-        // min-height: 100vh;
-        // min-height: 420px;
-    }
-    @media (min-width: 576px) {
-        // min-height: 420px;
-        // max-height: 420px;
-    }
-    @media (min-width: 768px) {
-        // min-height: 320px;
-        // max-height: 320px;
-    }
-    @media (min-width: 1200px) {
-        // min-height: 420px;
-        // max-height: 420px;
-    }
     margin-top: 4.5rem; //102px;
     margin-bottom: 2rem;
     // background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
@@ -31,29 +15,29 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        @media (min-width: 576px) and (max-width: 767px) {
+        @include media-breakpoint-between(sm,md){
+        // @media (min-width: 576px) and (max-width: 767px) {
             padding-right: 5rem;
             padding-left: 5rem;
         }
-        @media (min-width: 768px) {
+        @include media-breakpoint-up(md){
             padding-right: 2rem;
             padding-left: 2rem;
         }
-        @media (min-width: 1200px) {
+        @include media-breakpoint-up(xl){
             padding-right: 0;
             padding-left: 0;
         }
         img {
             max-width: 320px;
             width: 100%;
-            @media (min-width: 768px){
+            @include media-breakpoint-up(md){
                 max-width: 100%;
             }
-            @media (min-width: 992px){
+            @include media-breakpoint-up(lg){
                 max-width: 656px;
             }
-            @media (min-width: 1200px){
-                // max-width: 656px;
+            @include media-breakpoint-up(xl){
                 max-width: 100%;
             }
         }
@@ -61,16 +45,16 @@
 }
 
 .s-masthead-2 {
-    @media (max-width: 566px){
+    @include media-breakpoint-down(xs){
         min-height: 400px;
     }
-    @media (min-width: 576px) {
+    @include media-breakpoint-up(sm){
         min-height: 400px;
     }
-    @media (min-width: 768px) {
+    @include media-breakpoint-up(md){
         min-height: 280px;
     }
-    @media (min-width: 1200px) {
+    @include media-breakpoint-up(xl){
         min-height: 320px;
     }
     margin-top: 2.5rem; //102px;
@@ -82,17 +66,17 @@
     align-items: center;
     .container {
         text-align: center;
-        @media (min-width: 768px) {
+        @include media-breakpoint-up(md){
             display: flex;
             justify-content: center;
             align-items: center;
         }
         img {
             max-width: 200px;
-            @media (min-width: 768px) {
+            @include media-breakpoint-up(md){
                 max-width: 160px;
             }
-            @media (min-width: 768px) {
+            @include media-breakpoint-up(md){
                 max-width: 200px;
             }
         }
@@ -100,12 +84,12 @@
             color: white;
             padding-top: 48px;
             font-size: 3rem;
-            @media (min-width: 768px) {
+            @include media-breakpoint-up(md){
                 padding-top: 0;
                 padding-left: 72px;
                 font-size: 3.25rem;
             }
-            @media (min-width: 1200px) {
+            @include media-breakpoint-up(xl){
                 font-size: 3.5rem;
                 padding-left: 84px;
             }

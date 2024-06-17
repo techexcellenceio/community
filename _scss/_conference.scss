@@ -4,7 +4,7 @@
     margin-bottom: 4rem;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
-    @media (min-width: 576px) {
+    @include media-breakpoint-up(sm){
         margin-top: 4rem;
         margin-bottom: 6rem;
     }
@@ -13,7 +13,7 @@
     text-align: center;
     border: 3px solid #58dbd578;
     border-radius: 18px;
-    @media (max-width: 1999px) {
+    @include media-breakpoint-down(xl){
         width: 100%;
     }
     .conference-promo {
@@ -24,16 +24,16 @@
         font-weight: 800;
         color: #12dfef;
         line-height: 1.25;
-        @media (max-width: 575px) {
+        @include media-breakpoint-down(sm){
             margin-bottom: 1rem;
         }
         br.br-1 {
-            @media (min-width: 768px) {
+            @include media-breakpoint-up(md){
                 display: none;
             }
         }
         br.br-2 {
-            @media (min-width: 576px) {
+            @include media-breakpoint-up(sm){
                 display: none;
             }
         }
@@ -44,7 +44,7 @@
         font-size: 1.5rem;
         margin-top: .75rem;
         margin-bottom: 3rem;
-        @media (max-width: 575px) {
+        @include media-breakpoint-down(sm){
             margin-bottom: 3.5rem;
         }
         p {
@@ -63,13 +63,11 @@
         margin-right: auto;
         margin-left: auto;
         max-width: 1200px; // max 4 speakers on a row
-        // @media (max-width: 991px) {
-        //     max-width: 580px;
-        // }
+        // KEEP THIS
         @media (max-width: 1107px) {
             max-width: 895px;
         }
-        @media (min-width: 576x){
+        @include media-breakpoint-up(sm){
             margin-top: 2rem;
         }
         .row {
@@ -149,7 +147,7 @@
     font-size: 13px;
     margin-right: 18px;
     margin-left: 18px;
-    @media (max-width: 767px) {
+    @include media-breakpoint-down(md){
         br {
             display: none;
         }

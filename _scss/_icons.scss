@@ -1,7 +1,7 @@
 .social-media-lg a {
     .fab, .fas, .fa-brands {
         font-size: 3rem;
-        @media (max-width: 575x) {
+        @include media-breakpoint-down(sm){
             font-size: 2.5rem;
             margin-right: 1.75rem;
         }
