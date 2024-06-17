@@ -7,22 +7,18 @@ body {
 
 .s-container {
     &:first-of-type {
-        margin-top: 1rem;
-        @media (max-width: 575px){
-        // @include media-breakpoint-down(xs) {
-            margin-top: 2rem;
-        }
-        .profile-img {
-            // margin-top: 1rem;
-            // margin-bottom: 2rem;
-        }
+        // margin-top: 1rem;
+        // @media (max-width: 575px){
+        // // @include media-breakpoint-down(xs) {
+        //     margin-top: 2rem;
+        // }
     }
     &:last-of-type {
-        margin-bottom: 4rem;
-        @media (max-width: 575px){
-        // @include media-breakpoint-down(xs) {
-            margin-bottom: 4rem;
-        }
+        // margin-bottom: 4rem;
+        // @media (max-width: 575px){
+        // // @include media-breakpoint-down(xs) {
+        //     margin-bottom: 4rem;
+        // }
     }
 }
 
@@ -191,7 +187,7 @@ button.c-btn {
         margin-right: 12px;
         margin-left: 12px;
         &:first-of-type {
-            margin-bottom: 2rem;
+            // margin-bottom: 2rem;
         }
     }
     a {
