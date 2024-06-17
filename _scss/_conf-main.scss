@@ -1,23 +1,17 @@
 #conf-main {
   .masthead {
     margin-top: 102px;
-    background-color: #05191a; // #032e31; //#0c97a1;
-    // background: 
-    // linear-gradient(rgba(rgb(5, 25, 26), 1), rgba(rgb(5, 25, 26), 1)),
-    // linear-gradient(rgba(rgb(69, 203, 216), 0.5), rgba(rgb(41, 148, 180), 0.5));
-    // linear-gradient(rgba(rgb(69, 203, 216), 0.5), rgba(rgb(41, 148, 180), 0.5));
-    // background-blend-mode: overlay;
+    background-color: #05191a;
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 1.5rem; // 102px;
+    margin-top: 1.5rem;
     padding-top: 6rem;
     padding-bottom: 6rem;
     @media (max-width: 575px){
       padding-bottom: 4rem;
     }
     .conference-promo {
-      // background-color: #032e31;
       border-radius: 12px;
       display: inline-block;
       p {
@@ -31,7 +25,6 @@
           font-size: 3.75rem;
         }
       }
-      // box-shadow: 2px 2px 20px rgba(23, 141, 147, 0.6);
       br.br-1 {
           @media (min-width: 768px) {
               display: none;
@@ -68,8 +61,6 @@
     }
   }
   .c-container {
-    // border: 3px solid #58dbd578;
-    // border-radius: 42px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 3.5rem;
@@ -96,7 +87,6 @@
       }
       img {
         border-radius: 50%;
-        // border: 3px solid #58dbd578;
 
       }
       .text-container {
@@ -139,10 +129,6 @@
   .c-container {
     margin-right: auto;
     margin-left: auto;
-    // max-width: 880px; // max 4 speakers on a row
-    // @media (max-width: 991px) {
-    //     max-width: 580px;
-    // }
     @media (min-width: 576x){
         margin-top: 2rem;
     }
@@ -169,10 +155,6 @@
       margin-top: 3rem;
       margin-bottom: 1rem;
       font-size: 1.5rem;
-      // @media (max-width: 575px) {
-      //   margin-top: 3rem;
-      //   margin-bottom: 3rem;
-      // }
     }
     img {
       border-radius: 50%;
@@ -180,12 +162,6 @@
       box-sizing: content-box;
     }
     .s-container {
-      // text-align: center;
-      // display: flex;
-      // justify-content: center;
-      // align-items: center;
-      // margin-right: auto;
-      // margin-left: auto;
       &:first-of-type{
         margin-top: 2rem;
       }
@@ -240,7 +216,6 @@
           }
           .p-name {
             display: block;
-            // margin-top: .125rem;
             margin-bottom: 0rem;
           }
         }

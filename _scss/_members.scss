@@ -4,15 +4,12 @@
     }
     .see-more {
         text-align: center;
-        // background-color: rgb(56, 94, 94);
-        // color: aqua;
         font-weight: 600;
         font-size: 20px;
         max-width: 240px;
         padding-top: 6px;
         padding-bottom: 6px;
         margin-top: 1rem;
-        // border-radius: 6px;
     }
     .c-container {
         margin-top: 1rem;
@@ -37,15 +34,16 @@
             }
             .text-container {
                 .p-name {
-                    font-size: 14px; // 16px
-                    font-weight: 600; // 400
-                    color:#485a5a; // #3c4646; // #596868
+                    font-size: 14px;
+                    font-weight: 600;
+                    color:#485a5a;
                     margin-top: .25rem;
                     margin-bottom: 1rem;
                 }
             }
         }
     }
+    // JC Check is this needed
     .c-img {
         // border: 2px solid #83d8cd;
         // border-radius: 50%;

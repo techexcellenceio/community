@@ -80,7 +80,6 @@ body {
 
 .img-c {
     display: flex;
-    // flex-wrap: wrap;
     justify-content: center;
     margin-left: 0; // row
     margin-right: 0; // row
@@ -206,6 +205,7 @@ button.c-btn-secondary {
     border: 2px solid rgba(21, 138, 146, 0.7);
     box-shadow: none;
     &:hover, &:active, &.active {
+        // JC - check if this is needed
         // background-color: rgba(10, 107, 114, 0.7);
         // border-color: rgba(21, 138, 146, 0.7)
       }

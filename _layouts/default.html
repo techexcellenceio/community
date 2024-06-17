@@ -7,20 +7,20 @@
 
     {% include navbar.html %}
 
-    {% include masthead.html %}
-
-    <!-- container-lg -->
-    <div class="markdown-body">
-
-        <!-- HOME -->
+    <header class="s-masthead-2">
+      <div class="container">
+        <img src="/assets/banner-text-1.svg" alt="Tech Excellence"> 
+        <h1>{{ page.title }}</h1>
+      </div>
+    </header>
+    
+    <div class="container-lg markdown-body">
 
         {{ content }}
 
-        <div id="footer">
-            {% include footer.html %}     
-        </div>
-
     </div>
+
+    {% include footer.html %}     
 
     {% include scripts.html %}
 

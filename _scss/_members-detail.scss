@@ -1,4 +1,3 @@
-// shadow? border around user?? or line below
 #members {
     .s-container {
         margin-top: 2rem;
@@ -21,12 +20,7 @@
         margin-bottom: .25rem;
         margin-top: .25rem;
     }
-    // p {
-    //     display: flex;
-    // }
     p.specialities span {
-        // background: #3e5495;
-        // color: white;
         background: #d3d1ff;
         color: #424148;
         padding-left: 8px;
@@ -38,7 +32,7 @@
         display: inline-block;
         font-size: 14px;
         border-radius: 6px;
-        text-transform: capitalize; // lowercase; // capitalize;
+        text-transform: capitalize;
     }
     .tech-stack {
         margin-top: .25rem;

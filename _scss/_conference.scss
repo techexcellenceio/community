@@ -1,15 +1,10 @@
 #conference {
     background-color: #05191a;
-    // background-color: white;
     margin-top: 1rem;
     margin-bottom: 4rem;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
-    // margin-right: 12px;
-    // margin-left: 12px;
     @media (min-width: 576px) {
-        // padding-right: 3rem;
-        // padding-left: 3rem;
         margin-top: 4rem;
         margin-bottom: 6rem;
     }
@@ -22,7 +17,6 @@
         width: 100%;
     }
     .conference-promo {
-        // background-color: #052426;
         padding: .5rem 0;
         border-radius: 12px;
         display: inline-block;
@@ -33,11 +27,6 @@
         @media (max-width: 575px) {
             margin-bottom: 1rem;
         }
-        // horiz offset, vert offset, blur radius, color
-        // text-shadow: 8px 8px 0 #820ab962, -8px 8px 0 #820ab962, 8px -8px 0 #820ab962, -8px -8px 0 #820ab962;
-        // text-shadow: 8px 8px 0 #820ab962, -8px 8px 0 #820ab962, 8px -8px 0 #820ab962, -8px -8px 0 #820ab962;
-        // text-shadow: 2px 0 #05191a, -2px 0 #05191a, 0 2px #05191a, 0 -2px #05191a, 1px 1px #05191a, -1px -1px #05191a, 1px -1px #05191a, -1px 1px #05191a;
-        // box-shadow: 2px 2px 20px rgba(23, 141, 147, 0.6);
         br.br-1 {
             @media (min-width: 768px) {
                 display: none;
@@ -58,15 +47,9 @@
         @media (max-width: 575px) {
             margin-bottom: 3.5rem;
         }
-        // margin-right: 1rem;
-        p {            // background-color: #25b4bd;
+        p {
             color: white;
             display: inline-block;
-            // padding: .35rem 1rem;
-            // border-radius: 6px;
-            // margin-right: .25rem;
-            // margin-bottom: .5rem;
-            // box-shadow: 1px 1px 6px rgba(24, 24, 24, 0.4);
             margin-right: .25rem;
             margin-left: .25rem;
         }
@@ -91,9 +74,7 @@
         }
         .row {
             justify-content: center;
-            // @media (min-width: 576px){
-                padding-top: 2rem;
-            // }
+            padding-top: 2rem;
             .col, [class*="col-"] {
                 text-align: center;
                 margin-top: 1rem;
@@ -138,9 +119,8 @@
                 margin-bottom: .25rem;
             }
             .p-title {
-                font-size: 13px; // 13
+                font-size: 13px;
                 color:#9996b5;
-                // color:#49475c;
             }
             .p-talk {
                 font-size: 15px;
