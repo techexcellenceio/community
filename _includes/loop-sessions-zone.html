@@ -1,0 +1,46 @@
+{% for conferenceSpeaker in conferenceSpeakers %}
+{% for member in site.members %}
+{% if member.i == conferenceSpeaker.i %}
+{% if conferenceSpeaker.zone == sessionZone %}
+
+<div class="s-container">
+  <div class="row img-c">
+
+    <div class="col profile-img">
+
+      <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+        <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="90" height="90" />
+      </a>
+
+    </div>
+
+  </div>
+
+
+  <div class="col">
+    <p class="p-date">
+      <span class="material-symbols-outlined">
+          calendar_today
+      </span>
+      {{ conferenceSpeaker.date }}
+    </p>
+
+    <p class="p-talk">
+      {{ conferenceSpeaker.title }} 
+    </p>
+    <p class="p-name">
+      <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+          {{ member.name }}
+      </a>
+    </p>
+    <p class="p-title">
+      {{ member.title }}
+    </p>
+  </div>
+
+</div>
+
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endfor %}

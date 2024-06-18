@@ -1,30 +1,19 @@
-<div id="conference" class="g-container">
-    <div class="conference-promo">
-        <p>Tech <br class="br-2"/>
-            Excellence<br class="br-1"/>
-            Conference
-        </p>
-    </div>
+<div class="g-container conference">
+    <h1>Tech Excellence Conference</h1>
 
-    <div class="dates">
-        <p>Fri 22 Nov 2024</p>
-        <p>&bull;</p>
-        <p>Live Online</p>
-    </div>
+    <h2>Fri 22 Nov 2024<span>&bull;</span>Live Online</h2>
 
-    <div class="">
-        <button class="c-btn">
-            <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener" >
-                Register
-            </a>
-        </button>
+    <button class="conf-btn">
+        <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener" >
+            Register
+        </a>
+    </button>
 
-        <button class="c-btn">
-            <a href="{{ site.url }}/conf/#sessions" rel="noopener">
-                Sessions
-            </a>
-        </button>
-    </div>
+    <button class="conf-btn">
+        <a href="{{ site.url }}/conf/#sessions" rel="noopener">
+            Sessions
+        </a>
+    </button>
 
 
     {% assign conferenceSpeakers = site.data.conf-speakers.list %}

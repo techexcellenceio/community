@@ -1,4 +1,4 @@
-#conference {
+.conference {
     background-color: #05191a;
     margin-top: 1rem;
     margin-bottom: 4rem;
@@ -16,10 +16,8 @@
     @include media-breakpoint-down(xl){
         width: 100%;
     }
-    .conference-promo {
+    h1 {
         padding: .5rem 0;
-        border-radius: 12px;
-        display: inline-block;
         font-size: 3rem;
         font-weight: 800;
         color: #12dfef;
@@ -27,31 +25,21 @@
         @include media-breakpoint-down(sm){
             margin-bottom: 1rem;
         }
-        br.br-1 {
-            @include media-breakpoint-up(md){
-                display: none;
-            }
-        }
-        br.br-2 {
-            @include media-breakpoint-up(sm){
-                display: none;
-            }
-        }
     }
-    .dates {
+    h2 {
+        color: white;
         font-weight: 500;
         text-transform: uppercase;
         font-size: 1.5rem;
+        margin-right: .25rem;
+        margin-left: .25rem;
         margin-top: .75rem;
         margin-bottom: 3rem;
         @include media-breakpoint-down(sm){
             margin-bottom: 3.5rem;
         }
-        p {
-            color: white;
-            display: inline-block;
-            margin-right: .25rem;
-            margin-left: .25rem;
+        span {
+            margin: 0 .75rem;
         }
     }
     a:hover, a:active, a.active {

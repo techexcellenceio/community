@@ -1,28 +1,25 @@
 // Import Bootstrap
-// @import "bootstrap/scss/bootstrap";
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+// GLOBAL
 @import "variables";
 @import "global";
 @import "navbar";
 @import "footer";
 
-// HOME ----
-@import "masthead";
-@import "vision";
-@import "team";
+// COMMON
 @import "members";
-@import "speakers";
-@import "conference";
+@import "masthead";
 @import "icons";
+@import "speakers";
 
-
+// HOME ----
+@import "home_vision";
+@import "home_team";
+@import "home_conf";
 
 // PAGES
 @import "members-detail";
-
-@import "companies-detail";
-
-@import "conf-main"
+@import "conf";
 
 

@@ -1,5 +1,5 @@
 .s-masthead {
-    margin-top: 4.5rem; //102px;
+    margin-top: 4.5rem;
     margin-bottom: 2rem;
     // background: radial-gradient(132.55% 86.57% at 80.5% 41.82%, #0A3B4C 0%, #06263A 100%);
     background-color: #05191a;
@@ -16,7 +16,6 @@
         justify-content: center;
         align-items: center;
         @include media-breakpoint-between(sm,md){
-        // @media (min-width: 576px) and (max-width: 767px) {
             padding-right: 5rem;
             padding-left: 5rem;
         }

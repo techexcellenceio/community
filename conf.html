@@ -3,39 +3,31 @@ layout: conf
 title: Conference
 ---
 
-<div id="conf-main" class="">
+<div class="conf-main">
     <div class="masthead">
-      <div class="conference-promo">
-        <!-- TE Conference 2024 -->
-        <p>Tech <br class="br-2"/>
-            Excellence<br class="br-1"/>
-            Conference
-        </p>
-      </div>
+
+      <h1>Tech Excellence Conference</h1>
   
-      <div class="dates">
-          <p>Fri 22 Nov 2024</p>
-          <p>|</p>
-          <p>Live Online</p>
-      </div>
+      <h2>Fri 22 Nov 2024 <span>|</span> Live Online</h2>
   
-      <button class="c-btn">
+      <button class="conf-btn">
         <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener">
           Register
         </a>
       </button>
   
-      <button class="c-btn">
+      <button class="conf-btn">
         <a href="{{ site.url }}/conf/#sessions" rel="noopener">
             Sessions
         </a>
       </button>
+
     </div>
   
   
     {% assign conferenceSpeakers = site.data.conf-speakers.list %}
                 
-    <div class="container-xl c-container d-none">
+    <div class="container-xl c-container">
         <div class="row">
   
             {% for conferenceSpeaker in conferenceSpeakers %}
@@ -43,26 +35,21 @@ title: Conference
             {% if member.i == conferenceSpeaker.i %}
   
             <div class="col">
-                <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
-                </a>
-                <div class="text-container">
-                    <p class="p-name">
-                        <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                            {{ member.name }}
-                        </a>
-                    </p>
-                    <p class="p-title">
-                        {{ member.title }}
-                    </p>
-                    <p class="p-date">
-                        <span class="material-symbols-outlined">
-                            calendar_today
-                        </span>
-  
-                        {{ conferenceSpeaker.date }}
-                    </p>
-                </div>
+              <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+
+                <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
+                <p class="p-name">
+                  {{ member.name }}
+                </p>
+                <p class="p-title">
+                  {{ member.title }}
+                </p>
+                <p class="p-date">
+                  <span class="material-symbols-outlined">calendar_today</span>
+                  {{ conferenceSpeaker.date }}
+                </p>
+                
+              </a>
             </div>
   
             {% endif %}
@@ -77,119 +64,25 @@ title: Conference
     <article id="sessions" class="container-lg lineup">
     
       <h1>Sessions</h1>
-  
-  
+
+      {% assign conferenceSpeakers = site.data.conf-speakers.list %}
+      
       <!-- Europe -->
   
-      <h2 class="">Europe - Sessions (Online)</h2>
-  
+      <h2>Europe - Sessions (Online)</h2>
          
-      {% assign conferenceSpeakers = site.data.conf-speakers.list %}
+      {% assign sessionZone = "Europe" %}
   
-      {% for conferenceSpeaker in conferenceSpeakers %}
-      {% for member in site.members %}
-      {% if member.i == conferenceSpeaker.i %}
-      {% if conferenceSpeaker.zone == "Europe" %}
-      <div class="s-container">
-        <div class="row img-c">
-  
-  
-  
-          <div class="col profile-img">
-  
-            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-              <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="90" height="90" />
-            </a>
-  
-          </div>
-  
-        </div>
-  
-  
-        <div class="col text-container">
-          <p class="p-date">
-            <span class="material-symbols-outlined">
-                calendar_today
-            </span>
-            {{ conferenceSpeaker.date }}
-          </p>
-  
-          <p class="p-talk">
-            {{ conferenceSpeaker.title }} 
-          </p>
-          <p class="p-name">
-            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                {{ member.name }}
-            </a>
-          </p>
-          <p class="p-title">
-            {{ member.title }}
-          </p>
-        </div>
-  
-      </div>
-      
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% endfor %}
-  
-  
-  
+      {% include loop-sessions-zone.html %}
   
   
       <!-- USA -->
   
-      <h2 style="margin-top: 4rem">USA - Sessions (Online)</h2>
+      <h2>USA - Sessions (Online)</h2>
+
+      {% assign sessionZone = "USA" %}
   
-      {% for conferenceSpeaker in conferenceSpeakers %}
-      {% for member in site.members %}
-      {% if member.i == conferenceSpeaker.i %}
-      {% if conferenceSpeaker.zone == "USA" %}
-      <div class="s-container">
-        <div class="row img-c">
-  
-  
-  
-          <div class="col profile-img">
-  
-            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-              <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="90" height="90" />
-            </a>
-  
-          </div>
-  
-        </div>
-  
-  
-        <div class="col text-container">
-          <p class="p-date">
-            <span class="material-symbols-outlined">
-                calendar_today
-            </span>
-            {{ conferenceSpeaker.date }}
-          </p>
-  
-          <p class="p-talk">
-            {{ conferenceSpeaker.title }} 
-          </p>
-          <p class="p-name">
-            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                {{ member.name }}
-            </a>
-          </p>
-          <p class="p-title">
-            {{ member.title }}
-          </p>
-        </div>
-  
-      </div>
-  
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% endfor %}
-  
+      {% include loop-sessions-zone.html %}
   
     </article>
   

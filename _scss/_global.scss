@@ -51,8 +51,6 @@ body {
             margin-bottom: .4rem;
             margin-top: 0rem;
         }
-    }
-    .container-fixed {
         max-width: 500px;
     }
 }
@@ -155,7 +153,7 @@ a {
 }
 
 
-a.g-btn {
+a.gray-btn {
     background-color: rgb(225, 235, 236);
     padding: .5rem 2rem;
     border-radius: 50pt;
@@ -166,7 +164,7 @@ a.g-btn {
     margin-bottom: .5rem;
 }
 
-button.c-btn {
+button.conf-btn {
     font-weight: 400;
     text-transform: uppercase;
     font-size: 1.5rem;
@@ -185,16 +183,14 @@ button.c-btn {
         width: calc(100% - 24px);
         margin-right: 12px;
         margin-left: 12px;
-        &:first-of-type {
-            // margin-bottom: 2rem;
-        }
+        margin-bottom: 2rem;
     }
     a {
         color: white;
     }
 }
 
-button.c-btn-secondary {
+button.conf-btn-secondary {
     background-color: transparent;
     color: white;
     border: 2px solid rgba(21, 138, 146, 0.7);
@@ -210,7 +206,7 @@ a:hover, a:active, a.active {
 }
 
 
-#sponsors, #partners, #about {
+.sponsors, .partners, .about {
     .s-container .comp-img {
         padding-right: 10px;
         padding-top: 1rem;
