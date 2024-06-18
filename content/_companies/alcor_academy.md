@@ -9,8 +9,8 @@ website: https://alcor.academy/
 youtube: https://www.youtube.com/@agiletechnicalpracticestv7768
 linkedin: https://www.linkedin.com/company/alcor-academy/
 twitter: https://twitter.com/alcoracademy
-instagram: 
-medium: 
-blog: 
+instagram:
+medium:
+blog:
 github: https://github.com/AgileTechPraxis
 ---

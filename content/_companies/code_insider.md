@@ -13,9 +13,9 @@ website: https://codeinsider.fr/
 youtube: https://www.youtube.com/@codeinsider4427
 linkedin: https://www.linkedin.com/company/code-insider/
 twitter: https://twitter.com/Code_Insider
-instagram: 
+instagram:
 facebook: https://www.facebook.com/codeinsider/
-medium: 
-blog: 
-github: 
+medium:
+blog:
+github:
 ---

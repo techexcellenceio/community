@@ -13,15 +13,15 @@ specialities:
 tech-stack: Java, PHP, Python, JS
 
 linkedin: https://www.linkedin.com/in/timber-kerkvliet-816765152/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Talks about #continuousdelivery, #domaindrivendesign, #extremeprogramming, #softwaredevelopment, and #testdrivendevelopment

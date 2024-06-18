@@ -3,7 +3,7 @@ i: alexander_pushkarev
 
 name: Alexander Pushkarev
 title: Senior Software Engineer @ TripAdvisor
-about: With more than 10 years in IT, I had a chance to work in different areas, such as development, testing and management. 
+about: With more than 10 years in IT, I had a chance to work in different areas, such as development, testing and management.
 location: London, United Kingdom
 specialities:
     - TDD
@@ -13,19 +13,18 @@ specialities:
 tech-stack: Java, Python, PHP, Selenium
 
 linkedin: https://www.linkedin.com/in/alexpushkarev/
-twitter: 
+twitter:
 github: https://github.com/senpay
-xing: 
-website: 
+xing:
+website:
 youtube: https://www.youtube.com/@TestClubRU
-podcast: 
-medium: 
-substack: 
-blog: 
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Talks about #tdd, #programming, #testautomation, #computerscience, and #artificialintelligence
-
 
 With more than 10 years in IT, I had a chance to work in different areas, such as development, testing and management. I had a chance to work with PHP, Java, Python and .Net platforms with different applications from microservices to monolithic and monstrous desktop UI applications.
 
@@ -35,13 +34,12 @@ Currently, I am holding the position of Senior Software Engineer, but I prefer t
 
 My major areas of interests are:
 
-- Effective test automation approaches
+-   Effective test automation approaches
 
-- Test automation framework architecture
+-   Test automation framework architecture
 
-- Data analysis
+-   Data analysis
 
-- DevOps
+-   DevOps
 
 My passions are quality and efficiency. I am an agile fan and XP practitioner.
-

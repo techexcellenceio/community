@@ -13,7 +13,7 @@ linkedin: https://www.linkedin.com/company/code-sherpas/
 twitter: https://twitter.com/codesherpas_bcn
 instagram: https://www.instagram.com/codesherpas/
 facebook: https://www.facebook.com/codesherpas
-medium: 
-blog: 
-github: 
+medium:
+blog:
+github:
 ---

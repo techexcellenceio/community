@@ -3,7 +3,7 @@ i: maria_zulfiqar
 
 name: Maria Zulfiqar
 title: Technical Lead @ DPL
-about: Continual learning is a core value of mine, and I stay up-to-date with the latest industry trends and best practices. 
+about: Continual learning is a core value of mine, and I stay up-to-date with the latest industry trends and best practices.
 location: Islamabad, Pakistan
 specialities:
     - clean code
@@ -11,21 +11,20 @@ specialities:
 tech-stack: .NET, C#, Angular
 
 linkedin: https://www.linkedin.com/in/maria-zulfiqar-29485436/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Technical Lead | .Net Expert | Micro Services | Angular Developer | Sql Server | Postgres| Docker | GitLab | kubernates | OWASP | Bug Bounty Hunter -Specialized in Microsoft technologies .NET C#
 
 Talks about #development, #programming, and #passionforcoding
-
 
 Continual learning is a core value of mine, and I stay up-to-date with the latest industry trends and best practices. I'm always eager to expand my skill set and embrace emerging technologies that can enhance the development process and deliver exceptional results.
 

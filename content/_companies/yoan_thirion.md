@@ -7,12 +7,12 @@ about: I coach teams get better at software delivery through Agile & Craft pract
 
 website: https://www.yoan-thirion.com/
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/company/yoan-thirion-freelance/
 twitter: https://twitter.com/yot88
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---

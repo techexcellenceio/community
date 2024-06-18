@@ -14,16 +14,15 @@ tech-stack: Java, C++, React, JavaScript, SQL
 linkedin: https://www.linkedin.com/in/arielxperez/
 twitter: https://twitter.com/arielxperez
 github: https://github.com/arielperez82
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+blog:
 ---
 
 Talks about #leadership, #engineering, and #peoplefirst
-
 
 Ariel Pérez has had a diverse career in software engineering and product development, having worked at both large, global enterprises like JP Morgan Chase and at small startups like Try The World. As he’s gained experience across different domains and faced different technical challenges, one core belief has continually been reinforced in his mind: that putting people first is what has the biggest impact of all in any organization. He’s always strived to be a leader, rather than a manager in all his roles, whether they were purely in Engineering Management, in Entrepreneurship, in Product Management, or a combination of them.
 

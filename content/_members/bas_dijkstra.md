@@ -14,14 +14,14 @@ specialities:
 tech-stack: Java, C#, Selenium, Python
 
 linkedin: https://www.linkedin.com/in/basdijkstra/
-twitter: 
+twitter:
 github: https://www.github.com/basdijkstra
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
 blog: https://www.ontestautomation.com/blog
 ---
 

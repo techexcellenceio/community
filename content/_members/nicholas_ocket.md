@@ -12,18 +12,17 @@ specialities:
 tech-stack: Java, Spring, javaScript, HTML< CSS, SQL
 
 linkedin: https://www.linkedin.com/in/nicholas-ocket/
-twitter: 
-github: 
-xing: 
+twitter:
+github:
+xing:
 website: https://www.aboutcoding.be
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Guiding developers from zero to Clean Architecture. Check out my website to start right away!
 
 Talks about #softwaredesign, #softwaredevelopment, and #softwareengineeringTalks about hashtag softwaredesign, hashtag softwaredevelopment, and hashtag softwareengineering
-

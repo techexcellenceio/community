@@ -12,21 +12,18 @@ specialities:
     - Pair/Mob Programming
     - XP
     - DevOps
-tech-stack:  Java, C#, Elixir, JavaScript
+tech-stack: Java, C#, Elixir, JavaScript
 
 linkedin: https://www.linkedin.com/in/cuvaalex/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Talks about #agilemindset, #agileleadership, #agiletransformation, #softwarecraftsmanship, and #agilesoftwaredevelopment
-
-
-

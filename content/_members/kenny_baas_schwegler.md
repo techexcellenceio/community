@@ -1,23 +1,23 @@
 ---
 i: kenny_baas_schwegler
 
-name: Kenny Baas-Schwegler 
+name: Kenny Baas-Schwegler
 title: Software Architecture Enabler @ DHL
-about: 
+about:
 location: North Holland, Netherlands
 specialities:
-    - 
-    - 
-tech-stack: 
+    -
+    -
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/kenny-baas/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

@@ -8,14 +8,14 @@ about: Providing innovative approached to automating business operations
 
 website: https://www.linkedin.com/in/alexbunardzic/
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/in/alexbunardzic/
 twitter: https://twitter.com/alexbunardzic
-instagram: 
-facebook: 
+instagram:
+facebook:
 medium: https://medium.com/@alexbunardzic
-blog: 
-github: 
+blog:
+github:
 ---
 
 <!-- https://twitter.com/DigitalExprt -->

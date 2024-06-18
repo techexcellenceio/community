@@ -14,20 +14,18 @@ tech-stack: React, Node.js, JavaScript, PHP, MySQL, HTML, CSS
 linkedin: https://www.linkedin.com/in/pierre-criulanscy/
 twitter: https://twitter.com/p_criulanscy
 github: https://github.com/PCreations
-xing: 
-website: 
+xing:
+website:
 youtube: https://www.youtube.com/@craftacademy94
-podcast: 
-medium: 
+podcast:
+medium:
 substack: https://substack.com/@craftacademy
-blog: 
+blog:
 ---
 
 J'aide les développeurs.ses à développer de meilleurs logiciels plus rapidement 🚀 - bit.ly/ebook-craft
 
 Talks about #mentoring, #javascript, and #vulgarisation
-
-
 
 Fond of TDD, hexagonal architecture, and software craftsmanship in general, I love to build well crafted products and share what I learn along the way.
 

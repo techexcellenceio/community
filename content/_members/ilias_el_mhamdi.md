@@ -12,13 +12,13 @@ specialities:
 tech-stack: React.js, TypeScript
 
 linkedin: https://www.linkedin.com/in/ilias-el-mhamdi-72a013146/
-twitter: 
+twitter:
 github: https://github.com/Ilias-El-Mhamdi
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
 blog: https://ilias.elmhamdi.fr/
 ---

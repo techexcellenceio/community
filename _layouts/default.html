@@ -1,28 +1,22 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include navbar.html %}
 
-    {% include navbar.html %}
+        <header class="s-masthead-2">
+            <div class="container">
+                <img src="/assets/banner-text-1.svg" alt="Tech Excellence" />
+                <h1>{{ page.title }}</h1>
+            </div>
+        </header>
 
-    <header class="s-masthead-2">
-      <div class="container">
-        <img src="/assets/banner-text-1.svg" alt="Tech Excellence"> 
-        <h1>{{ page.title }}</h1>
-      </div>
-    </header>
-    
-    <div class="container-lg markdown-body">
+        <div class="container-lg markdown-body">{{ content }}</div>
 
-        {{ content }}
-
-    </div>
-
-    {% include footer.html %}     
-
-    {% include scripts.html %}
-
-  </body>
+        {% include footer.html %}
+        
+        {% include scripts.html %}
+    </body>
 </html>

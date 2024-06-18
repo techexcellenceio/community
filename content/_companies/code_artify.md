@@ -6,12 +6,12 @@ about: Services for software development (consultancy, courses, workshops, e-lea
 
 website: https://codeartify.com/
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/company/codeartify/about/
-twitter: 
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+twitter:
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---

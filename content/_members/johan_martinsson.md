@@ -15,18 +15,16 @@ tech-stack: Node.js, Go, Java
 linkedin: https://www.linkedin.com/in/jomartinsson/
 twitter: https://twitter.com/johan_alps
 github: https://github.com/martinsson
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
 blog: http://martinsson-johan.blogspot.com
 ---
 
 Developer, Continuous delivery, TDD and crafting coach
-
-
 
 Johan Martinsson is a freelance dev coach, passionate about code and software design.
 

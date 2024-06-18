@@ -11,18 +11,17 @@ specialities:
 tech-stack: Java, Spring, C#, XML, SQL
 
 linkedin: https://www.linkedin.com/in/kyle-aretae/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Humilitant Applied Epistemologist -- Unreformed eXtreme Programmer -- Zero-Lecture Educator -- Dynamic Systems Evolutionist
 
 Talks about #agile, #learning, #software, and #philosophy
-

@@ -5,88 +5,73 @@ title: Conference
 
 <div class="conf-main">
     <div class="masthead">
+        <h1>Tech Excellence Conference</h1>
 
-      <h1>Tech Excellence Conference</h1>
-  
-      <h2>Fri 22 Nov 2024 <span>|</span> Live Online</h2>
-  
-      <button class="conf-btn">
-        <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener">
-          Register
-        </a>
-      </button>
-  
-      <button class="conf-btn">
-        <a href="{{ site.url }}/conf/#sessions" rel="noopener">
-            Sessions
-        </a>
-      </button>
+        <h2>Fri 22 Nov 2024 <span>|</span> Live Online</h2>
 
+        <button class="conf-btn">
+            <a
+                href="https://www.meetup.com/techexcellence/events/301221542/"
+                target="_blank"
+                rel="noopener"
+            >
+                Register
+            </a>
+        </button>
+
+        <button class="conf-btn">
+            <a href="{{ site.url }}/conf/#sessions" rel="noopener">
+                Sessions
+            </a>
+        </button>
     </div>
-  
-  
+
     {% assign conferenceSpeakers = site.data.conf-speakers.list %}
-                
+
     <div class="container-xl c-container">
         <div class="row">
-  
-            {% for conferenceSpeaker in conferenceSpeakers %}
-            {% for member in site.members %}
-            {% if member.i == conferenceSpeaker.i %}
-  
-            <div class="col">
-              <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+            {% for conferenceSpeaker in conferenceSpeakers %} {% for member in
+            site.members %} {% if member.i == conferenceSpeaker.i %}
 
-                <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
-                <p class="p-name">
-                  {{ member.name }}
-                </p>
-                <p class="p-title">
-                  {{ member.title }}
-                </p>
-                <p class="p-date">
-                  <span class="material-symbols-outlined">calendar_today</span>
-                  {{ conferenceSpeaker.date }}
-                </p>
-                
-              </a>
+            <div class="col">
+                <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+                    <img
+                        src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2"
+                        alt="{{ member.name }}"
+                        width="120"
+                        height="120"
+                    />
+                    <p class="p-name">{{ member.name }}</p>
+                    <p class="p-title">{{ member.title }}</p>
+                    <p class="p-date">
+                        <span class="material-symbols-outlined"
+                            >calendar_today</span
+                        >
+                        {{ conferenceSpeaker.date }}
+                    </p>
+                </a>
             </div>
-  
-            {% endif %}
-            {% endfor %}
-            {% endfor %}
-  
+
+            {% endif %} {% endfor %} {% endfor %}
         </div>
     </div>
-  
-  
-  
+
     <article id="sessions" class="container-lg lineup">
-    
-      <h1>Sessions</h1>
+        <h1>Sessions</h1>
 
-      {% assign conferenceSpeakers = site.data.conf-speakers.list %}
-      
-      <!-- Europe -->
-  
-      <h2>Europe - Sessions (Online)</h2>
-         
-      {% assign sessionZone = "Europe" %}
-  
-      {% include loop-sessions-zone.html %}
-  
-  
-      <!-- USA -->
-  
-      <h2>USA - Sessions (Online)</h2>
+        {% assign conferenceSpeakers = site.data.conf-speakers.list %}
 
-      {% assign sessionZone = "USA" %}
-  
-      {% include loop-sessions-zone.html %}
-  
+        <!-- Europe -->
+
+        <h2>Europe - Sessions (Online)</h2>
+
+        {% assign sessionZone = "Europe" %} {% include loop-sessions-zone.html
+        %}
+
+        <!-- USA -->
+
+        <h2>USA - Sessions (Online)</h2>
+
+        {% assign sessionZone = "USA" %} {% include loop-sessions-zone.html %}
     </article>
-  
-  </div>
-  
-  
-            
+</div>

@@ -6,12 +6,12 @@ about: We help your teams to discover better ways to build products and software
 
 website: https://beyond-agility.com/
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/company/beyond-agility/
 twitter: https://twitter.com/peitor
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---

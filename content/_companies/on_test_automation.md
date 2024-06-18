@@ -7,12 +7,12 @@ about: Helping individuals, teams and organizations improve their test automatio
 
 website: https://www.ontestautomation.com/training
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/company/on-test-automation
-twitter: 
-instagram: 
-facebook: 
-medium: 
-blog: 
+twitter:
+instagram:
+facebook:
+medium:
+blog:
 github: https://github.com/basdijkstra
 ---

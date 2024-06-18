@@ -2,22 +2,22 @@
 i: guillaume_duhan
 
 name: Guillaume Duhan
-title: 
-about: 
-location: 
+title:
+about:
+location:
 specialities:
-    - 
-    - 
-tech-stack: 
+    -
+    -
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/guillaumeduhan/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

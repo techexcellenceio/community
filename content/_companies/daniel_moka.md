@@ -6,14 +6,14 @@ about: I help you to build better and elegant software by using design principle
 
 website: https://www.danielmoka.com/
 
-youtube: 
+youtube:
 linkedin: https://www.linkedin.com/in/danielmoka/
 twitter: https://twitter.com/dmokafa
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---
 
 <!-- MokaIT - no website or logo yet -->

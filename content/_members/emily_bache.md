@@ -14,22 +14,20 @@ specialities:
 tech-stack: Java, Python, Ruby on Rails, JavaScript
 
 linkedin: https://www.linkedin.com/in/emilybache/
-twitter: https://twitter.com/emilybache 
-github: https://github.com/emilybache 
-xing: 
+twitter: https://twitter.com/emilybache
+github: https://github.com/emilybache
+xing:
 website: http://bacheconsulting.com/
 youtube: https://www.youtube.com/@EmilyBache-tech-coach
-podcast: 
-medium: 
-substack: 
-blog: 
+podcast:
+medium:
+substack:
+blog:
 ---
 
-Mastodon: https://sw-development-is.social/web/@emilybache 
-
+Mastodon: https://sw-development-is.social/web/@emilybache
 
 Samman Technical Coach at Bache Consulting
-
 
 I am an experienced Technical Agile Coach, Trainer, Software Developer and Architect, with a focus on Test Driven Development and automated testing in general. In my current role I help teams with the technical side of Agile. I am developing the "Samman" coaching method which involves short, frequent training sessions and whole-team ensemble working on realistic tasks to practice new ways of working. I'm an excellent programmer, particularly skilled with Python, but also Java, Scala C# and C++. I enjoy designing automated tests, and improving legacy code. I find the Samman coaching method a way to expand my reach and influence the developers around me to also learn to do these things better.
 

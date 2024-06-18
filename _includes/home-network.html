@@ -1,33 +1,21 @@
 <h2>Our Network</h2>
 
-{% assign networks = site.data.networks %}
-{% assign companies = site.companies %}
-{% assign members = site.members %}
+{% assign networks = site.data.networks %} {% assign companies = site.companies
+%} {% assign members = site.members %}
 
-    <div class="s-container">
-        <a href="{{ site.url }}/network">
-            <div class="row">
+<div class="s-container">
+    <a href="{{ site.url }}/network">
+        <div class="row">
+            {% for network in networks %} {% for company in companies %} {% if
+            company.i == network.i %}
 
-          {% for network in networks %}
-
-            {% for company in companies %}
-              {% if company.i == network.i %}
-
-              <div class="col">
-                  <!-- JC check what the current thing is doing -->
-                  <!-- <a href="{{ company.website }}" target="_blank"> -->
-                      <img class="" src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="200" height="" />
-                  <!-- </a> -->
-              </div>
-              {% endif %}
-            {% endfor %}
-
-          {% endfor %}
-          
+            <div class="col">
+                <!-- JC check what the current thing is doing -->
+                <!-- <a href="{{ company.website }}" target="_blank"> -->
+                <img class="" src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="200" height=""/>
+                <!-- </a> -->
+            </div>
+            {% endif %} {% endfor %} {% endfor %}
         </div>
-      </a>
-    </div>
-
-
-
-
+    </a>
+</div>

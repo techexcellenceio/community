@@ -14,16 +14,17 @@ specialities:
 tech-stack: Java, Spring, Hibernate, MySQL
 
 linkedin: https://www.linkedin.com/in/garrickwest/
-twitter: 
+twitter:
 github: https://github.com/garrick
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
+
 alks about #tdd, #refactoring, #pairprogramming, and #extremeprogramming
 
 As an XP Coach & Software Crafter, I am raising the bar of professional software development by building quality software and helping others learn how to do so (http://manifesto.softwarecraftsmanship.org/). I have grown my skill sets over multiple languages and platforms (Java/JSP&Spring, Scala/Spray, Groovy/Grails, Ruby/Ruby On Rails, C#/.NET, Kotlin/SpringBoot, Java/Android & Objective-C/Swift/iOS, and React/React Native). I am a big proponent of XP-style technical practices such as test driven development, pair programming, continuous integration, direct customer involvement, and iterative delivery. My goal is to keep moving both learning and mentoring - to increase the breadth and depth of my technical expertise and track record of delivering quality working software as an XP coach or an individual contributor in a dedicated team environment.

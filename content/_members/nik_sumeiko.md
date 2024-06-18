@@ -15,13 +15,13 @@ specialities:
 tech-stack: React
 
 linkedin: https://www.linkedin.com/in/niksumeiko
-twitter: 
+twitter:
 github: https://github.com/niksumeiko/
-xing: 
+xing:
 website: https://www.withnik.com/tdd
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

@@ -2,22 +2,22 @@
 i: cesar_mourot
 
 name: César Mourot
-title: 
-about: 
-location: 
+title:
+about:
+location:
 specialities:
-    - 
-    - 
-tech-stack: 
+    -
+    -
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/cesarmourot/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

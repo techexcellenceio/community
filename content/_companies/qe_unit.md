@@ -11,7 +11,7 @@ linkedin: https://www.linkedin.com/company/qe-unit/
 twitter: https://twitter.com/unit_quality
 instagram: https://www.instagram.com/qualityengineeringunit/
 medium: https://qeunit.medium.com/
-blog: 
-github: 
+blog:
+github:
 # https://anchor.fm/s/66ffc4d4/podcast/rss" class="fab fa-anchor"
 ---

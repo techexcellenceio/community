@@ -26,35 +26,34 @@ github: https://github.com/valentinacupac
 xing: https://www.xing.com/profile/Valentina_Cupac
 website: https://optivem.com/
 youtube: https://www.youtube.com/@valentinacupac
-podcast: 
-medium: 
-substack: 
-blog: 
+podcast:
+medium:
+substack:
+blog:
 ---
 
 I help Tech Founders and Engineering Leaders deliver quality software faster.
 
-
 <!-- ---
-i: 
+i:
 
-name: 
-title: 
-about: 
-location: 
+name:
+title:
+about:
+location:
 specialities:
-    - 
-    - 
-tech-stack: 
+    -
+    -
+tech-stack:
 
-linkedin: 
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+linkedin:
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 --- -->

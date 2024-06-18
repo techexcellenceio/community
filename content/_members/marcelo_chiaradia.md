@@ -14,15 +14,15 @@ specialities:
 tech-stack: Java, Spring, SQL
 
 linkedin: https://www.linkedin.com/in/marcelo-chiaradia-05974468/
-twitter: 
+twitter:
 github: https://gitlab.com/marcelo.chiaradia
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Software Craftsman having 17+ years of experience.

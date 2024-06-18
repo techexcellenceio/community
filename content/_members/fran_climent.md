@@ -14,15 +14,15 @@ specialities:
 tech-stack: C, C++, Java
 
 linkedin: https://www.linkedin.com/in/franciscoclimentperez/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Software Crafter with electronics background

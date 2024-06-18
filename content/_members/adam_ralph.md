@@ -10,16 +10,16 @@ specialities:
     - SOA
     - microservices
     - architecture
-tech-stack: 
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/adamralph/
 twitter: https://twitter.com/adamralph
 github: https://github.com/adamralph
-xing: 
+xing:
 website: https://adamralph.com/
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

@@ -2,22 +2,22 @@
 i: cristina_verdi
 
 name: Cristina Verdi
-title: 
-about: 
-location: 
+title:
+about:
+location:
 specialities:
-    - 
-    - 
-tech-stack: 
+    -
+    -
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/cristina-verdi/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

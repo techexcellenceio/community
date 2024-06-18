@@ -13,19 +13,19 @@ tech-stack: SQL, Unix, JavaScript, Node.js
 
 linkedin: https://www.linkedin.com/in/bryan-finster/
 twitter: https://twitter.com/BryanFinster
-github: 
-xing: 
+github:
+xing:
 website: https://bryanfinster.com/
-youtube: 
-podcast: 
+youtube:
+podcast:
 medium: https://bdfinst.medium.com/
-substack: 
-blog: 
+substack:
+blog:
 ---
 
-- MinimumCD: https://minimumcd.org
-- Dojo Consortium: https://dojoconsortium.org/
-- Scaled Agile DevOps: https://scaledagiledevops.com/
+-   MinimumCD: https://minimumcd.org
+-   Dojo Consortium: https://dojoconsortium.org/
+-   Scaled Agile DevOps: https://scaledagiledevops.com/
 
 I’m a passionate advocate for and practitioner of continuous delivery who knows from experience that CD improves outcomes for the end-user, the organization, and for the teams implementing it. Deploy more and sleep better.
 

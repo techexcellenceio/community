@@ -3,7 +3,7 @@ i: jimmy_bogard
 
 name: Jimmy Bogard
 title: President @ Jimmy Bogard Consulting LLC
-about: 
+about:
 location: Austin, Texas, United States
 specialities:
     - software architecture
@@ -16,11 +16,11 @@ tech-stack: .NET, C#
 linkedin: https://www.linkedin.com/in/jimmybogard/
 twitter: https://x.com/jbogard
 github: https://github.com/jbogard
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
 blog: https://www.jimmybogard.com/
 ---

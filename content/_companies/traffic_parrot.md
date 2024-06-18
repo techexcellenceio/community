@@ -13,9 +13,9 @@ website: https://trafficparrot.com/
 youtube: https://www.youtube.com/@trafficparrot/videos
 linkedin: https://www.linkedin.com/company/traffic-parrot/
 twitter: https://twitter.com/traffic_parrot
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---

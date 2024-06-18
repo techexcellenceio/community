@@ -9,10 +9,9 @@ website: https://www.withnik.com/tdd
 youtube: https://www.youtube.com/niksumeiko
 linkedin: https://www.linkedin.com/in/niksumeiko
 twitter: https://twitter.com/niksumeiko
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+instagram:
+facebook:
+medium:
+blog:
+github:
 ---
-

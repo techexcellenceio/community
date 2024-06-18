@@ -15,22 +15,20 @@ tech-stack: Java, JavaScript, C, C#, HTML, CSS, Node.js, React
 linkedin: https://www.linkedin.com/in/michael-azerhad/
 twitter: https://twitter.com/WealComeCompany
 github: https://github.com/mica16
-xing: 
+xing:
 website: https://wealcomecompany.com/
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
-StackOverflow: https://stackoverflow.com/users/985949/mik378
 
+StackOverflow: https://stackoverflow.com/users/985949/mik378
 
 Je forme et coache vos devs à haut niveau 💯 Fondateur@WealCome | Formateur réputé en TDD / DDD / CleanArchi (Qualiopi) | FullStack +8 langages l Créateur de la biggest Craft Community online française, le Slack WealCome
 
 Talks about #ddd, #dev, #tdd, #agility, and #cleanarchitecture
-
-
 
 Michaël AZERHAD is a craftsman who has solid opinions and original style regarding code quality.
 

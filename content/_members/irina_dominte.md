@@ -4,34 +4,29 @@ i: irina_dominte
 name: Irina Dominte
 title: Independent Consultant & Owner
 about: I wear many hats – software architect, consultant, international speaker, Microsoft MVP, Program manager, and certified trainer.
-location: Romania  
+location: Romania
 specialities:
     - software architecture
     - software design
 tech-stack: .NET, C#, Angular, JavaScript, HTML, CSS
 
 linkedin: https://www.linkedin.com/in/irinascurtu/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
-
-
 Software Architect | Consultant | .NET | Azure| Cloud | International Speaker | Trainer | Microsoft MVP | dotnetdays.ro founder | MCT
-
-
 
 I wear many hats – software architect, consultant, international speaker, Microsoft MVP, Program manager, and certified trainer.
 
 My journey has been shaped by a passion for coding, teaching, and staying on top of the latest trends in software architecture and .NET.
-
 
 📚 Author & Educator:
 🌟gRPC from Zero to Hero Online course .: https://dometrain.com/course/from-zero-to-hero-grpc-in-dotnet
@@ -49,13 +44,13 @@ Aspiring to dive into Developer Relations (DevRel), my journey includes impactfu
 I fueled architecture and design initiatives, ensuring customer satisfaction. Coordinating projects and assisting teams, whilst keep my hands on code.
 
 🌐 Co-founder, [dotnetdays.ro](http://dotnetdays.ro/):
-Transforming [dotnetdays.ro](http://dotnetdays.ro/) into a top-tier conference, I managed budgeting, speaker acquisition, and client engagement. We started as a 
+Transforming [dotnetdays.ro](http://dotnetdays.ro/) into a top-tier conference, I managed budgeting, speaker acquisition, and client engagement. We started as a
 
 👩‍🏫 Community Builder:
 Founding the DotNet Iasi User Group, I fostered collaboration, and my blog became a hub for coding insights.
 
 🔗 Connect with Purpose:
-If you're seeking a seasoned professional with a knack for software architecture, .NET development, community building, speaking and mentoring, and a passion for developer advocacy, let's connect! 
+If you're seeking a seasoned professional with a knack for software architecture, .NET development, community building, speaking and mentoring, and a passion for developer advocacy, let's connect!
 
 Together, we can create meaningful connections and drive impactful developer experiences.
 

@@ -13,21 +13,20 @@ specialities:
 tech-stack: React, PHP, PostgreSQL, Node.js, JavaScript, TypeScript, CSS
 
 linkedin: https://www.linkedin.com/in/paul-hammond-bb5b78251/
-twitter: 
+twitter:
 github: https://github.com/citypaul
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Contract Web Developer
 
-Talks about #tdd, #cicd, #react, #testing, and #typescriptTalks 
-
+Talks about #tdd, #cicd, #react, #testing, and #typescriptTalks
 
 I’ve been working in the industry for about 15 years. I’ve been doing TDD for about 10 years and have been doing TDD on the front end with React since the first version of React was released (around 2014).
 

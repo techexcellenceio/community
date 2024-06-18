@@ -16,20 +16,18 @@ tech-stack: Kotlin, Java, Jenkins, PostgreSQL, Node.js, JavaScript
 linkedin: https://www.linkedin.com/in/michelesollecito/
 twitter: https://twitter.com/sollecitom
 github: https://github.com/sollecitom
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Software Product Delivery Executive, CTO
 
 Talks about #agile, #leadership, #systemsthinking, #domaindrivendesign, and #softwaredevelopment
-
-
 
 Michele is a software product delivery executive and advisor with a broad range of experience across various industries and companies.
 

@@ -13,13 +13,13 @@ specialities:
 tech-stack: PHP, Python, SQL, JavaScript
 
 linkedin: https://www.linkedin.com/in/mcsee/
-twitter: https://twitter.com/mcsee1 
-github: https://github.com/mcsee 
-xing: 
-website: https://maximilianocontieri.com/ 
-youtube: 
-podcast: 
-medium: 
-substack: https://substack.com/@maxicontieri 
-blog: 
+twitter: https://twitter.com/mcsee1
+github: https://github.com/mcsee
+xing:
+website: https://maximilianocontieri.com/
+youtube:
+podcast:
+medium:
+substack: https://substack.com/@maxicontieri
+blog:
 ---

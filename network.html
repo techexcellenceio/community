@@ -4,31 +4,35 @@ title: Our Network
 ---
 
 <div class="network">
+    {% assign networks = site.data.networks %}
+    {% assign companies = site.companies %}
+    {% assign members = site.members %}
 
-  {% assign networks = site.data.networks %}
-  {% assign companies = site.companies %}
-  {% assign members = site.members %}
+    {% for network in networks %}
 
-  {% for network in networks %}
-    
     {% assign rep1 = network.rep1 %}
     {% assign rep2 = network.rep2 %}
 
     {% for company in companies %}
-      {% if company.i == network.i %}
+    {% if company.i == network.i %}
 
-      {% for member in members %}
-        {% if member.i == rep1 %}
-          {% assign rep1_name = member.name %}
-          {% assign rep1_linkedin = member.linkedin %}
-        {% endif %}
-        {% if member.i == rep2 %}
-          {% assign rep2_name = member.name %}
-          {% assign rep2_linkedin = member.linkedin %}
-        {% endif %}
-      {% endfor %}
+        {% for member in members %}
+            {% if member.i == rep1 %}
 
-      <div class="s-container">
+            {% assign rep1_name = member.name %}
+            {% assign rep1_linkedin = member.linkedin %}
+
+            {% endif %}
+
+            {% if member.i == rep2 %}
+
+            {% assign rep2_name = member.name %}
+            {% assign rep2_linkedin = member.linkedin %}
+
+            {% endif %}
+        {% endfor %}
+
+    <div class="s-container">
         <div class="profile-img">
             <a href="{{ company.website }}" target="_blank" rel="noopener">
                 <!-- height="90" -->
@@ -36,60 +40,85 @@ title: Our Network
             </a>
         </div>
         <div class="text-container">
-        <p class="p-date">
-          <a href="{{ company.website }}" target="_blank" rel="noopener">{{ company.name }}</a> -
-          <a href="{{ rep1_linkedin }}" target="_blank" rel="noopener">{{ rep1_name }}</a>
-          {% if rep2 %}
-          & <a href="{{ rep2_linkedin }}" target="_blank" rel="noopener">{{ rep2_name }}</a>
-          {% endif %}
-        </p>
-        <p>{{ company.about }}</p>
-        <div class="social-media">
-          {% if company.linkedin %}
-            <a href="{{ company.linkedin }}" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
-          {% endif %}
-          {% if company.youtube %}
-            <a href="{{ company.youtube }}" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
-          {% endif %}
-          {% if company.twitter %}
-            <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
-          {% endif %}
-          {% if company.instagram %}
-            <a href="{{ company.instagram }}" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
-          {% endif %}
-          {% if company.facebook %}
-            <a href="{{ company.facebook }}" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
-          {% endif %}
-          {% if company.medium %}
-            <a href="{{ company.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
-          {% endif %}
-          {% if company.blog %}
-            <a href="{{ company.blog }}" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>
-          {% endif %}
-          {% if company.github %}
-            <a href="{{ company.github }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
-          {% endif %}
-          {% if company.website %}
-            <a href="{{ company.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
-          {% endif %}
-        </div>
-        </div>
-      </div>
+            <p class="p-date">
+                <a href="{{ company.website }}" target="_blank" rel="noopener">
+                    {{ company.name }}
+                </a>
+                -
+                <a href="{{ rep1_linkedin }}" target="_blank" rel="noopener">
+                    {{ rep1_name }}
+                </a>
+                {% if rep2 %} &
+                <a href="{{ rep2_linkedin }}" target="_blank" rel="noopener">
+                    {{ rep2_name }}
+                </a>
+                {% endif %}
+            </p>
+            <p>{{ company.about }}</p>
+            <div class="social-media">
+                {% if company.linkedin %}
+                <a href="{{ company.linkedin }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-linkedin"></i>
+                </a>
+                {% endif %}
 
-      {% endif %}
+                {% if company.youtube %}
+                <a href="{{ company.youtube }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-youtube"></i>
+                </a>
+                {% endif %}
+
+                {% if company.twitter %}
+                <a href="{{ company.twitter }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-x-twitter"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.instagram %}
+                <a href="{{ company.instagram }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.facebook %}
+                <a href="{{ company.facebook }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-facebook"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.medium %}
+                <a href="{{ company.medium }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-medium"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.blog %}
+                <a href="{{ company.blog }}" target="_blank" rel="noopener">
+                    <i class="fas fa-blog"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.github %}
+                <a href="{{ company.github }}" target="_blank" rel="noopener">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+                {% endif %}
+                
+                {% if company.website %}
+                <a href="{{ company.website }}" target="_blank" rel="noopener">
+                    <i class="fa fa-globe"></i>
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    {% endif %}
     {% endfor %}
-
-  {% endfor %}
-
+    {% endfor %}
 </div>
-
-
-
-
 
 <!-- TODO: FUTURE -->
 <!-- send emails -->
 
-
 <!-- TODO: Add others from US / Canada -->
-

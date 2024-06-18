@@ -9,18 +9,18 @@ specialities:
     - Data engineering
     - Testing
     - Refactoring
-tech-stack: 
+tech-stack:
 
 linkedin: https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/
 twitter: https://twitter.com/jmasonlee
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 I'm also the co-founder and an organizer of the Calgary Software Crafters (https://www.meetup.com/calgary-software-crafters/).

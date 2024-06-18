@@ -10,13 +10,13 @@ specialities:
 tech-stack: C#, .NET, Java, C++, SQL, HTML, JavaScript
 
 linkedin: https://www.linkedin.com/in/kristijankralj/
-twitter: 
-github: 
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+twitter:
+github:
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---

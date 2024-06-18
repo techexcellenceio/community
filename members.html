@@ -2,27 +2,23 @@
 layout: default
 title: Members
 ---
-<div class="members">
-    
-    <div class="s-container d-flex align-items-center justify-content-center" style="margin-bottom: 5rem;">
 
+<div class="members">
+    <div class="s-container d-flex align-items-center justify-content-center">
         <div class="container-fixed-2">
             <p>
-                This page contains our members, people who care about and practice Technical Excellence. 
-                We're comprised of Technical Coaches and Trainers, Engineering Leaders, Software Developers, and more. 
-                You can become a member by adding yourself to this list and making a PR. 
-                If you're a company and would like your organization to be added, then please 
-                <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank" rel="noopener">send a message to Valentina </a>
+                This page contains our members, people who care about and practice Technical Excellence. We're comprised of Technical Coaches and Trainers, Engineering Leaders, Software Developers, and more. You can become a member by adding yourself to this list and making a PR. If you're a company and would like your organization to be added, then please
+                <a href="https://www.linkedin.com/in/valentinacupac/" target="_blank" rel="noopener" >
+                    send a message to Valentina
+                </a>
                 with details about your company.
             </p>
         </div>
     </div>
 
-
     {% for d-member in site.data.members.list %}
-        {% for member in site.members %}
-            {% if d-member.i == member.i %}
-
+    {% for member in site.members%}
+    {% if d-member.i == member.i %}
 
     <div class="s-container">
         <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
@@ -30,70 +26,88 @@ title: Members
         </a>
         <div class="text-container">
             <!-- rgb(81, 87, 172) -->
-            <p class="name" style="color: #24292e">
-                {{ member.name }}
-            </p>
-            <p class="title" style="font-weight: 400; color: rgb(72, 76, 143); 
-            margin-bottom: 0rem; font-size: 16px;">
+            <p class="name" style="color: #24292e">{{ member.name }}</p>
+            <p class="title"
+                style="font-weight: 400; color: rgb(72, 76, 143); margin-bottom: 0rem; font-size: 16px;">
                 {{ member.title }}
             </p>
-            <p class="about">
-                {{ member.about }}
-            </p>
-            <p class="location">
-                {{ member.location }}
-            </p>
+            <p class="about">{{ member.about }}</p>
+            <p class="location">{{ member.location }}</p>
             <p class="specialities">
                 {% for speciality in member.specialities %}
-                    {% assign n = forloop.index0 %}
-                    {% if speciality != nil %}
-                    <span>
-                        {{ member.specialities[n] }}
-                    </span>
-                    {% endif %}
+                {% assign n = forloop.index0 %}
+                {% if speciality != nil %}
+                <span> {{ member.specialities[n] }} </span>
+                {% endif %}
                 {% endfor %}
             </p>
 
-            <p class="tech-stack">
-                {{ member.tech-stack }}
-            </p>
+            <p class="tech-stack">{{ member.tech-stack }}</p>
             <div class="social-media">
                 {% if member.linkedin %}
-                    <a href="{{ member.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="{{ member.linkedin }}" target="_blank" rel="noopener"
+                    ><i class="fab fa-linkedin"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.twitter %}
-                    <a href="{{ member.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="{{ member.twitter }}" target="_blank" rel="noopener"
+                    ><i class="fa-brands fa-x-twitter"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.github %}
-                    <a href="{{ member.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+                <a href="{{ member.github }}" target="_blank" rel="noopener"
+                    ><i class="fab fa-github"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.xing %}
-                    <a href="{{ member.xing }}" target="_blank" rel="noopener"><i class="fab fa-xing"></i></a>
+                <a href="{{ member.xing }}" target="_blank" rel="noopener"
+                    ><i class="fab fa-xing"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.website %}
-                    <a href="{{ member.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
+                <a href="{{ member.website }}" target="_blank" rel="noopener"
+                    ><i class="fa fa-globe"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.youtube %}
-                    <a href="{{ member.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+                <a href="{{ member.youtube }}" target="_blank" rel="noopener"
+                    ><i class="fab fa-youtube"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.podcast %}
-                    <a href="{{ member.podcast }}" target="_blank" rel="noopener"><i class="fa fa-microphone"></i></a>
+                <a href="{{ member.podcast }}" target="_blank" rel="noopener"
+                    ><i class="fa fa-microphone"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.medium %}
-                    <a href="{{ member.medium }}" target="_blank" rel="noopener"><i class="fa-brands fa-medium"></i></a>
+                <a href="{{ member.medium }}" target="_blank" rel="noopener"
+                    ><i class="fa-brands fa-medium"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.substack %}
-                    <a href="{{ member.substack }}" target="_blank" rel="noopener"><i class="bi bi-substack"></i></a>
+                <a href="{{ member.substack }}" target="_blank" rel="noopener"
+                    ><i class="bi bi-substack"></i
+                ></a>
                 {% endif %}
+                
                 {% if member.blog %}
-                    <a href="{{ member.blog }}" target="_blank" rel="noopener"><i class="fas fa-blog"></i></a>
+                <a href="{{ member.blog }}" target="_blank" rel="noopener"
+                    ><i class="fas fa-blog"></i
+                ></a>
                 {% endif %}
             </div>
         </div>
     </div>
 
-            {% endif %}
-        {% endfor %}
+    {% endif %}
     {% endfor %}
-
+    {% endfor %}
 </div>

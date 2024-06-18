@@ -3,7 +3,7 @@ i: matheus_marabesi
 
 name: Matheus Marabesi
 title: Software Craftsperson @ Condurance
-about: 
+about:
 location: Madrid, Spain
 specialities:
     - TDD
@@ -14,21 +14,18 @@ tech-stack: Java, PHP, React, JavaScript, Node.js
 linkedin: https://www.linkedin.com/in/marabesi/
 twitter: https://twitter.com/MatheusMarabesi
 github: https://github.com/marabesi
-xing: 
+xing:
 website: https://marabesi.com
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Talks about #software, #softwaredesign, #softwareengineer, #softwaredeveloper, and #softwarearchitecture
 
-
 As a hobby he likes to play with Raspberry PI, to dive into the IoT world and sometimes to give talks. Besides that he's an aspiring researcher focused on software testing and gamification. Testable is a gamified tool that aims to improve unit test teaching, trying to change the boring perception that developers have in learning how to test their code, you can find more things related to that in the playlists I share on youtube and also on my side projects page. Currently he's working as a Software craftsperson at Codurance, changing the way people build systems and trying to close the gap between academia and the industry. Want to stay tuned on software development? Sign up for my newsletter "Papers of the week".
-
-
 
 I’ve started very young with my first computer with the famous Windows XP, before I took regular drawing classes, for over 8 years.
 

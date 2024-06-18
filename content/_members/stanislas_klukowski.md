@@ -14,19 +14,19 @@ specialities:
     - Hexagonal Architecture
     - Refactoring
     - Pair Programming
-    - Mob Programming 
+    - Mob Programming
 tech-stack: Java, Spring, SQL
 
 linkedin: https://www.linkedin.com/in/stanislas-%F0%9F%8C%9F-klukowski-96431248/
 twitter: https://twitter.com/SKlukowski
 github: https://github.com/stankluk
-xing: 
-website: 
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+xing:
+website:
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 (NB: freelance profile only)

@@ -3,7 +3,7 @@ i: peter_gfader
 
 name: Peter Gfader
 title: Founder @ Beyond Agility, Host @ Software Crafters Zürich
-about: Peter helps teams discover better ways to build products and software with tools in testing, engineering, lots of automation and ❤ for coffee. 
+about: Peter helps teams discover better ways to build products and software with tools in testing, engineering, lots of automation and ❤ for coffee.
 location: Zurich, Switzerland
 specialities:
     - ATDD
@@ -15,19 +15,18 @@ tech-stack: .NET, C#, SQL
 linkedin: https://www.linkedin.com/in/petergfader/
 twitter: https://twitter.com/peitor
 github: https://github.com/peitor
-xing: 
+xing:
 website: https://beyond-agility.com/
-youtube: 
-podcast: 
-medium: 
-substack: 
-blog: 
+youtube:
+podcast:
+medium:
+substack:
+blog:
 ---
 
 Silo Thinking Breaker and Guest Lecturer
 
 Talks about #product, #leadership, and #zusammenarbeit
-
 
 Peter helps teams discover better ways to build products and software with tools in testing, engineering, lots of automation and ❤ for coffee.
 

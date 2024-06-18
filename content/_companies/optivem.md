@@ -10,24 +10,24 @@ linkedin: https://www.linkedin.com/company/optivem
 twitter: https://twitter.com/ValentinaCupac
 instagram:
 medium:
-blog: 
-github: 
+blog:
+github:
 ---
 
 <!-- ---
-i: 
+i:
 
-name: 
-about: 
+name:
+about:
 
-website: 
+website:
 
-youtube: 
-linkedin: 
-twitter: 
-instagram: 
-facebook: 
-medium: 
-blog: 
-github: 
+youtube:
+linkedin:
+twitter:
+instagram:
+facebook:
+medium:
+blog:
+github:
 --- -->
