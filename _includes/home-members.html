@@ -1,8 +1,8 @@
-<h2>Our Members</h2>
+<section class="container members">
 
+    <h2>Our Members</h2>
 
-{% assign membersC = site.data.members.list %}
-<div class="c-container">
+    {% assign membersC = site.data.members.list %}
     <a href="{{ site.url }}/members">
         <div class="row">
 
@@ -11,10 +11,10 @@
                 {% if member.i == memberC.i %}
 
                 <div class="col">
-                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" class="c-img" width="100" height="100" />
-                    <div class="text-container">
-                        <p class="p-name">{{ member.name }}</p>
-                    </div>
+                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="100" height="100" />
+                    <p class="p-name">
+                        {{ member.name }}
+                    </p>
                 </div>
 
                 {% endif %}
@@ -23,8 +23,8 @@
 
         </div>
 
-        <p class="see-more mx-auto">See more...</p>
+        <p class="see-more">See more...</p>
 
     </a>
-</div>
-        
+  
+</section>

@@ -1,51 +1,21 @@
 .members {
-    a:hover, a:active, a.active {
-        text-decoration: none;
-    }
     .see-more {
-        text-align: center;
         font-weight: 600;
         font-size: 20px;
-        max-width: 240px;
-        padding-top: 6px;
-        padding-bottom: 6px;
-        margin-top: 1rem;
+        text-align: center;
+        margin-top: 3rem;
     }
-    .c-container {
-        margin-top: 1rem;
-        margin-bottom: 6rem;
-        @include media-breakpoint-down(sm){
-            margin-top: 2rem;
-            margin-bottom: 6rem;
+    .row {
+        row-gap: 2rem;
+        .col, [class*="col-"] {
+            max-width: 160px;
+            min-width: 160px;
         }
-        .row {
-            justify-content: center;
-            padding-top: 1rem;
-            @include media-breakpoint-down(sm){
-                padding-top: 2rem;
-            }
-            .col, [class*="col-"] {
-                text-align: center;
-                margin-bottom: 1rem;
-                padding-left: 15px;
-                padding-right: 15px;
-                max-width: 160px;
-                min-width: 160px;
-            }
-            .text-container {
-                .p-name {
-                    font-size: 14px;
-                    font-weight: 600;
-                    color:#485a5a;
-                    margin-top: .25rem;
-                    margin-bottom: 1rem;
-                }
-            }
+        .p-name {
+            font-size: 14px;
+            font-weight: 600;
+            color:#485a5a;
+            margin-top: .25rem;
         }
-    }
-    // JC Check is this needed
-    .c-img {
-        // border: 2px solid #83d8cd;
-        // border-radius: 50%;
     }
 }

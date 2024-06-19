@@ -3,8 +3,10 @@ layout: default
 title: Meetups 2023
 ---
 
-<div class="speakers">
-    {% assign talks = site.data.speakers2023 %}
-    {% include speakers.html %}
-</div>
+<section class="container speakers">
 
+    {% assign talks = site.data.speakers2023 %}
+
+    {% include loop-speakers.html %}
+
+</section>

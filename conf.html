@@ -3,18 +3,15 @@ layout: conf
 title: Conference
 ---
 
-<div class="conf-main">
+<div class="conference-pg">
+
     <div class="masthead">
         <h1>Tech Excellence Conference</h1>
 
         <h2>Fri 22 Nov 2024 <span>|</span> Live Online</h2>
 
         <button class="conf-btn">
-            <a
-                href="https://www.meetup.com/techexcellence/events/301221542/"
-                target="_blank"
-                rel="noopener"
-            >
+            <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener">
                 Register
             </a>
         </button>
@@ -28,50 +25,57 @@ title: Conference
 
     {% assign conferenceSpeakers = site.data.conf-speakers.list %}
 
-    <div class="container-xl c-container">
+    <div class="container-lg">
         <div class="row">
-            {% for conferenceSpeaker in conferenceSpeakers %} {% for member in
-            site.members %} {% if member.i == conferenceSpeaker.i %}
+            {% for conferenceSpeaker in conferenceSpeakers %}
+            {% for member in site.members %}
+            {% if member.i == conferenceSpeaker.i %}
 
             <div class="col">
                 <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                    <img
-                        src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2"
-                        alt="{{ member.name }}"
-                        width="120"
-                        height="120"
-                    />
-                    <p class="p-name">{{ member.name }}</p>
-                    <p class="p-title">{{ member.title }}</p>
+                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" height="120"/>
+                    <p class="p-name">
+                        {{ member.name }}
+                    </p>
+                    <p class="p-title">
+                        {{ member.title }}
+                    </p>
                     <p class="p-date">
-                        <span class="material-symbols-outlined"
-                            >calendar_today</span
-                        >
+                        <span class="material-symbols-outlined">calendar_today</span>
                         {{ conferenceSpeaker.date }}
                     </p>
                 </a>
             </div>
 
-            {% endif %} {% endfor %} {% endfor %}
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
         </div>
     </div>
 
-    <article id="sessions" class="container-lg lineup">
-        <h1>Sessions</h1>
+    <section id="sessions" class="container lineup">
 
-        {% assign conferenceSpeakers = site.data.conf-speakers.list %}
+        <div>
+            <h2>Sessions</h2>
 
-        <!-- Europe -->
+            {% assign conferenceSpeakers = site.data.conf-speakers.list %}
+    
+            <!-- Europe -->
+    
+            <h3>Europe - Sessions (Online)</h3>
 
-        <h2>Europe - Sessions (Online)</h2>
+            {% assign sessionZone = "Europe" %}
+            {% include loop-sessions-zone.html %}
+        </div>
 
-        {% assign sessionZone = "Europe" %} {% include loop-sessions-zone.html
-        %}
+        <div>
+            <!-- USA -->
+    
+            <h3>USA - Sessions (Online)</h3>
+    
+            {% assign sessionZone = "USA" %}
+            {% include loop-sessions-zone.html %}
+        </div>
 
-        <!-- USA -->
-
-        <h2>USA - Sessions (Online)</h2>
-
-        {% assign sessionZone = "USA" %} {% include loop-sessions-zone.html %}
-    </article>
+    </section>
 </div>

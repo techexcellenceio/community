@@ -4,10 +4,6 @@
         font-weight: 600;
         color: #263c50;
     }
-    .p-about {
-        max-width: 720px;
-        color: #526980;
-    }
     .social-media {
         a {
             .fab, .fas, .fa-brands {
@@ -21,18 +17,4 @@
             }
         }
     }
-    .profile-img {
-        // padding-top: 1rem;
-        // padding-bottom: 1rem;
-
-    }
-    @include media-breakpoint-up(sm){
-        .s-container:first-of-type {
-            .profile-img {
-                // padding-top: 0;
-                // padding-bottom: 0;
-            }
-        }
-    }
-
 }

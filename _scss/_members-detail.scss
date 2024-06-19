@@ -1,26 +1,22 @@
-.members {
-    .s-container {
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-    .name {
+.members-pg {
+    .m-name {
         margin-bottom: .25rem;
         font-weight: 600;
         font-size: 18px;
     }
-    .title {
+    .m-title {
         font-size: 16px;
     }
-    .about {
+    .m-about {
         font-size: 15px;
     }
-    .location {
+    .m-location {
         font-size: 14px; 
         color: gray;
         margin-bottom: .25rem;
         margin-top: .25rem;
     }
-    p.specialities span {
+    .m-specialities span {
         background: #d3d1ff;
         color: #424148;
         padding-left: 8px;
@@ -34,7 +30,7 @@
         border-radius: 6px;
         text-transform: capitalize;
     }
-    .tech-stack {
+    .m-tech-stack {
         margin-top: .25rem;
     }
     .social-media a .fab, .social-media a .fa, .social-media a .fas, .social-media a .fa-brands, .social-media .bi {
@@ -45,5 +41,14 @@
         &:hover {
             color: #4664ee;
         }
+    }
+}
+
+.container.members-pg {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    .anastasia-container {
+        row-gap: 3rem;
     }
 }

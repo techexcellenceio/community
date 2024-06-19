@@ -1,0 +1,87 @@
+<div class="anastasia-container">
+
+{% for talk in talks %}
+
+    <!-- Photo -->
+    <div class="anastasia-row">
+
+        <div class="anastasia-img">
+
+        {% assign speakers = talk.speakers %}
+        {% for speaker in speakers %}
+            {% assign speaker = talk.speakers %}
+
+            {% for member in site.members %}
+                {% if member.i == speaker %}
+                    {% assign s_i = member.slug %}
+                    {% assign s_name = member.name %}
+                    {% assign s_title = member.title %}
+                    {% assign s_location = member.location %}
+                    {% assign s_linkedin = member.linkedin %}
+                {% endif %}
+            {% endfor %}
+
+
+                <!-- LOOP START ================== -->
+                <a href="{{ s_linkedin }}" target="_blank" rel="noopener">
+                    <img src="{{ site.url }}/assets/img/{{ s_i }}.png?v=2" alt="{{ s_name }}" width="110" height="110" />
+                </a>
+                <!-- LOOP END ================== -->
+
+
+        {% endfor %}
+        
+        </div>
+
+
+
+        <!-- Text -->
+        <div class="anastasia-text">
+
+            <p class="p-date">
+                {{ talk.date }}
+            </p>
+
+            {% if talk.link %}
+            <a class="p-title" href="{{ talk.link }}" target="_blank" rel="noopener">
+                {{ talk.title }}
+            </a>
+            {% else %}
+            <p class="p-title pending">
+                {{ talk.title }}
+            </p>
+            {% endif %}
+
+
+            {% assign speakers = talk.speakers %}
+            {% for speaker in speakers %}
+                {% assign speaker = talk.speakers %}
+        
+                {% for member in site.members %}
+                    {% if member.i == speaker %}
+                        {% assign s_i = member.slug %}
+                        {% assign s_name = member.name %}
+                        {% assign s_title = member.title %}
+                        {% assign s_location = member.location %}
+                        {% assign s_linkedin = member.linkedin %}
+                    {% endif %}
+                {% endfor %}
+
+            <!-- LOOP START =================== -->
+            <p  class="p-speaker">
+                <a href="{{ s_linkedin }}" target="_blank" rel="noopener">{{ s_name }}</a>,
+                {{ s_title }}, <em>{{ s_location }}</em>
+            </p>
+            <!-- END LOOP ===================== -->
+
+            {% endfor %}
+            
+        </div>
+
+    </div>
+
+    <!-- { % assign speaker = null % } -->
+
+{% endfor %}
+
+</div>

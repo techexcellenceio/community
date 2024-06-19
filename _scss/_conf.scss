@@ -1,4 +1,4 @@
-.conf-main {
+.conference-pg {
     .masthead {
         margin-top: 102px;
         background-color: #05191a;
@@ -16,7 +16,6 @@
         h1 {
             font-size: 3.5rem;
             font-weight: 700;
-            color: white;
             color: #12dfef;
             text-shadow: 1px 1px 6px rgba(24, 24, 24, 0.4);
             line-height: 1.5;
@@ -42,38 +41,23 @@
             }
         }
     }
-    .c-container {
-        margin-top: 3.5rem;
-        margin-right: auto;
-        margin-left: auto;
-        @include media-breakpoint-up(sm) {
-            margin-top: 2rem;
+    .container-lg {
+        @media (min-width: 992px) {
+            max-width: 1140px;
         }
         // KEEP?
         @media (max-width: 1120px) {
             max-width: 880px;
         }
-        @include media-breakpoint-up(sm) {
-            margin-top: 2rem;
-        }
         .row {
-            justify-content: center;
-            padding-top: 1rem;
-            @include media-breakpoint-up(sm) {
-                padding-top: 2rem;
-            }
+            row-gap: 2.5rem;
             .col,
             [class*="col-"] {
-                text-align: center;
-                margin-top: 1rem;
-                margin-bottom: 2.5rem;
-                padding-left: 15px;
-                padding-right: 15px;
                 min-width: 184px;
                 max-width: 184px;
                 &:hover {
-                    a {
-                        color: #4d3bb3;
+                    .p-name {
+                        color: #5107ff;
                     }
                 }
             }
@@ -85,9 +69,7 @@
                 font-weight: 600;
                 margin-top: 0.5rem;
                 margin-bottom: 0.25rem;
-                a {
-                    color: #8573e5;
-                }
+                color: #8573e5;
             }
             .p-title {
                 font-size: 13px;
@@ -105,82 +87,91 @@
                 align-items: center;
                 margin-top: 6px;
                 color: #24292e;
+                gap: 2px;
                 span {
                     font-size: 16px;
-                    margin-right: 2px;
                 }
             }
         }
     }
 
-    .lineup {
-        h1 {
-            border-bottom: none;
-            margin-top: 4rem;
-            margin-bottom: 0rem;
-            font-size: 2rem;
+    .container.lineup {
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+        h3 {
+            margin-bottom: 3rem;
         }
-        h2 {
-            margin-top: 3rem;
-            margin-bottom: 1rem;
-            font-size: 1.5rem;
-        }
-        img {
-            border-radius: 50%;
-            border: 3px solid #58dbd578;
-            box-sizing: content-box;
-        }
-        .s-container {
-            .p-talk {
-                @include media-breakpoint-down(sm) {
-                    max-width: 360px;
-                    margin-right: auto;
-                    margin-left: auto;
-                }
-            }
-            .p-name {
-                display: inline-block;
-                font-size: 16px;
-                font-weight: 600;
-                margin-top: 0.125rem;
-                margin-bottom: 0.125rem;
-                a {
-                    color: #2c2168;
-                }
-                a:hover,
-                a:active,
-                a.active {
-                    color: #4d3bb3;
-                }
-            }
-            .p-title {
-                display: inline-block;
-                font-size: 13px;
-                color: #9996b5;
-                font-weight: 400;
-            }
-            .p-talk {
-                font-size: 18px;
-                color: #2db3c5;
-                font-weight: 700;
-            }
-            .p-date {
-                font-size: 13px;
-                display: flex;
-                margin-top: 6px;
-                span {
-                    font-size: 16px;
-                    margin-right: 2px;
-                }
-            }
-            @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(sm) {
+            h2, h3 {
                 text-align: center;
-                .p-date {
-                    justify-content: center;
+            }
+        }
+        .anastasia-row {
+            @include media-breakpoint-down(sm) {
+                h2, h3 {
+                    text-align: center;
+                }
+            }
+            .anastasia-img {
+                img {
+                    border-radius: 50%;
+                    border: 3px solid #58dbd578;
+                    box-sizing: content-box;
+                }
+            }
+            .anastasia-text {
+                .p-talk {
+                    @include media-breakpoint-down(sm) {
+                        max-width: 360px;
+                        margin-right: auto;
+                        margin-left: auto;
+                    }
                 }
                 .p-name {
-                    display: block;
-                    margin-bottom: 0rem;
+                    display: inline-block;
+                    font-size: 16px;
+                    font-weight: 600;
+                    margin-top: 0.125rem;
+                    margin-bottom: 0.125rem;
+                    a {
+                        color: #2c2168;
+                    }
+                    a:hover,
+                    a:active,
+                    a.active {
+                        color: #4d3bb3;
+                    }
+                }
+                .p-title {
+                    display: inline-block;
+                    font-size: 13px;
+                    color: #9996b5;
+                    font-weight: 400;
+                }
+                .p-talk {
+                    font-size: 18px;
+                    color: #2db3c5;
+                    font-weight: 700;
+                }
+                .p-date {
+                    font-size: 13px;
+                    display: flex;
+                    margin-top: 6px;
+                    span {
+                        font-size: 16px;
+                        margin-right: 2px;
+                    }
+                }
+                @include media-breakpoint-down(sm) {
+                    text-align: center;
+                    .p-date {
+                        justify-content: center;
+                    }
+                    .p-name {
+                        display: block;
+                        margin-bottom: 0rem;
+                    }
                 }
             }
         }

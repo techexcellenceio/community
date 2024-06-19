@@ -1,10 +1,10 @@
-<div class="g-container conference">
+<section class="container-lg conference-home">
     <h1>Tech Excellence Conference</h1>
 
     <h2>Fri 22 Nov 2024<span>&bull;</span>Live Online</h2>
 
     <button class="conf-btn">
-        <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener" >
+        <a href="https://www.meetup.com/techexcellence/events/301221542/" target="_blank" rel="noopener">
             Register
         </a>
     </button>
@@ -18,36 +18,28 @@
 
     {% assign conferenceSpeakers = site.data.conf-speakers.list %}
                 
-    <div class="c-container">
-        <div class="row">
+    <div class="row">
 
-            {% for conferenceSpeaker in conferenceSpeakers %}
-            {% for member in site.members %}
-            {% if member.i == conferenceSpeaker.i %}
+        {% for conferenceSpeaker in conferenceSpeakers %}
+        {% for member in site.members %}
+        {% if member.i == conferenceSpeaker.i %}
 
-            <div class="col">
-                <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
-                    <div class="img-container">
-                        <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="128" height="128" />
-                    </div>
-                    <p class="p-name">
-                        {{ member.name }}
-                    </p>
-                </a>
-            </div>
-
-            {% endif %}
-            {% endfor %}
-            {% endfor %}
-
+        <div class="col">
+            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+                <div class="img-container">
+                    <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="128" height="128" />
+                </div>
+                <p class="p-name">
+                    {{ member.name }}
+                </p>
+            </a>
         </div>
+
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+
     </div>
 
-    <!-- <p class="conf-disclaimer">
-        Note: We are forming our speaker list during Jan/Feb 2024, the following reflects current speakers <br />
-        who are planning to speak. 
-        We'll further update this section with session slots.
-    </p> -->
-
-</div>
+</section>
 

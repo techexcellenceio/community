@@ -1,37 +1,53 @@
-<h2>Our Sponsors</h2>
+<section class="container sponsors">
 
-{% assign sponsors = site.data.sponsors %}
-{% assign companies = site.companies %}
+    <h2>Our Sponsors</h2>
 
-{% for sponsor in sponsors %}
-    {% for company in companies %}
-        {% if company.i == sponsor.i %}
+    <div class="anastasia-container">
 
-        <div class="s-container">
-            <div class="profile-img comp-img">
-                <a href="{{ company.website }}" target="_blank">
-                    <!-- width="252" height="90" -->
-                    <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="" />
-                </a>
-            </div>
-            <div class="text-container container-fixed">
-                <p class="p-date"><a href="{{ company.website }}" target="_blank">{{ company.name }}</a></p>
-                <p> {{ company.about }}</p>
-                <div class="social-media">
-                    {% if company.linkedin %}
-                        <a href="{{ company.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-                    {% endif %}
-                    {% if company.twitter %}
-                        <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
-                    {% endif %}
-                    {% if company.website %}
-                        <a href="{{ company.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
-                    {% endif %}
+    {% assign sponsors = site.data.sponsors %}
+    {% assign companies = site.companies %}
+
+    {% for sponsor in sponsors %}
+        {% for company in companies %}
+            {% if company.i == sponsor.i %}
+
+            <div class="anastasia-row">
+
+                <div class="anastasia-img">
+                    <a href="{{ company.website }}" target="_blank">
+                        <!-- width="252" height="90" -->
+                        <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="" />
+                    </a>
                 </div>
+
+                <div class="anastasia-text">
+                    <p class="p-date">
+                        <a href="{{ company.website }}" target="_blank">
+                            {{ company.name }}
+                        </a>
+                    </p>
+                    <p class="p-about">
+                        {{ company.about }}
+                    </p>
+                    <div class="social-media">
+                        {% if company.linkedin %}
+                            <a href="{{ company.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                        {% endif %}
+                        {% if company.twitter %}
+                            <a href="{{ company.twitter }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>
+                        {% endif %}
+                        {% if company.website %}
+                            <a href="{{ company.website }}" target="_blank" rel="noopener"><i class="fa fa-globe"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+
             </div>
-        </div>
 
-        {% endif %}
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-{% endfor %}
 
+    </div>
+
+</section>

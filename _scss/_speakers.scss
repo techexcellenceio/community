@@ -1,28 +1,8 @@
 .speakers {
-    .text-container {
+    p {
         color: #879093;
-        .pending {
-            color: #464748;
-        }
     }
-    a.s-btn {
-        background-color: rgb(216, 238, 241);
-        padding: .5rem 2rem;
-        border-radius: 50pt;
-        &:hover {
-            background-color: rgb(219, 249, 253);
-        }
-        display: inline-block;
-        margin-bottom: .5rem;
-    }
-}
-
-.speakers {
-    .s-container {
-        &:first-of-type {
-            .profile-img {
-                // margin-top: 1rem;
-            }
-        }
+    .pending {
+        color: #464748;
     }
 }

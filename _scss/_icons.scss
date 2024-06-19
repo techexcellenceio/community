@@ -1,22 +1,23 @@
-.social-media-lg a {
-    .fab, .fas, .fa-brands {
-        font-size: 3rem;
-        @include media-breakpoint-down(sm){
-            font-size: 2.5rem;
-            margin-right: 1.75rem;
-        }
-        margin-right: 2rem;
-        margin-bottom: 1rem;
-        color: #43cece;
-        &:hover {
+.social-media-lg {
+    display: flex;
+    flex-wrap: wrap; // if row and column gap // flex-direction: column if row-gap
+    gap: 1rem 2rem; // row gap, column gap
+    @include media-breakpoint-down(sm){
+        column-gap: 1.75rem;
+        // row-gap: 
+    }
+    a {
+        .fab, .fas, .fa-brands {
+            font-size: 3rem;
+            @include media-breakpoint-down(sm){
+                font-size: 2.5rem;
+            }
+            color: #43cece;
+            &:hover {
                 color: #2fb7b7;
-                }
-        }
-        &:last-child{
-            .fab, .fas{
-                margin-right: 0;
             }
         }
+    }
 }
 
 

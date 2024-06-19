@@ -1,13 +1,16 @@
-<h2>Our Network</h2>
+<section class="container network">
 
-{% assign networks = site.data.networks %} {% assign companies = site.companies
-%} {% assign members = site.members %}
+    <h2>Our Network</h2>
 
-<div class="s-container">
+    {% assign networks = site.data.networks %}
+    {% assign companies = site.companies %}
+    {% assign members = site.members %}
+
     <a href="{{ site.url }}/network">
         <div class="row">
-            {% for network in networks %} {% for company in companies %} {% if
-            company.i == network.i %}
+            {% for network in networks %}
+            {% for company in companies %}
+            {% if company.i == network.i %}
 
             <div class="col">
                 <!-- JC check what the current thing is doing -->
@@ -15,7 +18,10 @@
                 <img class="" src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="200" height=""/>
                 <!-- </a> -->
             </div>
-            {% endif %} {% endfor %} {% endfor %}
+            {% endif %}
+            {% endfor %} 
+            {% endfor %}
         </div>
     </a>
-</div>
+
+</section>

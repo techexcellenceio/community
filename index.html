@@ -3,58 +3,31 @@ layout: home
 title:
 ---
 
-<div class="container-lg vision">{% include home-vision.html %}</div>
+{% include home-vision.html %}
 
-<div class="d-flex justify-content-center align-items-center">
-    {% include home-conference.html %}
-</div>
+{% include home-conference.html %}
+    
+{% include home-speakers-current.html %}
 
-<div class="container-lg">
-    <article id="meetups" class="speakers">
-        {% include home-speakers-current.html %}
-    </article>
+{% include home-speakers-past.html %}
 
-    <article class="speakers">
-        {% include home-speakers-past.html %}
-    </article>
+{% include home-team.html %}
 
-    <article class="team">
-        {% include home-team.html %}
-    </article>
+{% include home-members.html %}
 
-    <article class="members">
-        {% include home-members.html %}
-    </article>
+{% include home-about.html %}
 
-    <article class="about">
-        {% include home-about.html %}
-    </article>
+{% include home-sponsors.html %}
 
-    <article class="sponsors">
-        {% include home-sponsors.html %}
-    </article>
+{% include home-partners.html %}
 
-    <article class="partners">
-        {% include home-partners.html %}
-    </article>
+{% include home-network.html %}
 
-    <article class="network">
-        {% include home-network.html %}
-    </article>
+{% include home-faq.html %}
 
-    <article class="faq">
-        {% include home-faq.html %}
-    </article>
+{% include home-speaker-signup.html %}
 
-    <article class="speakers">
-        {% include home-speaker-signup.html %}
-    </article>
+{% include home-code-of-conduct.html %}
 
-    <article class="faq">
-        {% include home-code-of-conduct.html %}
-    </article>
+{% include home-ideas.html %}
 
-    <article class="ideas">
-        {% include home-ideas.html %}
-    </article>
-</div>

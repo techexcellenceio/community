@@ -1,159 +1,205 @@
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+p, ul, ol {
+    margin-bottom: unset;
+}
 body {
-    // anchor link
-    article {
-        scroll-margin-top: 8rem;
-    }
-}
-
-.s-container {
-    &:first-of-type {
-        // margin-top: 1rem;
-        // @media (max-width: 575px){
-        // // @include media-breakpoint-down(xs) {
-        //     margin-top: 2rem;
-        // }
-    }
-    &:last-of-type {
-        // margin-bottom: 4rem;
-        // @media (max-width: 575px){
-        // // @include media-breakpoint-down(xs) {
-        //     margin-bottom: 4rem;
-        // }
-    }
-}
-
-.s-container {
-    align-items: center;
-    text-align: center;
-        @include media-breakpoint-up(sm) {
-            display: flex;
-            text-align: left;
-        }
-    .text-container {
-        margin-top: 0rem;
-        text-align: left;
-        color: #263c50;
-        font-size: 15px;
-        padding-left: 0;
-        padding-right: 0;
-        .p-date {
-            margin-bottom: .25rem !important;
-            font-weight: 600;
-            color: #24292e;
-            font-size: 16px;
-            margin-top: .4rem;
-        }
-        .p-title {
-            font-weight: 600;
-            font-size: 18px;
-        }
-        .p-speaker {
-            margin-bottom: .4rem;
-            margin-top: 0rem;
-        }
-        max-width: 500px;
-    }
-}
-
-.container-fixed-2 {
-    max-width: 800px;
-}
-
-.g-container {
-    text-align: left;
-    display: block;
-    &:last-of-type {
-        margin-bottom: 4rem;
-        @include media-breakpoint-down(sm){
-            margin-bottom: 4rem;
-        }
-    }
-}
-
-
-.img-c {
     display: flex;
-    justify-content: center;
-    margin-left: 0; // row
-    margin-right: 0; // row
-    @include media-breakpoint-up(sm){
-        max-width: 268px; //  2 people per row, multiple speakers
+    flex-direction: column;
+    min-height: 100vh;
+}
+main {
+    flex: 1;
+}
+section {
+    scroll-margin-top: 8rem; // anchor link
+}
+.container {
+    @media (min-width: 992px) {
+        // max-width: 960px;
     }
-    .col {
-        padding: 0;
-        max-width: 110px; // size of photo
+    @media (min-width: 1200px) {
+        // max-width: 1140px;
+        max-width: 988px;
+    }
+    @media (min-width: 1400px) {
+        // max-width: 1140px;
+        max-width: 988px;
     }
 }
 
-.profile-img {
-    margin-right: 1.5rem;
+.container-lg {
     margin-top: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    align-items: end;
-    &:nth-child(n+4) {
-        margin-top: 0rem;
-    }
-    @include media-breakpoint-up(sm){
-        &:nth-child(n+3) {
-            margin-top: 0rem;
-        }
-    }
-    @include media-breakpoint-down(sm){
-        margin-right: .75rem;
-        margin-left: .75rem;
-        margin-top: 4rem;
-        margin-bottom: 0rem;
-        justify-content: center;
-        align-items: center;
+    // margin-bottom: 2rem;
+    @include media-breakpoint-down(sm) {
+        margin-top: 1rem;
     }
 }
+.container, .container-lg {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    h2 {
+        margin-bottom: 3rem;
+    }
+    h3 {
+        margin-bottom: 1.5rem;
+    }
+    .row {
+        justify-content: center;
+        row-gap: 1rem;
+        .col, [class*="col-"] {
+            text-align: center;
+        }
+    }
+    .anastasia-container {
+        display: flex;
+        flex-direction: column;
+        row-gap: 4rem;
+    }
+    .anastasia-row {
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+        @include media-breakpoint-up(sm)
+        {
+            flex-direction: row;
+            align-items: center;
+            gap: 1.5rem;
+        }
+        .anastasia-img {
+            max-width: calc(110px + 110px + 1rem); // 2 speakers
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        .anastasia-text {
+            .p-date {
+                // margin-top: .4rem;
+                margin-bottom: .25rem;
+                font-weight: 600;
+                color: #24292e;
+                font-size: 16px;
+            }
+            .p-title {
+                font-weight: 600;
+                font-size: 18px;
+            }
+            .p-speaker {
+                color: #879093;
+                font-size: 15px;
+            }
+            .p-about {
+                max-width: 720px;
+                margin-bottom: 0;
+                color: #526980;
+                font-size: 15px;
+            }
+        }
+    }
+    .p-fixed {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.simple-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    .simple-row {
+        // 
+    }
+}
+
+.faq {
+    padding-bottom: 1rem;
+}
+
+// -----------------------------
 
 .network {
-    .s-container {
-        .row {
-            justify-content: center;
-            .col, [class*="col-"] {
-                text-align: center;
-                margin-bottom: 1rem;
-                padding-left: 15px;
-                padding-right: 15px;
-                max-width: 200px;
-                min-width: 200px;
-                margin-left: 0rem;
-                margin-right: 0rem;
-                margin-top: 1.5rem;
-            }
-            img {
-                min-width: 100%;
-                max-width: 100%;
-            }
+    .row {
+        justify-content: center;
+        // row-gap: 1rem;
+        gap: 3rem 0rem;
+        .col, [class*="col-"] {
+            max-width: 190px; // 200px
+            min-width: 190px; // 200px
+        }
+        img {
+            min-width: 100%;
+            max-width: 100%;
         }
     }
 }
 
-
-.markdown-body p, p {
-    margin-bottom: 0;
+#meetups, .speakers {
+    .anastasia-row {
+        @include media-breakpoint-down(sm) {
+            gap: 0;
+        }
+    }
 }
+
+.team, .members-pg {
+    @include media-breakpoint-down(sm) {
+        .anastasia-img {
+            margin-left: .75rem;
+        }
+    }
+}
+
+#meetups, .about, .sponsors, .partners, .speakers, .lineup {
+    .anastasia-img {
+        @include media-breakpoint-down(sm) {
+            flex-wrap: wrap;
+            margin-left: auto;
+            margin-right: auto;
+            justify-content: center;
+        }
+    }
+}
+
+.network-pg {
+    @include media-breakpoint-up(sm) {
+        .anastasia-container{
+            // row-gap: 3.5rem;
+            .anastasia-row {
+                gap: 2rem;
+             }
+        }
+    }
+    @include media-breakpoint-down(sm) {
+        .anastasia-container {
+            row-gap: 5rem;
+            .anastasia-row {
+                gap: 1rem;
+                .anastasia-img {
+                    margin-left: auto;
+                    margin-right: auto;
+                    justify-content: center;
+                }
+             }
+        }
+    }
+}
+
 
 // -----------------
 
-   
-.markdown-body img {
-    max-width: none;
-}
-
 a {
     color: #067799;
-    text-decoration: none !important;
     &:hover {
         color: #0999c5;
     }
 }
 
 
-a.gray-btn {
+.gray-btn {
     background-color: rgb(225, 235, 236);
     padding: .5rem 2rem;
     border-radius: 50pt;
@@ -162,6 +208,29 @@ a.gray-btn {
     }
     display: inline-block;
     margin-bottom: .5rem;
+}
+
+.s-btn-group {
+    display: flex;
+    gap: 1rem;
+    @include media-breakpoint-down(sm) {
+        text-align: center;
+        flex-direction: column;
+        gap: 1.5rem;
+        .s-btn {
+            display: block;
+        }
+    }
+}
+
+.s-btn {
+    background-color: rgb(216, 238, 241);
+    padding: .5rem 2rem;
+    border-radius: 50pt;
+    &:hover {
+        background-color: rgb(219, 249, 253);
+    }
+    display: inline-block;
 }
 
 button.conf-btn {
@@ -201,19 +270,9 @@ button.conf-btn-secondary {
         // border-color: rgba(21, 138, 146, 0.7)
       }
 }
-a:hover, a:active, a.active {
+a, a:hover, a:active, a.active {
     text-decoration: none;
 }
 
 
-.sponsors, .partners, .about {
-    .s-container .comp-img {
-        padding-right: 10px;
-        padding-top: 1rem;
-        margin-bottom: 1rem;
-        @include media-breakpoint-down(sm){
-            margin-bottom: 1.5rem;
-        }
-    }
-}
 
