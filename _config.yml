@@ -10,7 +10,7 @@ include: ['_pages']
 # theme: minima
 # theme: jekyll-theme-minimal
 
-gems:
+plugins:
   - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title

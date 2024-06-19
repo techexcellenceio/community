@@ -15,7 +15,7 @@ main {
     flex: 1;
 }
 section {
-    scroll-margin-top: 8rem; // anchor link
+    scroll-margin-top: 4rem; // anchor link
 }
 .container {
     @media (min-width: 992px) {
@@ -63,8 +63,7 @@ section {
         display: flex;
         flex-direction: column;
         gap: .5rem;
-        @include media-breakpoint-up(sm)
-        {
+        @include media-breakpoint-up(sm) {
             flex-direction: row;
             align-items: center;
             gap: 1.5rem;
@@ -74,6 +73,9 @@ section {
             display: flex;
             align-items: center;
             gap: 1rem;
+            @include media-breakpoint-up(sm) {
+                flex-wrap: wrap;
+            }
         }
         .anastasia-text {
             .p-date {
