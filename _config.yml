@@ -1,5 +1,5 @@
 name: TechExcellence
-title: null
+title: Tech Excellence
 description: Taking software development to the next level
 url: https://www.techexcellence.io
 # baseurl : /something
@@ -11,10 +11,11 @@ include: ['_pages']
 # theme: jekyll-theme-minimal
 
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
 
-permalink: /:year/:month/:day/:title
-# permalink: pretty
+# permalink: /:year/:month/:day/:title
+permalink: pretty
 
 # if collections not at root level
 collections_dir: content
@@ -49,6 +50,3 @@ sass:
   
 highlighter: rouge
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
