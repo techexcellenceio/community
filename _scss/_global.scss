@@ -235,43 +235,41 @@ a {
     display: inline-block;
 }
 
-button.conf-btn {
+.conf-btn {
     font-weight: 400;
     text-transform: uppercase;
     font-size: 1.5rem;
     background-color: #25b4bd;
-    color: white;
     border: 1px solid #25b4bd;
     padding: .75rem 2.5rem;
     border-radius: 6px;
+    margin: 0 .5rem;
     box-shadow: 1px 1px 6px rgba(24, 88, 97, 0.6);
+    color: white;
+    display: inline-block;
     &:hover, &:active, &.active {
       background-color: rgb(7, 216, 231);
       border-color: rgb(7, 216, 231);
+      color: white;
     }
-    margin: 0 .5rem;
     @include media-breakpoint-down(sm){
         width: calc(100% - 24px);
         margin-right: 12px;
         margin-left: 12px;
         margin-bottom: 2rem;
     }
-    a {
-        color: white;
-    }
 }
 
-button.conf-btn-secondary {
-    background-color: transparent;
-    color: white;
-    border: 2px solid rgba(21, 138, 146, 0.7);
-    box-shadow: none;
-    &:hover, &:active, &.active {
-        // JC - check if this is needed
-        // background-color: rgba(10, 107, 114, 0.7);
-        // border-color: rgba(21, 138, 146, 0.7)
-      }
-}
+// .conf-btn-secondary {
+//     background-color: transparent;
+//     color: white;
+//     border: 2px solid rgba(21, 138, 146, 0.7);
+//     box-shadow: none;
+//     &:hover, &:active, &.active {
+//         background-color: rgba(10, 107, 114, 0.7);
+//         border-color: rgba(21, 138, 146, 0.7)
+//       }
+// }
 a, a:hover, a:active, a.active {
     text-decoration: none;
 }
