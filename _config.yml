@@ -14,7 +14,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# permalink: /:year/:month/:day/:title
 permalink: pretty
 
 # if collections not at root level
