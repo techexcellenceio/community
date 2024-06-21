@@ -58,6 +58,7 @@ section {
         display: flex;
         flex-direction: column;
         row-gap: 4rem;
+        display: grid;
     }
     .anastasia-row {
         display: flex;
@@ -70,14 +71,18 @@ section {
         }
         .anastasia-img {
             max-width: calc(110px + 110px + 1rem); // 2 speakers
+            // max-width: 236px;
             display: flex;
             align-items: center;
             gap: 1rem;
             @include media-breakpoint-up(sm) {
                 flex-wrap: wrap;
             }
+            flex: 0 0 auto; // not grow if extra space available, not shrink
         }
         .anastasia-text {
+            flex: 1 1 auto; // grow if extra space available, shrink if necessary
+            display: inline-block;
             .p-date {
                 // margin-top: .4rem;
                 margin-bottom: .25rem;
@@ -118,8 +123,12 @@ section {
 }
 
 .faq {
-    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
 }
+
+
 
 // -----------------------------
 
@@ -273,6 +282,5 @@ a {
 a, a:hover, a:active, a.active {
     text-decoration: none;
 }
-
 
 
