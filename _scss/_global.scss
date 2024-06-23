@@ -269,6 +269,29 @@ a {
     }
 }
 
+.conf-btn-2 {
+    font-weight: 600;
+    font-size: 1.25rem;
+    border: 1px solid #25b4bd;
+    color: #25b4bd;
+    border-radius: 32px;
+    padding: .25rem 1.75rem;
+    margin-top: 2rem;
+    display: inline-block;
+    &:hover, &:active, &.active {
+        color: rgb(7, 216, 231);
+        border-color: rgb(7, 216, 231);
+    }
+    @include media-breakpoint-down(sm){
+        width: calc(100% - 24px);
+        margin-right: 12px;
+        margin-left: 12px;
+        margin-bottom: 2rem;
+        margin-top: 0rem;
+        padding: .5rem 1.75rem;
+    }
+}
+
 // .conf-btn-secondary {
 //     background-color: transparent;
 //     color: white;
