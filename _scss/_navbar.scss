@@ -40,8 +40,8 @@
 }
 
 .navbar-menu {
+    display: flex;
     gap: 2rem;
-    padding-top: 0.5rem;
     .navbar-link {
         font-size: 14px;
         text-decoration: none;
@@ -58,6 +58,7 @@
         margin-left: auto;
     }
     .navbar-menu {
+        padding-top: 0.5rem;
         display: none;
         flex-direction: column;
         width: 100%;

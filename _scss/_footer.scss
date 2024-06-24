@@ -1,12 +1,59 @@
 .footer {
     background-color: #05191a;
     color: white;
-    // a {
-    //   font-size: 14px;
-    //   &:hover, &:active, &.active {
-    //       color: #12dfef;
-    //   }
-    // }
     padding: 2rem 24px;
     margin-top: 1rem;
+    .footer-menu {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: .5rem;
+        .footer-link {
+            font-size: 14px;
+            text-decoration: none;
+            color: #fff;
+            &:hover, &:active, &.active {
+                color: #12dfef;
+            }
+        }
+    }
+    .copyright {
+        font-size: 14px;
+        color: #a7b0b9;
+        display: flex;
+        flex-wrap: wrap;
+        gap: .75rem;
+        a {
+            color: #a7b0b9;
+            &:hover, &:active, &.active {
+                color: #12e0ef86;
+            }
+        }
+    }
 }
+
+#privacyModal, #termsModal {
+    color: #34363e;
+    .modal-dialog {
+      max-width: 700px;
+    }
+    .modal-header {
+      border-bottom: 0;
+      padding-bottom: 0;
+      justify-content: space-between;
+      .close {
+        background-color: transparent;
+        border: none;
+      }
+    }
+    .modal-body {
+      padding-top: 0;
+      p {
+        line-height: 1.5 !important;
+        margin-bottom: .5rem;
+        font-size: .875rem;
+      }
+      h5 {
+        margin-top: 1rem;
+      }
+    }
+  }
