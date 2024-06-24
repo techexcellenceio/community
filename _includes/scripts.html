@@ -1,5 +1,61 @@
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
+<!-- Include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- Include Popper.js -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+<!-- Include Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+
+
+<!-- Toggle the navbar menu -->
+<script>
+    $(document).ready(function() {
+        $('#navbar-toggler').click(function() {
+            $('#navbarNavDropdown').toggleClass('show'); // Toggle 'show' class on navbar menu
+            $('#navbar-toggler').toggleClass('collapsed'); // Toggle 'collapsed' class on toggler button
+
+            // Toggle icon visibility based on menu state
+            if ($('#navbarNavDropdown').hasClass('show')) {
+                $('#navbar-toggler .navbar-toggler-icon').hide();
+                $('#navbar-toggler .close').show();
+            } else {
+                $('#navbar-toggler .navbar-toggler-icon').show();
+                $('#navbar-toggler .close').hide();
+            }
+        });
+
+        // Click event for the close (X) icon
+        $('#navbar-toggler .close').click(function() {
+            $('#navbar-toggler').addClass('collapsed');
+            $('#navbar-toggler .navbar-toggler-icon').show();
+            $('#navbar-toggler .close').hide();
+        });
+
+        // Active navbar link
+        var currentUrl = window.location.href;
+
+        $('.navbar-link').each(function() {
+            var linkUrl = $(this).attr('href');
+
+            // Normalize URLs for comparison
+            currentUrl = currentUrl.replace(/\/$/, ''); // Remove trailing slash
+            linkUrl = linkUrl.replace(/\/$/, ''); // Remove trailing slash
+
+            if (currentUrl === linkUrl) {
+                $(this).addClass('active');
+            }
+        });
+
+
+        // Close dropdown when going to href on the same page
+        $('.navbar-menu .navbar-link').on('click', function() {
+            $('#navbarNavDropdown').collapse('hide');
+        });
+
+    });
+</script>
+
+

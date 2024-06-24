@@ -118,6 +118,9 @@
                     border-radius: 50%;
                     border: 3px solid #58dbd578;
                     box-sizing: content-box;
+                    &:hover, &:active, &.active {
+                        border-color: #15e9deda;
+                    }
                 }
             }
             .anastasia-text {
@@ -137,9 +140,7 @@
                     a {
                         color: #2c2168;
                     }
-                    a:hover,
-                    a:active,
-                    a.active {
+                    a:hover, a:active, a.active {
                         color: #4d3bb3;
                     }
                 }

@@ -57,7 +57,7 @@
                 content: '';
                 position: absolute;
                 inset: 3px;
-                border: 2px solid rgb(0, 247, 234); // inner border
+                border: 2px solid rgb(58, 197, 190); // inner border
                 border-radius: 50%; 
                 box-sizing: border-box;
                 pointer-events: none;
@@ -66,6 +66,9 @@
                 color: white;
                 &:hover, &:active, &.active {
                     color: rgb(147, 243, 238);
+                    .img-container::before {
+                        border-color: rgb(1, 255, 242);
+                    }
                 }
             }
             .p-name {

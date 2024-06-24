@@ -1,65 +1,86 @@
 .navbar {
-  background-color: #05191a;
-  box-shadow: 0 2px 6px rgba(5, 25, 26, 0.5);
-  color: #fff;
-  padding: 0rem 1rem;
-  height: 102px;
-}
-
-.navbar-container {
-  padding: 0 24px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.navbar-brand {
-  color: #fff;
-  margin-right: 1.5rem;
+    background-color: #05191a;
+    box-shadow: 0 2px 6px rgba(5, 25, 26, 0.5);
+    color: #fff;
+    padding: 0rem 1rem;
+    height: 102px;
+    .navbar-container {
+        padding: 0 24px;
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+    .navbar-brand {
+        color: #fff;
+        margin-right: 1.5rem;
+    }
 }
 
 .navbar-toggler {
     display: none;
     font-size: 1.5rem;
     border: none;
-    color: #fff;
+    background-color: transparent;
+    color: #ccd4d5; // #909798
+    &:focus {
+        box-shadow: none !important;
+        // outline: 0;
+    }
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='%23ccd4d5' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+    width: 2.25rem; // default
+    height: 2.25rem;
+}
+
+.close {
+    font-weight: 300;
+    font-size: 2.75rem;
 }
 
 .navbar-menu {
-    display: flex;
-    gap: 1.25rem;
-    a {
+    gap: 2rem;
+    padding-top: 0.5rem;
+    .navbar-link {
         font-size: 14px;
+        text-decoration: none;
+        color: #fff;
         &:hover, &:active, &.active {
             color: #12dfef;
         }
     }
 }
 
-.navbar-link {
-    text-decoration: none;
-    color: #fff;
+@include media-breakpoint-down(sm) {
+    .navbar-toggler {
+        display: block;
+        margin-left: auto;
+    }
+    .navbar-menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        position: absolute;
+        top: 102px;
+        left: 0;
+        z-index: 1000;
+        background-color: #05191a;
+        height: 100vh;
+    }
+    .navbar-menu.show {
+        display: flex;
+    }
 }
 
-// JC check - i think this is for the mobile navbar on the right 3 lines
-// @include media-breakpoint-down (md) {
-//     .navbar-toggler {
-//         display: block;
-//         // JC - show on the right side
-//         margin-left: auto;
-//     }
+.navbar-toggler.collapsed .close {
+    display: none;
+}
 
-//     .navbar-menu {
-//         display: none;
-//         flex-direction: column;
-//         width: 100%;
-//     }
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+    display: none;
+}
 
-//     .navbar-menu.show {
-//         display: flex;
-//     }
-
-//     .navbar-link {
-//         padding: 0.5rem 1rem;
-//     }
-// }
+.navbar-toggler:not(.collapsed) .close {
+    display: inline;
+}
