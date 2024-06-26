@@ -18,7 +18,7 @@ Do you have any questions or ideas? Feel free to start a discussion on [Discussi
 Instructions for editing website content are described on the [CONTRIBUTING](https://github.com/techexcellenceio/community/blob/main/CONTRIBUTING.md) page.
 
 
-
+[![pages-build-deployment](https://github.com/techexcellenceio/community/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/techexcellenceio/community/actions/workflows/pages/pages-build-deployment)
 
 To run the application:
 ```
