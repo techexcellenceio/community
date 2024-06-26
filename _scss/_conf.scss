@@ -107,13 +107,13 @@
                 text-align: center;
             }
         }
-        .anastasia-row {
+        .an-row {
             @include media-breakpoint-down(sm) {
                 h2, h3 {
                     text-align: center;
                 }
             }
-            .anastasia-img {
+            .an-img {
                 img {
                     border-radius: 50%;
                     border: 3px solid #58dbd578;
@@ -123,7 +123,7 @@
                     }
                 }
             }
-            .anastasia-text {
+            .an-text {
                 .p-talk {
                     @include media-breakpoint-down(sm) {
                         max-width: 360px;

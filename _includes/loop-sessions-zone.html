@@ -1,18 +1,18 @@
-<div class="anastasia-container">
+<div class="an-container">
 
     {% for conferenceSpeaker in conferenceSpeakers %}
     {% for member in site.members %}
     {% if member.i == conferenceSpeaker.i %}
     {% if conferenceSpeaker.zone == sessionZone %}
 
-    <div class="anastasia-row">
-        <div class="anastasia-img">
+    <div class="an-row">
+        <div class="an-img">
             <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
                 <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
             </a>
         </div>
 
-        <div class="anastasia-text">
+        <div class="an-text">
             <p class="p-date">
                 <span class="material-symbols-outlined"> calendar_today </span>
                 {{ conferenceSpeaker.date }}

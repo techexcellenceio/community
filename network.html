@@ -5,7 +5,7 @@ title: Our Network
 
 <div class="container network-pg">
 
-    <div class="anastasia-container">
+    <div class="an-container">
 
     {% assign networks = site.data.networks %}
     {% assign companies = site.companies %}
@@ -36,16 +36,16 @@ title: Our Network
         {% endfor %}
 
 
-        <div class="anastasia-row">
+        <div class="an-row">
 
-            <div class="anastasia-img">
+            <div class="an-img">
                 <a href="{{ company.website }}" target="_blank" rel="noopener">
                     <!-- height="90" -->
                     <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="" />
                 </a>
             </div>
     
-            <div class="anastasia-text">
+            <div class="an-text">
                 <p class="p-date">
                     <a href="{{ company.website }}" target="_blank" rel="noopener">
                         {{ company.name }}

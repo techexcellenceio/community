@@ -2,7 +2,7 @@
 
     <h2>Our Partners</h2>
     
-    <div class="anastasia-container">
+    <div class="an-container">
 
     {% assign partners = site.data.partners %}
     {% assign companies = site.companies %}
@@ -10,15 +10,15 @@
     {% for partner in partners %}
         {% for company in companies %}
         {% if company.i == partner.i %}
-            <div class="anastasia-row">
+            <div class="an-row">
 
-                <div class="anastasia-img">
+                <div class="an-img">
                     <a href="{{ company.website }}" target="_blank" rel="noopener">
                         <img src="{{ site.url }}/assets/logo/{{ company.i }}.png" alt="{{ company.name }}" width="252" height="90" />
                     </a>
                 </div>
 
-                <div class="anastasia-text">
+                <div class="an-text">
                     <p class="p-date">
                         <a href="{{ company.website }}" target="_blank" rel="noopener">
                             {{ company.name }}

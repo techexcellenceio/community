@@ -54,13 +54,13 @@ section {
             text-align: center;
         }
     }
-    .anastasia-container {
+    .an-container {
         display: flex;
         flex-direction: column;
         row-gap: 4rem;
         display: grid;
     }
-    .anastasia-row {
+    .an-row {
         display: flex;
         flex-direction: column;
         gap: .5rem;
@@ -69,7 +69,7 @@ section {
             align-items: center;
             gap: 1.5rem;
         }
-        .anastasia-img {
+        .an-img {
             max-width: calc(110px + 110px + 1rem); // 2 speakers
             // max-width: 236px;
             display: flex;
@@ -80,7 +80,7 @@ section {
             }
             flex: 0 0 auto; // not grow if extra space available, not shrink
         }
-        .anastasia-text {
+        .an-text {
             flex: 1 1 auto; // grow if extra space available, shrink if necessary
             display: inline-block;
             .p-date {
@@ -149,7 +149,7 @@ section {
 }
 
 #meetups, .speakers {
-    .anastasia-row {
+    .an-row {
         @include media-breakpoint-down(sm) {
             gap: 0;
         }
@@ -158,14 +158,14 @@ section {
 
 .team, .members-pg {
     @include media-breakpoint-down(sm) {
-        .anastasia-img {
+        .an-img {
             margin-left: .75rem;
         }
     }
 }
 
 #meetups, .about, .sponsors, .partners, .speakers, .lineup {
-    .anastasia-img {
+    .an-img {
         @include media-breakpoint-down(sm) {
             flex-wrap: wrap;
             margin-left: auto;
@@ -177,19 +177,19 @@ section {
 
 .network-pg {
     @include media-breakpoint-up(sm) {
-        .anastasia-container{
+        .an-container{
             // row-gap: 3.5rem;
-            .anastasia-row {
+            .an-row {
                 gap: 2rem;
              }
         }
     }
     @include media-breakpoint-down(sm) {
-        .anastasia-container {
+        .an-container {
             row-gap: 5rem;
-            .anastasia-row {
+            .an-row {
                 gap: 1rem;
-                .anastasia-img {
+                .an-img {
                     margin-left: auto;
                     margin-right: auto;
                     justify-content: center;
@@ -250,6 +250,7 @@ a {
     font-size: 1.5rem;
     background-color: #25b4bd;
     border: 1px solid #25b4bd;
+    min-width: 240px;
     padding: .75rem 2.5rem;
     border-radius: 6px;
     margin: 0 .5rem;

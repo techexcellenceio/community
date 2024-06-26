@@ -16,21 +16,21 @@ title: Members
     </div>
 
 
-    <div class="anastasia-container">
+    <div class="an-container">
 
     {% for d-member in site.data.members.list %}
     {% for member in site.members%}
     {% if d-member.i == member.i %}
 
-        <div class="anastasia-row">
+        <div class="an-row">
 
-            <div class="anastasia-img">
+            <div class="an-img">
                 <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
                     <img src="{{ site.url }}/assets/img/{{ member.i }}.png" alt="{{ member.name }}" class="" width="100" height="100" />
                 </a>
             </div>
 
-            <div class="anastasia-text">
+            <div class="an-text">
 
                 <p class="m-name">{{ member.name }}</p>
                 <p class="m-title">{{ member.title }}</p>
