@@ -84,13 +84,13 @@
   speakers: tamas_bunth
   # MEETUP: https://www.meetup.com/techexcellence/events/301959167/
 
-- title: Tech Excellence Meetup
+- title: From EventStorming to TDD
   date: 7 Aug 2024
-  link: 
+  link: https://www.youtube.com/watch?v=sgALBB4DJgs
   speakers:     
     - oliver_zihler
     - alina_liburkina
-  # MEETUP: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/302389664/
 
 - title: How Domain-Driven Design scaled a Big Ball of Mud product
   date: 21 Aug 2024
