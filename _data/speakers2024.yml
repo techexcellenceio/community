@@ -54,12 +54,6 @@
   speakers: emily_bache
   # MEETUP: https://www.meetup.com/techexcellence/events/300488577/
 
-# - title: Tech Excellence Meetup
-#   date: 29 May 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
-
 - title: Clean Code with AI
   date: 12 Jun 2024
   link: https://www.youtube.com/watch?v=99GuXTIW0R4
@@ -97,18 +91,6 @@
   link: https://www.youtube.com/watch?v=Wg4kcB7_6QI
   speakers: kenny_baas_schwegler
   # MEETUP: https://www.meetup.com/techexcellence/events/302409741/
-
-# - title: Tech Excellence Meetup
-#   date: 4 Sep 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
-
-- title: Tech Excellence Meetup
-  date: 18 Sep 2024
-  link: 
-  speakers: irina_dominte
-  # MEETUP: 
 
 - title: Tech Excellence Meetup
   date: 2 Oct 2024
