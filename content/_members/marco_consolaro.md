@@ -12,7 +12,7 @@ specialities:
     - refactoring
 tech-stack: .NET, C#, Java, SQL
 
-linkedin: https://www.linkedin.com/in/consolaro/
+linkedin: https://www.linkedin.com/in/marco-consolaro/
 twitter: https://twitter.com/consolondon
 github: https://github.com/conso
 xing:
