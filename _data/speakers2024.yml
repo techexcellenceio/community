@@ -92,23 +92,17 @@
   speakers: kenny_baas_schwegler
   # MEETUP: https://www.meetup.com/techexcellence/events/302409741/
 
-- title: Tech Excellence Meetup
+- title: "Metal-In Test-Driven Development: A Dual-Target TDD Approach"
   date: 2 Oct 2024
-  link: 
+  link: https://www.youtube.com/watch?v=u0l-Qy0AnOk
   speakers: fran_climent
-  # MEETUP: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/303387200
 
-# - title: Tech Excellence Meetup
-#   date: 16 Oct 2024
-#   link: 
-#   speakers: 
-#   # MEETUP: 
-
-- title: Tech Excellence Meetup
+- title: "Clean Architecture: Crafting Flexible Software Systems"
   date: 30 Oct 2024
-  link: 
+  link: https://www.youtube.com/watch?v=aBlb6ULHkQ0
   speakers: olaf_thielke
-  # MEETUP: 
+  # MEETUP: https://www.meetup.com/techexcellence/events/303727223
 
 # - title: Tech Excellence Meetup
 #   date: 13 Nov 2024
