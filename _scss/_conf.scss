@@ -150,10 +150,13 @@
                     color: #9996b5;
                     font-weight: 400;
                 }
-                .p-talk {
+                .p-talk a {
                     font-size: 18px;
                     color: #2db3c5;
                     font-weight: 700;
+                    &:hover, &:active, &.active {
+                      color: #119aac;
+                  }
                 }
                 .p-date {
                     font-size: 13px;

@@ -7,7 +7,7 @@
 
     <div class="an-row">
         <div class="an-img">
-            <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
+            <a href="{{ conferenceSpeaker.link }}" target="_blank" rel="noopener">
                 <img src="{{ site.url }}/assets/img/{{ member.i }}.png?v=2" alt="{{ member.name }}" width="120" height="120" />
             </a>
         </div>
@@ -18,7 +18,11 @@
                 {{ conferenceSpeaker.date }}
             </p>
 
-            <p class="p-talk">{{ conferenceSpeaker.title }}</p>
+            <p class="p-talk">
+              <a href="{{ conferenceSpeaker.link }}" target="_blank" rel="noopener">
+                {{ conferenceSpeaker.title }}
+              </a>
+            </p>
             <p class="p-name">
                 <a href="{{ member.linkedin }}" target="_blank" rel="noopener">
                     {{ member.name }}

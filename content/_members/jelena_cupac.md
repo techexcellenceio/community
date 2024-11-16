@@ -2,9 +2,9 @@
 i: jelena_cupac
 
 name: Jelena Cupać
-title: UX/UI Digital Product Designer
-titleTE: UX/UI Designer @ Tech Excellence
-about: Digital Product Designer | Design thinking, user flows, wireframing & prototyping | Process Modelling
+title: Technical Illustrator
+titleTE: Technical Illustrator @ Tech Excellence
+about: Helping teams adopt TDD, Hexagonal Architecture and Clean Architecture across the world
 location: Belgrade, Serbia
 specialities:
     - TDD
@@ -19,8 +19,6 @@ website: https://optivem.com/
 youtube:
 podcast:
 medium:
-substack:
+substack: https://substack.com/@jelenacupac
 blog:
 ---
-
-website: https://senovim.com/

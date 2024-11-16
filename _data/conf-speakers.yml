@@ -4,7 +4,7 @@ list:
   date: 12-1pm EST
   zone: USA
   title: "TDD: Theme & Variations"
-  link:
+  link: https://www.youtube.com/watch?v=C5IH0ABmyc0
 
 - i: dave_farley
   date: 10-11am CET 
@@ -16,52 +16,52 @@ list:
   date: 1-2pm EST 
   zone: USA
   title: Hexagonal Architecture
-  link:
+  link: https://www.youtube.com/watch?v=k0ykTxw7s0Y
 
 - i: vlad_khononov
   date: 11-12pm CET 
   zone: Europe
   title: "Complexity and Modularity: Two Sides of the Same Coin"
-  link:
+  link: https://www.youtube.com/watch?v=GbmAZoETP68
 
 - i: susanne_kaiser
   date: 12-1pm CET 
   zone: Europe
   title: "Optimizing for a fast flow of value with Architecture for Flow"
-  link:
+  link: https://www.youtube.com/watch?v=cHYoL9DzROw
 
 - i: jimmy_bogard
   date: 2-3pm EST 
   zone: USA
   title: "Domain-Driven Refactoring"
-  link:
+  link: https://www.youtube.com/watch?v=0y9Plq8kADE
 
 - i: sonya_natanzon
   date: 3-4pm EST 
   zone: USA
   title: "So you think you might be an architect"
-  link:
+  link: https://www.youtube.com/watch?v=O7-k25xA9U4
 
 - i: marco_consolaro
   date: 1-2pm CET 
   zone: Europe
   title: "Test Doubles without Tears"
-  link:
+  link: https://www.youtube.com/watch?v=cok0L4r4z8Y
 
 - i: alessandro_di_gioia
   date: 1-2pm CET 
   zone: Europe
   title: "Test Doubles without Tears"
-  link:
+  link: https://www.youtube.com/watch?v=cok0L4r4z8Y
 
 - i: nick_tune
   date: 2-3pm CET 
   zone: Europe
   title: "Architecture Modernization: Aligning Software, Strategy, and Structure"
-  link:
+  link: https://www.youtube.com/watch?v=v0DS7kWx8Zk
 
 - i: laila_bougria
   date: 3-4pm CET 
   zone: Europe
   title: "Orchestration vs. Choreography: The good, the bad, and the trade-offs"
-  link:
+  link: https://www.youtube.com/watch?v=loTrersDovM
