@@ -1,0 +1,26 @@
+- title: Hexagonal Frontend Architecture
+  date: 12 Feb 2025
+  link: https://www.youtube.com/watch?v=FV6oRJRBJuA
+  speakers: 
+    - marco_emrich
+    - sophia_cook
+  # MEETUP: https://www.meetup.com/techexcellence/events/305905675
+
+- title: TDD
+  date: 12 Mar 2025
+  link: 
+  speakers: phil_nash
+  # MEETUP: 
+
+- title: Testing Hyperpyramid
+  date: 6 Mar 2024
+  link: 
+  speakers: david_denton
+  # MEETUP: 
+
+
+# - title: Tech Excellence Meetup
+#   date: 
+#   link: 
+#   speakers: 
+#   # MEETUP: 
