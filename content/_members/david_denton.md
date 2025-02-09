@@ -2,7 +2,7 @@
 i: david_denton
 
 name: David Denton
-title: CTO (Fractional) @ Deerly
+title: Founding Partner @ Clockwork
 about: Hands on Engineering Lead | Google Developer Expert | OSS Creator & Speaker | Specialising in continually delivered platforms & engineering excellence
 location: London Area, United Kingdom
 specialities:
@@ -15,7 +15,7 @@ tech-stack: Java, Node
 
 linkedin: https://www.linkedin.com/in/denton-david/
 twitter:
-github:
+github: https://github.com/daviddenton
 xing:
 website:
 youtube:
