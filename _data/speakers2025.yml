@@ -13,36 +13,36 @@
   # MEETUP: https://www.meetup.com/techexcellence/events/306461008
 
 - title: Testing Hyperpyramid
-  date: 6 Mar 2024
+  date: 6 Mar 2025
   link: https://www.youtube.com/watch?v=H2I96fuFuH0
   speakers: david_denton
   # MEETUP: https://www.meetup.com/techexcellence/events/306786967
 
 
+- title: Introduction to Sociotechnical Engineering
+  date: 14 May 2025
+  link: 
+  speakers: yevgen_nebesov
+  # MEETUP: 
+
+- title: AI-Assisted Development With Verification (AADV)
+  date: 11 June 2025
+  link: 
+  speakers: jeff_langr
+  # MEETUP: 
+
 # - title: Tech Excellence Meetup
-#   date: 
+#   date: 9 July 2025
 #   link: 
 #   speakers: 
 #   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 
-#   link: 
-#   speakers: 
-#   # MEETUP: 
 
-# - title: Tech Excellence Meetup
-#   date: 
-#   link: 
-#   speakers: 
-#   # MEETUP: 
-
-
-# - title: Tech Excellence Meetup
-#   date: 
-#   link: 
-#   speakers: 
-#   # MEETUP: 
+- title: Tech Excellence Meetup
+  date: 13 Aug 2025
+  link: 
+  speakers: igor_sosman
+  # MEETUP: 
 
 
 # - title: Tech Excellence Meetup
