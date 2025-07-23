@@ -18,7 +18,6 @@
   speakers: david_denton
   # MEETUP: https://www.meetup.com/techexcellence/events/306786967
 
-
 - title: Introduction to Sociotechnical Engineering
   date: 14 May 2025
   link: https://www.youtube.com/watch?v=Gfh31tN3uQw
@@ -38,9 +37,9 @@
 #   # MEETUP: 
 
 
-- title: Tech Excellence Meetup
-  date: 13 Aug 2025
-  link: 
+- title: "BDD + DDD: Aligning Business and Code (Igor Sosman)"
+  date: 6 Aug 2025
+  link: https://www.youtube.com/watch?v=Q-Beh1dYNlM
   speakers: igor_sosman
   # MEETUP: 
 
