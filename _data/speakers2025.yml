@@ -41,17 +41,23 @@
   date: 6 Aug 2025
   link: https://www.youtube.com/watch?v=Q-Beh1dYNlM
   speakers: igor_sosman
+  # MEETUP: https://www.meetup.com/techexcellence/events/310132400
+
+
+- title: Tech Excellence Meetup
+  date: 10 Sep 2025
+  link: 
+  speakers: daniel_raneland
   # MEETUP: 
 
+- title: Tech Excellence Meetup
+  date: 8 Oct 2025
+  link: 
+  speakers: mourjo_sen
+  # MEETUP: 
 
 # - title: Tech Excellence Meetup
-#   date: 
-#   link: 
-#   speakers: 
-#   # MEETUP: 
-
-# - title: Tech Excellence Meetup
-#   date: 
+#   date: 12 Nov 2025
 #   link: 
 #   speakers: 
 #   # MEETUP: 
