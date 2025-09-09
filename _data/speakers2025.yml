@@ -50,14 +50,23 @@
   speakers: daniel_raneland
   # MEETUP: https://www.meetup.com/techexcellence/events/310499092
 
-- title: Tech Excellence Meetup
+- title: "Property Based Testing: Avoid Accidental Quality"
   date: 8 Oct 2025
-  link: 
+  link: https://www.youtube.com/watch?v=8ONG4nJdNXg
   speakers: mourjo_sen
+  # MEETUP: https://www.meetup.com/techexcellence/events/310952945
+
+  
+- title: Tech Excellence Meetup
+  date: 12 Nov 2025
+  link: 
+  speakers: tim_ottinger
   # MEETUP: 
 
+
+
 # - title: Tech Excellence Meetup
-#   date: 12 Nov 2025
+#   date: 1 Feb 2026
 #   link: 
 #   speakers: 
 #   # MEETUP: 

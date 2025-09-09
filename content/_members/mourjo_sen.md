@@ -10,10 +10,10 @@ specialities:
 tech-stack: PHP, Java, C, C++, HTML, CSS
 
 linkedin: https://www.linkedin.com/in/mourjo/
-twitter:
-github:
+twitter: https://x.com/mourjo_sen
+github: https://github.com/mourjo
 xing:
-website:
+website: https://mourjo.me/
 youtube:
 podcast:
 medium:
