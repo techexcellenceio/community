@@ -20,15 +20,15 @@ specialities:
     - XP
 tech-stack: Java, .NET, NodeJS, Python, C/C++
 
-linkedin: https://www.linkedin.com/in/valentinacupac
-twitter: https://twitter.com/ValentinaCupac
-github: https://github.com/valentinacupac
-xing: https://www.xing.com/profile/Valentina_Cupac
+linkedin: https://www.linkedin.com/in/valentinajemuovic/
+twitter: https://x.com/valentinajemuov
+github: https://github.com/valentinajemuovic
+xing: https://www.xing.com/profile/Valentina_CupacJemuovic
 website: https://optivem.com/
-youtube: https://www.youtube.com/@valentinacupac
+youtube: https://www.youtube.com/@valentinajemuovic
 podcast:
 medium:
-substack:
+substack: https://journal.optivem.com/
 blog:
 ---
 
