@@ -14,8 +14,8 @@ specialities:
 tech-stack: C#, C++, Python
 
 linkedin: https://www.linkedin.com/in/agileotter/
-twitter:
-github:
+twitter: https://x.com/tottinge
+github: https://github.com/tottinge
 xing:
 website:
 youtube:
@@ -24,3 +24,5 @@ medium:
 substack:
 blog:
 ---
+
+Mastodon: https://mastodon.social/@tottinge@techhub.social
